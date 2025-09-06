@@ -17,6 +17,7 @@ on:
 jobs:
   update-rules:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # 防止任务无限运行
 
     steps:
       # 拉取仓库最新代码
@@ -25,38 +26,70 @@ jobs:
         with:
           fetch-depth: 0  # 获取所有历史记录，便于后续操作
 
-      # 更新广告过滤规则
-      - name: Update Rules
-        continue-on-error: true
+      # 缓存Python依赖（若有）
+      - name: Cache Python dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # 安装Python依赖（如果有需求文件）
+      - name: Install Python dependencies
+        if: -f './data/python/requirements.txt'
         run: |
+          python3 -m pip install --upgrade pip
+          pip3 install -r ./data/python/requirements.txt
+
+      # 更新广告过滤规则（增强错误处理和日志）
+      - name: Update Rules
+        id: update_rules
+        continue-on-error: true  # 允许失败但继续流程
+        run: |
+          echo "===== 开始更新规则 ====="
           # 确保脚本有执行权限
           chmod +x ./data/script/*.sh 2>/dev/null || true
           
-          # 如果存在更新脚本则执行
+          # 执行Bash更新脚本
           if [ -f "./data/script/update-rules.sh" ]; then
-            bash ./data/script/update-rules.sh
+            echo "执行规则更新脚本..."
+            bash -x ./data/script/update-rules.sh  # 输出详细执行日志
+            echo "规则脚本执行完毕，退出码: $?"
           else
-            echo "未找到更新脚本: ./data/script/update-rules.sh"
+            echo "警告: 未找到更新脚本 ./data/script/update-rules.sh"
+            exit 1
           fi
           
-          # 如果存在Python脚本则执行
+          # 执行Python补充脚本（如有）
           if [ -f "./data/script/update_rules.py" ]; then
-            python3 ./data/script/update_rules.py
+            echo "执行Python补充脚本..."
+            python3 -u ./data/script/update_rules.py  # 无缓冲输出日志
           fi
 
-      # 更新并整理 ReadMe
+      # 输出规则更新结果
+      - name: Show Update Result
+        run: |
+          if [ "${{ steps.update_rules.outcome }}" = "success" ]; then
+            echo "规则更新成功"
+          else
+            echo "规则更新过程中出现警告或错误（非致命）"
+          fi
+
+      # 更新并整理ReadMe
       - name: Update ReadMe
         run: |
-          # 如果存在README清理脚本则执行
+          echo "===== 开始更新README ====="
           if [ -f "./data/script/clean-readme.sh" ]; then
             bash ./data/script/clean-readme.sh
           else
-            echo "未找到README清理脚本: ./data/script/clean-readme.sh"
+            echo "警告: 未找到README清理脚本 ./data/script/clean-readme.sh"
           fi
 
-      # 提交并推送更改到仓库
+      # 提交并推送更改到仓库（仅当有变更时）
       - name: Commit and push changes
         run: |
+          echo "===== 检查并提交变更 ====="
           # 配置Git用户信息
           git config --global user.name "AutoUpdater[Bot]"
           git config --global user.email "916899380+autoupdater[bot]@users.noreply.github.com"
@@ -68,31 +101,42 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "没有检测到更改，无需提交"
           else
-            # 提交更改
+            # 提交更改（包含时间戳）
             git commit -m "自动更新: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-            
-            # 推送更改
+            echo "推送变更到仓库..."
             git push origin HEAD:${{ github.ref }}
           fi
 
-      # 清理旧的 workflow 运行记录，节省空间
+      # 清理临时文件目录（核心优化：确保tmp目录被删除）
+      - name: Cleanup temporary files
+        if: always()  # 无论前序步骤成功/失败都执行
+        run: |
+          echo "===== 开始清理临时文件 ====="
+          # 定义临时目录路径（与update-rules.sh中保持一致）
+          TMP_DIR="./tmp"
+          
+          # 强制删除临时目录及内容
+          if [ -d "$TMP_DIR" ]; then
+            echo "删除临时目录: $TMP_DIR"
+            rm -rf "$TMP_DIR"
+            echo "临时目录已删除"
+          else
+            echo "临时目录 $TMP_DIR 不存在，无需清理"
+          fi
+          
+          # 清理可能残留的临时规则文件
+          for file in tmp-rules.txt tmp-allow.txt; do
+            if [ -f "$file" ]; then
+              rm -f "$file"
+              echo "删除残留文件: $file"
+            fi
+          done
+
+      # 清理旧的workflow运行记录
       - name: Cleanup old workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 5  # 保留最近的5次运行记录
-          
-# 放在工作流的最后一步
-- name: 清理临时目录
-  if: always()  # 无论成功/失败都执行
-  run: |
-    # 明确指定临时目录路径
-    TMP_DIR="Ads/tmp"
-    if [ -d "$TMP_DIR" ]; then
-      echo "删除临时目录: $TMP_DIR"
-      rm -rf "$TMP_DIR"
-    else
-      echo "临时目录 $TMP_DIR 不存在，无需清理"
-    fi
+          retain_days: 0  # 不保留历史记录（可根据需求调整）
+          keep_minimum_runs: 5  # 最少保留最近5次运行记录
