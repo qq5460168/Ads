@@ -83,3 +83,16 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 5  # 保留最近的5次运行记录
+          
+# 放在工作流的最后一步
+- name: 清理临时目录
+  if: always()  # 无论成功/失败都执行
+  run: |
+    # 明确指定临时目录路径
+    TMP_DIR="Ads/tmp"
+    if [ -d "$TMP_DIR" ]; then
+      echo "删除临时目录: $TMP_DIR"
+      rm -rf "$TMP_DIR"
+    else
+      echo "临时目录 $TMP_DIR 不存在，无需清理"
+    fi
