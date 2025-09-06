@@ -120,6 +120,11 @@ python ../data/python/whitelist.py
 # 添加标题和日期
 python ../data/python/title.py
 
+# 最后添加清理步骤
+echo "清理临时目录: $TMP_DIR"
+rm -rf "$TMP_DIR"  # 强制删除，无需判断是否存在
+echo "临时目录已删除"
+
 wait
 echo "更新成功"
 
