@@ -1,4 +1,5 @@
 
+
 #!/bin/sh
 set -euo pipefail
 
@@ -115,14 +116,10 @@ echo "规则合并完成"
 # 调用 Python 脚本进一步处理重复规则、过滤规则和添加标题
 python ../data/python/rule.py
 python ../data/python/filter-dns.py
+python ../data/python/whitelist.py 
 
 # 添加标题和日期
 python ../data/python/title.py
-# 新增：清理临时文件夹
-cd ..  # 回到上级目录
-rm -rf ./tmp/  # 删除整个tmp文件夹及其内容
-echo "临时文件夹已清理"
-
 
 wait
 echo "更新成功"
