@@ -118,6 +118,11 @@ python ../data/python/filter-dns.py
 
 # 添加标题和日期
 python ../data/python/title.py
+# 新增：清理临时文件夹
+cd ..  # 回到上级目录
+rm -rf ./tmp/  # 删除整个tmp文件夹及其内容
+echo "临时文件夹已清理"
+
 
 wait
 echo "更新成功"
