@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-09-06 18:29:38（北京时间）
+! Version: 2025-09-07 13:15:19（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27432
+! Total count: 27433
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6572,24 +6572,24 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 localhost
-13.107.246.73                 vscode.dev
+13.107.246.40                 vscode.dev
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 140.82.112.18 github.community
-140.82.112.22                 central.github.com
-140.82.112.22                 education.github.com
+140.82.112.25                 alive.github.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 api.individual.githubcopilot.com
+140.82.113.21                 collector.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 collector.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 live.github.com
-140.82.113.26                 alive.github.com
 140.82.113.26 alive.github.com
 140.82.114.17                 github.community
+140.82.114.21                 api.individual.githubcopilot.com
+140.82.114.21                 central.github.com
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -6714,6 +6714,7 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
+3.5.12.77                     github-com.s3.amazonaws.com
 3.5.28.146 github-com.s3.amazonaws.com
 31.216.145.5 mega.nz
 35.181.164.242 community.oneplus.com
@@ -6731,18 +6732,17 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.32.33                  github-production-user-asset-6210df.s3.amazonaws.com
 52.216.54.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.56.97 github-cloud.s3.amazonaws.com
-52.217.174.81                 github-cloud.s3.amazonaws.com
-52.217.199.241                github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.60.153                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.44.156 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.75.172                 github-com.s3.amazonaws.com
+52.217.75.193                 github-cloud.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.73.28 image.tmdb.org
-54.231.235.25                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.172.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.204.105                github-production-release-asset-2e65be.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -9326,6 +9326,7 @@ baidu.com###searchTag
 baidu.com##.barea-ad
 baidu.com##.brand-entry
 baidu.com##.c-result.result[srcid='mkt_ad_space']
+baidu.com##.cos-rich-video-player-video
 baidu.com##.drag-wrap
 baidu.com##.ec-ad
 baidu.com##.ec-result-inner
@@ -9347,6 +9348,7 @@ baidu.com##div.ad-wrapper
 baidu.com##div[class$="-ecom-ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
+baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
 baifumeiba.com##DIV#ad
 baike.baidu.com###J-attention-wrapper
@@ -9474,7 +9476,6 @@ juejin.cn###juejin > div.view-container.container:first-child > main.container.m
 juejin.cn##.extension
 luoqiuzw.com##DIV[id^="a-loading-"]
 m.autohome.com.cn##section > ol
-m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 m.guancha.cn##.g_header.go-to-app
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
