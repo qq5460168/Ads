@@ -99,8 +99,6 @@ AdClose规则数量:
 
 </details>
 
-
-
 <h2 id="c">🚫 拦截效果</h2>
 
 [AdBlock Tester](https://adblock-tester.com)
@@ -119,6 +117,3 @@ AdClose规则数量:
 - 误杀的网站
 
 ## ⭐ 感谢支持
-
-
-
