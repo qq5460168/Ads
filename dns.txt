@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-09-24 14:29:17（北京时间）
+! Version: 2025-09-24 20:40:13（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17255
+! Total count: 17272
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-ad-sign.byteimg.com^
@@ -59,6 +59,7 @@
 ||*.eavztdi.com^
 ||*.evqvxuq.com^
 ||*.f1k4eil.xyz^
+||*.fenqile.com^
 ||*.fohbgjv.com^
 ||*.fokm37.cn^
 ||*.g9hc4.cn^
@@ -3717,6 +3718,7 @@
 ||brendanbc.com^
 ||brfgbn.xyz^
 ||brfvyrrp.com^
+||bridge.fenqile.com^
 ||bridgeoos.com^
 ||bridgetnbe.com^
 ||brizads.com^
@@ -4454,6 +4456,7 @@
 ||cm.jd.com^
 ||cm.kwad.com^
 ||cm.l.qq.com^
+||cm.m.fenqile.com^
 ||cm.mct01.com^
 ||cm.netseer.com^
 ||cm.p4p.cn.yahoo.com^
@@ -4632,6 +4635,7 @@
 ||corssdk.map.qq.com^
 ||cos.ho7k.com^
 ||cosoyoo.com^
+||coss-fit.fenqile.com^
 ||coss-shark-down.fenqile.com^
 ||couchcoaster.jp^
 ||count.atm.youku.com^
@@ -7263,6 +7267,7 @@
 ||hcbmq.cn^
 ||hccms.com.cn^
 ||hcdjy.xyz^
+||hcdnw120.vip.global.cdnhwctnm107.com^
 ||hchh.capmvb.net^
 ||hciea.xyz^
 ||hcl.baidu.com^
@@ -8282,6 +8287,8 @@
 ||j1u9nlr3k.cc^
 ||j3.jtezxmpb.xyz^
 ||j520s.gzcl999.cn^
+||j5z.cn.w.kunlunaq.com^
+||j5z.cn^
 ||j6xz0.com^
 ||j6zh4g0.cn^
 ||j7182.hfxcsl.cn^
@@ -8820,6 +8827,8 @@
 ||k2team.kyiv.ua^
 ||k31bpzf.xyz^
 ||k3bos.com^
+||k3l.cn.w.kunlunpi.com^
+||k3l.cn^
 ||k42kw.top^
 ||k5567.vip^
 ||k5ggua.xyz^
@@ -12244,6 +12253,8 @@
 ||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
+||ql7.cn.w.kunlunaq.com^
+||ql7.cn^
 ||qlisv.siemens6es7.com^
 ||qlmho.renhengshangmao.com^
 ||qloer.com^
@@ -13581,6 +13592,8 @@
 ||sqsh.3g.qq.com^
 ||sqtpks3.1391.com^
 ||squarespace.evyy.net^
+||sr0.cn.w.kunlunaq.com^
+||sr0.cn^
 ||srbzw.cn^
 ||src.duanxin520.com^
 ||src.leju.com^
@@ -13960,6 +13973,7 @@
 ||szhszxfw.cn^
 ||szipkp.com^
 ||szkdst.com^
+||szl-oa-other-default.gtm.fenqile.com^
 ||szlong.weixin.qq.com^
 ||szrk3.com^
 ||szshouzhai.com^
@@ -15271,6 +15285,8 @@
 ||vip.hyz86.com^
 ||vip.id528.com^
 ||vip.jindu179.com^
+||vip.k3l.cn.w.kunlunpi.com^
+||vip.k3l.cn^
 ||vip.mall044.com^
 ||vip.media8.cn^
 ||vip.pinghuhome.com^
@@ -17144,6 +17160,7 @@
 ||znsv.baidu.com^
 ||znyjmbh.icu^
 ||zo66.com^
+||zone-szl-moblie-app.gtm.fenqile.com^
 ||zonyff.xyz^
 ||zoomanalytics.co^
 ||zotcjeig.xyz^

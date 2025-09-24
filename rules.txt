@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-09-24 14:29:17（北京时间）
+! Version: 2025-09-24 20:40:13（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 26639
+! Total count: 26656
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6570,18 +6570,18 @@
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
+140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.21                 api.individual.githubcopilot.com
 140.82.112.22                 collector.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 alive.github.com
+140.82.112.26                 live.github.com
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 central.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
-140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.18                 github.community
-140.82.114.22                 education.github.com
-140.82.114.25                 alive.github.com
+140.82.114.21                 api.individual.githubcopilot.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6601,7 +6601,7 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.182.70.81                  github-com.s3.amazonaws.com
+16.182.67.225                 github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
@@ -6633,8 +6633,6 @@
 185.199.108.133               private-user-images.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
-185.199.109.153               github.io
-185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6648,6 +6646,8 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
+185.199.110.153               github.io
+185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
@@ -6697,7 +6697,7 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.30.167                    github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.17.187                    github-cloud.s3.amazonaws.com
 31.216.145.5 mega.nz
 35.181.164.242 community.oneplus.com
 35.181.220.27 community.oneplus.com
@@ -6715,13 +6715,13 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.25.188                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.205.209                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.227.217                github-cloud.s3.amazonaws.com
+52.216.32.33                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.82.140                 github-com.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.73.28 image.tmdb.org
+54.231.172.169                github-production-release-asset-2e65be.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -9073,6 +9073,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.eavztdi.com^
 ||*.evqvxuq.com^
 ||*.f1k4eil.xyz^
+||*.fenqile.com^
 ||*.fohbgjv.com^
 ||*.fokm37.cn^
 ||*.g9hc4.cn^
@@ -12820,6 +12821,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||brendanbc.com^
 ||brfgbn.xyz^
 ||brfvyrrp.com^
+||bridge.fenqile.com^
 ||bridgeoos.com^
 ||bridgetnbe.com^
 ||brizads.com^
@@ -13567,6 +13569,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cm.jd.com^
 ||cm.kwad.com^
 ||cm.l.qq.com^
+||cm.m.fenqile.com^
 ||cm.mct01.com^
 ||cm.netseer.com^
 ||cm.p4p.cn.yahoo.com^
@@ -13756,6 +13759,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||corssdk.map.qq.com^
 ||cos.ho7k.com^
 ||cosoyoo.com^
+||coss-fit.fenqile.com^
 ||coss-shark-down.fenqile.com^
 ||couchcoaster.jp^
 ||count.atm.youku.com^
@@ -16433,6 +16437,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hcbmq.cn^
 ||hccms.com.cn^
 ||hcdjy.xyz^
+||hcdnw120.vip.global.cdnhwctnm107.com^
 ||hchh.capmvb.net^
 ||hciea.xyz^
 ||hcl.baidu.com^
@@ -17481,6 +17486,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||j1u9nlr3k.cc^
 ||j3.jtezxmpb.xyz^
 ||j520s.gzcl999.cn^
+||j5z.cn.w.kunlunaq.com^
+||j5z.cn^
 ||j6xz0.com^
 ||j6zh4g0.cn^
 ||j7182.hfxcsl.cn^
@@ -18023,6 +18030,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||k2team.kyiv.ua^
 ||k31bpzf.xyz^
 ||k3bos.com^
+||k3l.cn.w.kunlunpi.com^
+||k3l.cn^
 ||k42kw.top^
 ||k5567.vip^
 ||k5ggua.xyz^
@@ -21527,6 +21536,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
+||ql7.cn.w.kunlunaq.com^
+||ql7.cn^
 ||qlisv.siemens6es7.com^
 ||qlmho.renhengshangmao.com^
 ||qloer.com^
@@ -22890,6 +22901,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sqsh.3g.qq.com^
 ||sqtpks3.1391.com^
 ||squarespace.evyy.net^
+||sr0.cn.w.kunlunaq.com^
+||sr0.cn^
 ||srbzw.cn^
 ||src.duanxin520.com^
 ||src.leju.com^
@@ -23273,6 +23286,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||szhszxfw.cn^
 ||szipkp.com^
 ||szkdst.com^
+||szl-oa-other-default.gtm.fenqile.com^
 ||szlong.weixin.qq.com^
 ||szrk3.com^
 ||szshouzhai.com^
@@ -24609,6 +24623,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vip.hyz86.com^
 ||vip.id528.com^
 ||vip.jindu179.com^
+||vip.k3l.cn.w.kunlunpi.com^
+||vip.k3l.cn^
 ||vip.mall044.com^
 ||vip.media8.cn^
 ||vip.pinghuhome.com^
@@ -26524,6 +26540,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||znyjmbh.icu^
 ||zo66.com^
 ||zokjds.com/js/xiao.js
+||zone-szl-moblie-app.gtm.fenqile.com^
 ||zonyff.xyz^
 ||zoomanalytics.co^
 ||zotcjeig.xyz^
