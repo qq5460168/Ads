@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-09-25 14:30:13（北京时间）
+! Version: 2025-09-25 20:41:15（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17272
+! Total count: 17277
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-ad-sign.byteimg.com^
@@ -4235,6 +4235,7 @@
 ||cee2.iteye.com^
 ||ceh.cehbh.com^
 ||ceiqox.com^
+||cekrfk.com^
 ||cerebral.typn.com^
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
@@ -5680,6 +5681,7 @@
 ||dwa.okwan.cn^
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
+||dwuupq.com^
 ||dwyngjb.icu^
 ||dwz.cn^
 ||dx1200.com^
@@ -11105,6 +11107,7 @@
 ||nysita.com^
 ||nyvgbt.xyz^
 ||nzezn.com^
+||nzl09251oa.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nztl.z74d.com^
@@ -12433,6 +12436,7 @@
 ||r.yhyunjin.com^
 ||r.youmi.net^
 ||r.zlongad.com^
+||r0l7cp.com^
 ||r1.ykimg.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
@@ -14593,6 +14597,7 @@
 ||tumblrprobes.cedexis.com^
 ||tumblrreports.cedexis.com^
 ||tumeite.cn^
+||tuobeng.net^
 ||tupan.cqdd.ltd^
 ||tupian888.*.bcebos.com^
 ||tuplzt.xyz^
