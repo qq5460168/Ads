@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-10 14:30:10（北京时间）
+! Version: 2025-10-10 20:40:30（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 26670
+! Total count: 26669
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6573,16 +6573,16 @@
 13.35.0.128 api.themoviedb.org
 140.82.112.18 github.community
 140.82.112.21                 api.individual.githubcopilot.com
-140.82.112.22                 central.github.com
 140.82.112.25 live.github.com
 140.82.113.18                 github.community
-140.82.113.21                 education.github.com
+140.82.113.21                 collector.github.com
 140.82.113.21 collector.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
 140.82.113.26                 alive.github.com
+140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.22                 collector.github.com
-140.82.114.26                 live.github.com
+140.82.114.22                 central.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6602,8 +6602,8 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.196.58                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.68.161                 github-com.s3.amazonaws.com
+16.15.202.212                 github-cloud.s3.amazonaws.com
+16.15.204.228                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
@@ -6635,6 +6635,8 @@
 185.199.108.133               private-user-images.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
+185.199.109.153               github.io
+185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6648,8 +6650,6 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
-185.199.110.153               github.io
-185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
@@ -6699,7 +6699,7 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.16.102                    github-cloud.s3.amazonaws.com
+3.5.3.174                     github-production-release-asset-2e65be.s3.amazonaws.com
 31.216.145.5 mega.nz
 35.181.164.242 community.oneplus.com
 35.181.220.27 community.oneplus.com
@@ -6717,12 +6717,12 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.217.132.65                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.49.156                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.134.137                github-com.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.73.28 image.tmdb.org
+54.231.231.9                  github-production-user-asset-6210df.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -8801,7 +8801,6 @@ juejin.cn###juejin > div.view-container.container:first-child > main.container.m
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(2)
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(3)
 juejin.cn##.extension
-loon Shadowrocket surge配置文件对立生成
 luoqiuzw.com##DIV[id^="a-loading-"]
 m.autohome.com.cn##section > ol
 m.guancha.cn##.g_header.go-to-app
