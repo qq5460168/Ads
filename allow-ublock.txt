@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-31 14:30:59（北京时间）
+! Version: 2025-10-31 20:41:50（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 1793
+! Total count: 1794
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-31 14:30:57（北京时间）
-# 总域名数: 1787
+# 生成时间: 2025-10-31 20:41:48（北京时间）
+# 总域名数: 1788
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -1500,6 +1500,7 @@ tbm-auth.alicdn.com
 tbs.imtt.qq.com
 tbsone.imtt.qq.com
 tcbox.baidu.com
+tcdn.qq.com
 tdid.m.qq.com
 teams.live.com
 test.nextdns.io
