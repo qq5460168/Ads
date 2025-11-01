@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-01 14:27:42（北京时间）
+! Version: 2025-11-01 20:36:53（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39376
+! Total count: 39391
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1704,7 +1704,6 @@
 0.0.0.0 bce-track-dsp.adwangmai.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 bce.bj.ad.track.66mobi.com
-0.0.0.0 bcelive.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bd-cdn.halomobi.com
 0.0.0.0 bd-livemate.pull.yximgs.com
@@ -2891,7 +2890,6 @@
 0.0.0.0 gi.getui.net
 0.0.0.0 gia.jd.com
 0.0.0.0 gia.jd.com  #礼品卡？也能打开啊
-0.0.0.0 gifshow.com
 0.0.0.0 gini.snssdk.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.mmstat.com
@@ -6522,7 +6520,6 @@
 0.0.0.0 yuntu.oceanengine.com
 0.0.0.0 ywtb.mps.gov.cn
 0.0.0.0 ywtbapi.mps.gov.cn
-0.0.0.0 yximgs.com
 0.0.0.0 yybadaccess.3g.qq.com
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 z-feiyu.oceanengine.com
@@ -6600,18 +6597,19 @@
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
-140.82.112.18                 github.community
 140.82.112.18 github.community
-140.82.112.21                 central.github.com
+140.82.112.22                 collector.github.com
+140.82.112.22                 education.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 alive.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 collector.github.com
-140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
 140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
+140.82.113.5                  api.github.com
+140.82.114.18                 github.community
 140.82.114.22                 api.individual.githubcopilot.com
+140.82.114.22                 central.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6631,8 +6629,8 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.187.250                 github-com.s3.amazonaws.com
-16.182.66.225                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.179.106                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.105.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6665,8 +6663,6 @@
 185.199.108.133               private-user-images.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
-185.199.109.153               github.io
-185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6680,6 +6676,8 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
+185.199.110.153               github.io
+185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
@@ -6707,7 +6705,6 @@
 20.205.243.165                codeload.github.com
 20.205.243.166                gist.github.com
 20.205.243.166                github.com
-20.205.243.168                api.github.com
 20.43.185.14 github.dev
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
@@ -6729,8 +6726,8 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.28.227                    github-production-user-asset-6210df.s3.amazonaws.com
-3.5.29.50                     github-cloud.s3.amazonaws.com
+3.5.0.210                     github-cloud.s3.amazonaws.com
+3.5.8.131                     github-com.s3.amazonaws.com
 31.216.145.5 mega.nz
 35.181.164.242 community.oneplus.com
 35.181.220.27 community.oneplus.com
@@ -6748,7 +6745,7 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.94.27                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.102.20                 github-production-user-asset-6210df.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -15415,6 +15412,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||apicdn.viglink.com^
 ||apicloud.mob.com^
 ||apicloud.zol.com.cn^
+||apidns-js.kwd.inkuai.com^
 ||apidns.kwd.inkuai.com^
 ||apidt.my91app.com^
 ||apidy.vaas.jiguang.cn^
@@ -19618,6 +19616,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dnl382.com^
 ||dnms.getui.com^
 ||dnrf0215.com^
+||dns.iqiyi.com^
 ||dns.jd.com^
 ||dns.jdbcdn.net^
 ||dns.m.sm.cn^
@@ -19629,6 +19628,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dns.weixin.qq.com.cn^
 ||dns.weixin.qq.com^
 ||dns1.os20231222.com^
+||dns2.q2cdn.com^
 ||dnstest.weixin.qq.com^
 ||dnvus.com^
 ||dnyzbp.cn^
@@ -19686,6 +19686,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dotcounter.douyutv.com^
 ||doting.shouji.360.cn^
 ||dotmore.com.tw^
+||dotser.douyucdn.cn^
 ||dotserver.douyucdn.cn^
 ||dou777.com^
 ||doubanio.top^
@@ -22586,6 +22587,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hd.jiedaibao.com^
 ||hd.mall.meizu.com^
 ||hd.mmstat.com^
+||hd.xiaojukeji.com^
 ||hd.xmy5g.cn^
 ||hd.ylddq.com^
 ||hd2.3g.qq.com^
@@ -23002,20 +23004,25 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||html5adkit.plusmo.s3.amazonaws.com^
 ||htqd.k8.com^
 ||htseca.top^
+||http.kwd.inkuai.com^
 ||http://vibeaconstr.onezapp.com:8080/analytics/upload^
 ||httpbin.org^
+||httpdns-ac.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns-sdk.n.netease.com^
+||httpdns-v6.gslb.yy.com^
 ||httpdns.alicdn.com^
 ||httpdns.baidu.com^
 ||httpdns.baidubce.com^
+||httpdns.bcelice.com^
 ||httpdns.bcelive.com^
 ||httpdns.bilivideo.com^
 ||httpdns.browser.miui.com^
 ||httpdns.bz.mgtv.com^
 ||httpdns.c.cdnhwc2.com^
+||httpdns.calorietech.com^
 ||httpdns.cctv.com^
 ||httpdns.danuoyi.tbcache.com^
 ||httpdns.gslb.yy.com^
@@ -23040,10 +23047,13 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||httpdns.yunxindns.com^
 ||httpdns.zybang.com^
 ||httpdns1.cc.cdnhwc5.com^
+||httpdnsmultiapi.meituan.com^
+||httpdnsmultiapivip.meituan.com^
 ||httpkafka.unityads.unity3d.com^
 ||httpring.qq.com^
 ||https-apple.com^
 ||httpsdns.baidu.com^
+||httpsdns.baidubce.com^
 ||httpsjs.com^
 ||htvixv.xyz^
 ||hu05.7790.com^
@@ -31228,6 +31238,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||resolve.umeng.com^
 ||resolver.gslb.mi-idc.com^
 ||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
 ||resource.baomihua.com^
 ||resource.f4c99ai.com^
 ||resource.jianli.com^
@@ -33979,6 +33990,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tenddata.com^
 ||tenekslu.com^
 ||tenkaso-ad.oss-cn-shenzhen.aliyuncs.com^
+||tens.p2p.tun.qq.com^
 ||tepusi888.cn^
 ||terms-drcn.platform.dbankcloud.cn^
 ||terms.alicdn.com^
@@ -35050,6 +35062,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ujnkn.com^
 ||ujoy.anythinktech.com^
 ||ujpi.154.com^
+||uk.sgrrz.cn^
 ||uk.sgrrz.cn^$important
 ||uk.umengcloud.com^
 ||uk3oi.adgze.cn^
@@ -35139,6 +35152,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||unilog.wostore.cn^
 ||unimhk.com^
 ||union-click.jd.com^
+||union-httpdns.gslb.yy.com^
 ||union-mlog.bigda.com^
 ||union-wifi.com^
 ||union.360.cn^
@@ -38756,6 +38770,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yy4480qpgyy.com^
 ||yy58ju.com^
 ||yy9vv.com^
+||yyapp-httpdns.gslb.yy.com^
 ||yyb.pc6.com^
 ||yybadaccess.3g.qq.com^
 ||yyc.10jqka.com.cn^

@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-01 14:27:42（北京时间）
+! Version: 2025-11-01 20:36:53（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 29890
+! Total count: 29908
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -6256,6 +6256,7 @@
 ||apicdn.viglink.com^
 ||apicloud.mob.com^
 ||apicloud.zol.com.cn^
+||apidns-js.kwd.inkuai.com^
 ||apidns.kwd.inkuai.com^
 ||apidt.my91app.com^
 ||apidy.vaas.jiguang.cn^
@@ -10396,6 +10397,7 @@
 ||dnl382.com^
 ||dnms.getui.com^
 ||dnrf0215.com^
+||dns.iqiyi.com^
 ||dns.jd.com^
 ||dns.jdbcdn.net^
 ||dns.m.sm.cn^
@@ -10407,6 +10409,7 @@
 ||dns.weixin.qq.com.cn^
 ||dns.weixin.qq.com^
 ||dns1.os20231222.com^
+||dns2.q2cdn.com^
 ||dnstest.weixin.qq.com^
 ||dnvus.com^
 ||dnyzbp.cn^
@@ -10463,6 +10466,7 @@
 ||dotcounter.douyutv.com^
 ||doting.shouji.360.cn^
 ||dotmore.com.tw^
+||dotser.douyucdn.cn^
 ||dotserver.douyucdn.cn^
 ||dou777.com^
 ||doubanio.top^
@@ -13330,6 +13334,7 @@
 ||hd.jiedaibao.com^
 ||hd.mall.meizu.com^
 ||hd.mmstat.com^
+||hd.xiaojukeji.com^
 ||hd.xmy5g.cn^
 ||hd.ylddq.com^
 ||hd2.3g.qq.com^
@@ -13738,20 +13743,25 @@
 ||html5adkit.plusmo.s3.amazonaws.com^
 ||htqd.k8.com^
 ||htseca.top^
+||http.kwd.inkuai.com^
 ||http://vibeaconstr.onezapp.com:8080/analytics/upload^
 ||httpbin.org^
+||httpdns-ac.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns-sdk.n.netease.com^
+||httpdns-v6.gslb.yy.com^
 ||httpdns.alicdn.com^
 ||httpdns.baidu.com^
 ||httpdns.baidubce.com^
+||httpdns.bcelice.com^
 ||httpdns.bcelive.com^
 ||httpdns.bilivideo.com^
 ||httpdns.browser.miui.com^
 ||httpdns.bz.mgtv.com^
 ||httpdns.c.cdnhwc2.com^
+||httpdns.calorietech.com^
 ||httpdns.cctv.com^
 ||httpdns.danuoyi.tbcache.com^
 ||httpdns.gslb.yy.com^
@@ -13776,10 +13786,13 @@
 ||httpdns.yunxindns.com^
 ||httpdns.zybang.com^
 ||httpdns1.cc.cdnhwc5.com^
+||httpdnsmultiapi.meituan.com^
+||httpdnsmultiapivip.meituan.com^
 ||httpkafka.unityads.unity3d.com^
 ||httpring.qq.com^
 ||https-apple.com^
 ||httpsdns.baidu.com^
+||httpsdns.baidubce.com^
 ||httpsjs.com^
 ||htvixv.xyz^
 ||hu05.7790.com^
@@ -21844,6 +21857,7 @@
 ||resolve.umeng.com^
 ||resolver.gslb.mi-idc.com^
 ||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
 ||resource.baomihua.com^
 ||resource.f4c99ai.com^
 ||resource.jianli.com^
@@ -24565,6 +24579,7 @@
 ||tenddata.com^
 ||tenekslu.com^
 ||tenkaso-ad.oss-cn-shenzhen.aliyuncs.com^
+||tens.p2p.tun.qq.com^
 ||tepusi888.cn^
 ||terms-drcn.platform.dbankcloud.cn^
 ||terms.alicdn.com^
@@ -25618,6 +25633,7 @@
 ||ujnkn.com^
 ||ujoy.anythinktech.com^
 ||ujpi.154.com^
+||uk.sgrrz.cn^
 ||uk.umengcloud.com^
 ||uk3oi.adgze.cn^
 ||uk529u0.cn^
@@ -25705,6 +25721,7 @@
 ||unilog.wostore.cn^
 ||unimhk.com^
 ||union-click.jd.com^
+||union-httpdns.gslb.yy.com^
 ||union-mlog.bigda.com^
 ||union-wifi.com^
 ||union.360.cn^
@@ -29282,6 +29299,7 @@
 ||yy4480qpgyy.com^
 ||yy58ju.com^
 ||yy9vv.com^
+||yyapp-httpdns.gslb.yy.com^
 ||yyb.pc6.com^
 ||yybadaccess.3g.qq.com^
 ||yyc.10jqka.com.cn^
