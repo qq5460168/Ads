@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-09 14:28:34（北京时间）
+! Version: 2025-11-09 20:37:16（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 1795
+! Total count: 1812
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-11-09 14:28:33（北京时间）
-# 总域名数: 1789
+# 生成时间: 2025-11-09 20:37:14（北京时间）
+# 总域名数: 1806
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -106,6 +106,7 @@ apd-pcdnwxstat.teg.tencent-cloud.net
 apd-ugcvlive.apdcdn.tc.qq.com
 apd-vlive.apdcdn.tc.qq.com
 api-album.quark.cn
+api-chat.soulapp.cn
 api-cmnt.wtzw.com
 api-cn.cdo.heytapmobi.com
 api-cn.store.heytapmobi.com
@@ -229,6 +230,7 @@ baixing.com
 bbs-static.miyoushe.com
 bbs.mobileapi.hupu.com
 bce.baidu.com
+bcelive.com
 bd1.zuimeitianqi.com
 bd2.zuimeitianqi.com
 beian.miit.gov.cn
@@ -617,6 +619,7 @@ game.qidian.com
 game.res.meizu.com
 game.weixin.qq.com
 gameimg.qidian.com
+games-community-gl.heytapmobile.com
 games.mobileapi.hupu.com
 gateway.kugou.com
 gcable.com.cn
@@ -736,6 +739,7 @@ image.9game.cn
 image.coolapk.com
 image.quark.cn
 image.uc.cn
+imagex.bytedanceapi.com
 imasdk.googleapis.com
 img.360kuai.com
 img.alicdn.com
@@ -774,6 +778,7 @@ imtt.dd.qq.com
 in.appcenter.ms
 increase-openapi.soulapp.cn
 inews.gtimg.com
+info.zb.qq.com
 info.zuimeitianqi.com
 ingest.sentry.io
 input.shouji.sogou.com
@@ -799,6 +804,7 @@ is-hl.snssdk.com
 is.snssdk.com
 is1-ssl.mzstatic.com
 isee.weishi.qq.com
+isite.baidu.com
 issuecdn.baidupcs.com
 isure.stream.qqmusic.qq.com
 item.taobao.com
@@ -814,6 +820,7 @@ jikipedia.com
 jimdo.com
 jingfen.jd.com
 jnn-pa.googleapis.com
+jomodns.com
 jr.jd.com
 js-gamezone.static.yximgs.com
 js.3conline.com
@@ -996,6 +1003,7 @@ midas.gtimg.cn
 migrate.driveapi.micloud.xiaomi.net
 mime.baidu.com
 mimg.127.net
+mini-game-gl.heytapmobile.com
 mini2015.qq.com
 minigame.zijieapi.com
 minigame5-normal-hl.zijieapi.com
@@ -1145,6 +1153,7 @@ p3-tt.byteimg.com
 p3-webcast-sign.douyinpic.com
 p3.dcarimg.com
 p3.douyinpic.com
+p4-ad.adukwai.com
 p5-auto-sign.dcarimg.com
 p5-auto.dcarimg.com
 p5-sign.douyinpic.com
@@ -1170,6 +1179,7 @@ p9-faceu-img-sign.byteimg.com
 p9-flow-imagex-sign.byteimg.com
 p9-heycan-hgt-sign.byteimg.com
 p9-novelfm-sign.novelfmpic.com
+p9-pc-sign.douyinpic.com
 p9-reading-sign.fqnovelpic.com
 p9-sign.douyinpic.com
 p9-sign.toutiaoimg.com
@@ -1195,6 +1205,7 @@ payapp.weixin.qq.com
 paydns.wechatpay.cn
 pbaccess.video.qq.com
 pbs.twimg.com
+pc-api.uc.cn
 pcvideoaliyun.titan.mgtv.com
 pda.jd.com
 pdc.micloud.xiaomi.net
@@ -1464,10 +1475,12 @@ storage.360buyimg.com
 storage.jd.com
 store.assistant.miui.com
 store.heytapimage.com
+store.is.autonavi.com
 store.meizu.com
 storedl1.nearme.com.cn
 studcat.infra.systems
 study.163.com
+su.uc.cn
 subscription.iqiyi.com
 sug.browser.miui.com
 sugar.zhihu.com
@@ -1629,6 +1642,7 @@ vps.uc.cn
 vv.video.qq.com
 w.pandora.xiaomi.com
 w1.kskwai.com
+w2.kskwai.com
 w8.com.cn
 waapdg.jd.com
 waimai-guide.ele.me
@@ -1642,7 +1656,9 @@ wb.amap.com
 wbapp.mobile.sina.cn
 we.tl
 web.vip.miui.com
+webapi.amap.com
 webcast-open.douyin.com
+webcast.amemv.com
 webtor.io
 webzjcaptcha.reg.163.com
 weidian.com
@@ -1725,6 +1741,7 @@ www.qdmm.com
 www.qidian.com
 www.recaptcha.net
 www.so.com
+www.sygjx.com
 www.taobao.com
 www.toutiao.com
 www.tudou.com
