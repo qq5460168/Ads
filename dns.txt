@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-13 14:31:58（北京时间）
+! Version: 2025-11-13 20:44:24（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 29911
+! Total count: 29921
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -5957,6 +5957,7 @@
 ||api.appodeal.com^
 ||api.apps.sina.cn^
 ||api.appsflyer.com^
+||api.aqyad.com^
 ||api.bailingjiankang.com^
 ||api.banyunjuhe.com^
 ||api.branch.io^
@@ -6132,6 +6133,7 @@
 ||api.sec.miui.com^
 ||api.segment.io^
 ||api.setting.intl.miui.com^
+||api.shanghailingye.cn^
 ||api.shanhutech.cn^
 ||api.share.baidu.com^
 ||api.share.mob.com^
@@ -6561,6 +6563,7 @@
 ||aquvg.com^
 ||aqvwn18102h.com^
 ||aqw.quanliyouxi.cn^
+||aqyad.com^
 ||ar.atwola.com^
 ||ar.umeng.com^
 ||ar1.atwola.com^
@@ -12239,6 +12242,7 @@
 ||g.dyi3h.id^
 ||g.f11w.com^
 ||g.f5gh.com^
+||g.fancyapi.com^
 ||g.gridsum.com^
 ||g.gtimg.cn^
 ||g.h1v3fa.com^
@@ -16341,6 +16345,7 @@
 ||l4efwdtg.icu^
 ||l4kqnr.ynu.icu^
 ||l5p4.nvpuse.com^
+||l6.fancyapi.com^
 ||l6o6.154.com^
 ||l6urqh27.sina.cn^
 ||l71.cn^
@@ -19689,6 +19694,7 @@
 ||open.youzanyun.com^
 ||openacs.m.taobao.com^
 ||openacs4uc.m.taobao.com^
+||openadapi.fancydsp.com^
 ||openapi-gy.getui.com^
 ||openapi-news.meizu.com^
 ||openapi-smsp.getui.com^
@@ -22822,6 +22828,7 @@
 ||sdk2api.getui.com^
 ||sdk3api.getui.com^
 ||sdkapi-smartop.jiguang.cn^
+||sdkapi.cloooud.com^
 ||sdkapi.ezjhy.com^
 ||sdkapi.sms.mob.com^
 ||sdkapp.mobile.sina.cn^
@@ -23693,6 +23700,7 @@
 ||ssp.86str.com^
 ||ssp.chaohutechan.com^
 ||ssp.cibn.starschina.com^
+||ssp.cloooud.com^
 ||ssp.daxueshengqiandai.com^
 ||ssp.dmpdsp.com^
 ||ssp.dzh.com.cn^
@@ -23946,6 +23954,7 @@
 ||staticadm.leju.sina.com.cn^
 ||staticali.wi-fi.cn^
 ||staticcdntx.xwtec.cn^
+||statichf.shihuocdn.cn^
 ||staticjs.cn^
 ||staticplat.cdn.bcebos.com^
 ||staticrxycdn.ugilaufgk50bfnlsb.com^
@@ -24361,6 +24370,7 @@
 ||t2.04703601.com^
 ||t2.58cdn.com.cn^
 ||t2.a.market.xiaomi.com^
+||t2.fancyapi.com^
 ||t2.jzkapp.com^
 ||t2.vbxx.net^
 ||t2.wshufa.com^

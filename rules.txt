@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-13 14:31:58（北京时间）
+! Version: 2025-11-13 20:44:24（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39418
+! Total count: 39428
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6599,18 +6599,18 @@
 13.35.0.128 api.themoviedb.org
 13.39.63.107 community.oneplus.com
 13.39.75.239 community.oneplus.com
-140.82.112.18                 github.community
 140.82.112.18 github.community
-140.82.112.21                 api.individual.githubcopilot.com
-140.82.112.25                 alive.github.com
+140.82.112.21                 central.github.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
+140.82.114.18                 github.community
+140.82.114.22                 api.individual.githubcopilot.com
 140.82.114.22                 collector.github.com
 140.82.114.22                 education.github.com
-140.82.114.25                 live.github.com
+140.82.114.26                 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6630,7 +6630,6 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.184.171                 github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6728,7 +6727,6 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.27.95                     github-production-user-asset-6210df.s3.amazonaws.com
 31.216.145.5 mega.nz
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -6744,14 +6742,16 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.51.185                 github-com.s3.amazonaws.com
-52.216.93.35                  github-cloud.s3.amazonaws.com
+52.216.216.73                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.205.145                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.232.153                github-com.s3.amazonaws.com
+52.217.67.124                 github-production-user-asset-6210df.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
-54.231.225.201                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.166.129                github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -15121,6 +15121,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.appodeal.com^
 ||api.apps.sina.cn^
 ||api.appsflyer.com^
+||api.aqyad.com^
 ||api.bailingjiankang.com^
 ||api.banyunjuhe.com^
 ||api.branch.io^
@@ -15296,6 +15297,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.sec.miui.com^
 ||api.segment.io^
 ||api.setting.intl.miui.com^
+||api.shanghailingye.cn^
 ||api.shanhutech.cn^
 ||api.share.baidu.com^
 ||api.share.mob.com^
@@ -15742,6 +15744,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aquvg.com^
 ||aqvwn18102h.com^
 ||aqw.quanliyouxi.cn^
+||aqyad.com^
 ||ar.atwola.com^
 ||ar.umeng.com^
 ||ar1.atwola.com^
@@ -21504,6 +21507,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||g.dyi3h.id^
 ||g.f11w.com^
 ||g.f5gh.com^
+||g.fancyapi.com^
 ||g.gridsum.com^
 ||g.gtimg.cn^
 ||g.h1v3fa.com^
@@ -25664,6 +25668,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||l4efwdtg.icu^
 ||l4kqnr.ynu.icu^
 ||l5p4.nvpuse.com^
+||l6.fancyapi.com^
 ||l6o6.154.com^
 ||l6urqh27.sina.cn^
 ||l71.cn^
@@ -29060,6 +29065,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||open.youzanyun.com^
 ||openacs.m.taobao.com^
 ||openacs4uc.m.taobao.com^
+||openadapi.fancydsp.com^
 ||openapi-gy.getui.com^
 ||openapi-news.meizu.com^
 ||openapi-smsp.getui.com^
@@ -32235,6 +32241,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk2api.getui.com^
 ||sdk3api.getui.com^
 ||sdkapi-smartop.jiguang.cn^
+||sdkapi.cloooud.com^
 ||sdkapi.ezjhy.com^
 ||sdkapi.sms.mob.com^
 ||sdkapp.mobile.sina.cn^
@@ -33122,6 +33129,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ssp.86str.com^
 ||ssp.chaohutechan.com^
 ||ssp.cibn.starschina.com^
+||ssp.cloooud.com^
 ||ssp.daxueshengqiandai.com^
 ||ssp.dmpdsp.com^
 ||ssp.dzh.com.cn^
@@ -33376,6 +33384,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||staticadm.leju.sina.com.cn^
 ||staticali.wi-fi.cn^
 ||staticcdntx.xwtec.cn^
+||statichf.shihuocdn.cn^
 ||staticjs.cn^
 ||staticplat.cdn.bcebos.com^
 ||staticrxycdn.ugilaufgk50bfnlsb.com^
@@ -33794,6 +33803,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t2.04703601.com^
 ||t2.58cdn.com.cn^
 ||t2.a.market.xiaomi.com^
+||t2.fancyapi.com^
 ||t2.jzkapp.com^
 ||t2.vbxx.net^
 ||t2.wshufa.com^
