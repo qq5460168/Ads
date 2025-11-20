@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-20 20:42:17（北京时间）
+! Version: 2025-11-21 02:30:59（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 1813
+! Total count: 1822
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-11-20 20:42:16（北京时间）
-# 总域名数: 1807
+# 生成时间: 2025-11-21 02:30:59（北京时间）
+# 总域名数: 1816
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -297,6 +297,7 @@ cdn.akamai.steamstatic.com
 cdn.ark.qq.com
 cdn.bootcdn.net
 cdn.cnbj1.fds.api.mi-img.com
+cdn.deepseek.com
 cdn.iocdn.cc
 cdn.jsdelivr.net
 cdn.pinduoduo.com
@@ -652,6 +653,7 @@ gstatic.com
 gtimg.wechatpay.cn
 guanjia.qq.com
 guid.tpns.tencent.com
+guide-acs.m.taobao.com
 gvt1.com
 gvt2.com
 gw-paopao.iqiyi.com
@@ -1453,6 +1455,7 @@ static.122.gov.cn
 static.360buyimg.com
 static.ali213.net
 static.biligame.com
+static.deepseek.com
 static.e.189.cn
 static.hdslb.com
 static.iask.cn
@@ -1544,6 +1547,7 @@ tracker.didistatic.com
 trade-acs.m.taobao.com
 train.17u.cn
 translator.qq.com
+trpc.qianbao.qq.com
 ts.market.mi-img.com
 tsis.jpush.cn
 ttwid.bytedance.com
@@ -1592,6 +1596,7 @@ url.163.com
 urswebzj.nosdn.127.net
 user1.game.qq.com
 uxip.meizu.com
+uzzf.com
 v.douyin.com
 v.gdt.qq.com
 v.miguvideo.com
@@ -1677,6 +1682,7 @@ wmapi-mt.meituan.com
 wmflabs.org
 wodenongtian.com
 woniu.com
+woocall.sina.com.cn
 work.weixin.qq.com
 world.qpic.cn
 worldwide.sogou.com
@@ -1727,6 +1733,7 @@ www.kanjiantu.com
 www.kdocs.cn
 www.lsds.cn
 www.maimemo.com
+www.mairuan.com
 www.manhuabei.com
 www.meituan.com
 www.meizu.com
@@ -1747,6 +1754,7 @@ www.taobao.com
 www.toutiao.com
 www.tudou.com
 www.twitter.com
+www.uzzf.com
 www.xiaohongshu.com
 www.ximalaya.com
 www.xvideos.com
@@ -1771,6 +1779,7 @@ wxsnsencsvp.wxs.qq.com
 x0.ifengimg.com
 x2.ifengimg.com
 x6img.com
+xbk.189.cn
 xhslink.com
 xiaoshuo.wtzw.com
 xifuquan.com

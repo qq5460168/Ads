@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-20 20:42:17（北京时间）
+! Version: 2025-11-21 02:30:59（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2436
+! Total count: 2437
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -527,7 +527,7 @@
 @@||cdn.ark.qq.com^$important
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^
-@@||cdn.deepseek.com^$important
+@@||cdn.deepseek.com^
 @@||cdn.iocdn.cc^
 @@||cdn.jsdelivr.net^
 @@||cdn.odc.officeapps.live.com^$important
@@ -986,7 +986,7 @@
 @@||gtimg.wechatpay.cn^
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
-@@||guide-acs.m.taobao.com^$important
+@@||guide-acs.m.taobao.com^
 @@||guzzoni.apple.com^$important
 @@||gvt1.com^
 @@||gvt2.com^
@@ -1987,7 +1987,7 @@
 @@||static.360buyimg.com^
 @@||static.ali213.net^
 @@||static.biligame.com^
-@@||static.deepseek.com^$important
+@@||static.deepseek.com^
 @@||static.e.189.cn^
 @@||static.hdslb.com^
 @@||static.iask.cn^
@@ -2107,7 +2107,7 @@
 @@||trade-acs.m.taobao.com^
 @@||train.17u.cn^
 @@||translator.qq.com^
-@@||trpc.qianbao.qq.com^$important
+@@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||tse1.mm.bing.net^$important
 @@||tsis.jpush.cn^
@@ -2164,7 +2164,7 @@
 @@||user1.game.qq.com^
 @@||ut-public-service-prod10.ol.epicgames.com^$important
 @@||uxip.meizu.com^
-@@||uzzf.com^$important
+@@||uzzf.com^
 @@||v*-dc-ad.ixigua.com^
 @@||v*-fq-tts.fqnovelvod.com^
 @@||v*.douyinvod.com^
@@ -2265,6 +2265,7 @@
 @@||wmflabs.org^
 @@||wodenongtian.com^
 @@||woniu.com^
+@@||woocall.sina.com.cn^
 @@||work.weixin.qq.com^
 @@||world.qpic.cn^
 @@||worldwide.sogou.com^
@@ -2332,7 +2333,7 @@
 @@||www.kdocs.cn^
 @@||www.lsds.cn^
 @@||www.maimemo.com^
-@@||www.mairuan.com^$important
+@@||www.mairuan.com^
 @@||www.manhuabei.com^
 @@||www.meituan.com^
 @@||www.meizu.com^
@@ -2359,7 +2360,7 @@
 @@||www.toutiao.com^
 @@||www.tudou.com^
 @@||www.twitter.com^
-@@||www.uzzf.com^$important
+@@||www.uzzf.com^
 @@||www.wandoujia.com^$important
 @@||www.xiaohongshu.com^
 @@||www.ximalaya.com^
@@ -2386,7 +2387,7 @@
 @@||x0.ifengimg.com^
 @@||x2.ifengimg.com^
 @@||x6img.com^
-@@||xbk.189.cn^$important
+@@||xbk.189.cn^
 @@||xhslink.com^
 @@||xiaoshuo.wtzw.com^
 @@||xifuquan.com^
