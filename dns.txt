@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-30 14:31:29（北京时间）
+! Version: 2025-11-30 20:39:13（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 30118
+! Total count: 30127
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -4403,6 +4403,7 @@
 ||ad.seeyouyima.com^
 ||ad.sensismediasmart.com.au^
 ||ad.services.distractify.com^
+||ad.shenshiads.com^
 ||ad.shunchangzhixing.com^
 ||ad.shuoshuomi.com^
 ||ad.sina.com.cn^
@@ -5241,6 +5242,7 @@
 ||aduu.cn^
 ||adv-adlog.variflight.com^
 ||adv-ads.variflight.com^
+||adv-api.shenshiads.com^
 ||adv-font-pt.4366.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
@@ -11399,6 +11401,7 @@
 ||enduser.adsrvr.org^
 ||enennsa.gushiwen.cn^
 ||engine.data.cnzz.com^
+||engine.dcad01.com^
 ||engine.kuailexuexiga.cn^
 ||engine.kuainiu000.com^
 ||engine.liandaomobi.com^
@@ -17039,6 +17042,7 @@
 ||log.he2d.com^
 ||log.hunantv.com^
 ||log.iflytek.com^
+||log.ireader.com^
 ||log.isnssdk.com^
 ||log.jd.com^
 ||log.kajicam.com^
@@ -17137,6 +17141,7 @@
 ||logpym201.luckystar001.top^
 ||logrcv.aiclk.com^
 ||logrcv.qquanquan.com^
+||logrcv.yunxish.com^
 ||logs-service.luobo.cn^
 ||logs.ads.vungle.com^
 ||logs.amap.com^
@@ -17674,6 +17679,7 @@
 ||m.sbenx.com^
 ||m.sbinx.com^
 ||m.sewxi.com^
+||m.shenshiads.com^
 ||m.shenyunkeji.com^
 ||m.shilian168.cn^
 ||m.sigmob.com^
@@ -22716,6 +22722,7 @@
 ||safebrowsing.apple^
 ||safebrowsing.g.applimg.com^
 ||safebrowsing.googleapis.com^
+||safebrowsing.urlsec.gg.com^
 ||safebrowsing.urlsec.qq.com^
 ||saferwet.com^
 ||sahqoo.com^
@@ -25189,6 +25196,7 @@
 ||trace.webank.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
+||tracelog-debug.yunxish.com^
 ||track-config.y5kfpt.com^
 ||track-dsp.adwangmai.com^
 ||track-east.mobileadtrading.com^
@@ -28424,6 +28432,7 @@
 ||xcvwrj.xyz^
 ||xcwl.tech^
 ||xcwzq.xyz^
+||xcx.dcad01.com^
 ||xcx.koolearn.com^
 ||xcy8.com^
 ||xcyjzs.net^
