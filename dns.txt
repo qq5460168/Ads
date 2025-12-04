@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-04 14:33:58（北京时间）
+! Version: 2025-12-04 20:47:33（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 30132
+! Total count: 30136
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -250,6 +250,7 @@
 ||*pangolin*toutiao*.com^
 ||*pglstatp-toutiao.com^
 ||*snscosdownload*^
+||*stun.kugou.com^
 ||*tianmu.mobi^
 ||*umeng.com^
 ||*unityads.unity3d.com^
@@ -21046,6 +21047,7 @@
 ||psma02.com^
 ||pss.alicdn.com^
 ||pss.bdstatic.com^
+||pstun.kugou.com^
 ||pstvvb.xyz^
 ||pt-my-api-ads0345-sdfk.siu5.com^
 ||pt.clickdata.37wan.com^
@@ -24223,11 +24225,13 @@
 ||study.tenclass.net.cn^
 ||studylabs.cn^
 ||stuff.cdn.biddingx.com^
+||stun.*.kugou.com^
 ||stun.ekiga.net^
 ||stun.fpapi.io^
 ||stun.hitv.com^
 ||stun.ideasip.com^
 ||stun.ionewu.com^
+||stun.kugou.com^
 ||stun.l.google.com^
 ||stun.rapidnet.de^
 ||stun.services.mozilla1.com^
