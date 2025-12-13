@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-13 20:40:31（北京时间）
+! Version: 2025-12-14 02:28:02（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 30136
+! Total count: 30131
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -6373,8 +6373,6 @@
 ||apm-log-upload-os.hoyoverse.com^
 ||apm-rum.inf.miui.com^
 ||apm-track.xiaohongshu.com^
-||apm.app.coc.10086.cn^
-||apm.clientaccess.10086.cn^
 ||apm.gotokeep.com^
 ||apm.hexin.cn^
 ||apm.suning.cn^
@@ -15386,7 +15384,6 @@
 ||jifen.cnzz.com^
 ||jifyelda.top^
 ||jiguang.cn^
-||jiguang.coc.10086.cn^
 ||jihehuaban.com.cn^
 ||jihehuaban.com^
 ||jihq.mm51-tbsg1542.cc^
@@ -21153,7 +21150,6 @@
 ||push.feng.com^
 ||push.gifshow.com^
 ||push.hexin.cn^
-||push.it.10086.cn^
 ||push.ksapisrv.com^
 ||push.m.youku.com^
 ||push.mob.com^
@@ -23383,7 +23379,6 @@
 ||show-s.mediav.com^
 ||show.3.mediav.com^
 ||show.aklm.cc^
-||show.bilibili.com^
 ||show.buzzcity.net^
 ||show.g.mediav.com^
 ||show.kc.taotaosou.com^
