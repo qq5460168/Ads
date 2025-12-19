@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-19 14:33:44（北京时间）
+! Version: 2025-12-19 20:43:35（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 30135
+! Total count: 30140
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -381,6 +381,7 @@
 ||09113585.com^
 ||092f.143.cc^
 ||093yuht.com^
+||094kk.com^
 ||096iokj.com^
 ||09_19.supfree.net^
 ||09jsufg.com^
@@ -11874,6 +11875,7 @@
 ||febr.8890.com^
 ||feconf.zhuanzhuan.com^
 ||federatedlearning.voiceads.cn^
+||fedoq.com^
 ||feed-image.baidu.com^
 ||feed-oss.oneway.mobi^
 ||feed.baidu.com^
@@ -15464,6 +15466,7 @@
 ||jmk.nndzsw2.com^
 ||jml.adongyu.com^
 ||jmonitor.jiuzhilan.com^
+||jmosl.com^
 ||jmp-inner.tradplusad.com^
 ||jmr.nnxiant.cn^
 ||jmsyzj.com^
@@ -19447,6 +19450,7 @@
 ||ns3.hii-go.com^
 ||ns3.viglink.com^
 ||ns4.viglink.com^
+||nsb42.com^
 ||nsclick.baidu.com^
 ||nsclickvideo.baidu.com^
 ||nshvhfw.cn^
@@ -29308,6 +29312,7 @@
 ||yoc-ttsb.oss-cn-hangzhou.aliyuncs.com^
 ||yoda.kwd.inkuai.com^
 ||yofprpv.cn^
+||yohle.com^
 ||yongkang6.com^
 ||yongv.com^
 ||yonmewon.com^
