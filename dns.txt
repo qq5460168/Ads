@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-01-28 20:53:34（北京时间）
+! Version: 2026-01-29 02:39:33（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 29902
+! Total count: 29908
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com*^
@@ -15405,6 +15405,7 @@
 ||jojog.com^
 ||jokerlulm.com^
 ||jollytestpartying.com^
+||jomodns.cn^
 ||jomoxc.com^
 ||jomwihn.cn^
 ||joopt.gppxp.com^
@@ -17942,6 +17943,7 @@
 ||mc777.cn^
 ||mcc.inf.miui.com^
 ||mcd-mkt-prod31-lb.campaign.adobe.com^
+||mcdn.bilivideo.cn^
 ||mcdn.kandian.qq.com^
 ||mcdn.tk.cn^
 ||mcdn.yangkeduo.com^
@@ -19620,6 +19622,7 @@
 ||onesoft.im^
 ||onetad.com^
 ||onetag-sys.com^
+||onethingpcs.com^
 ||onewhee.com^
 ||oneyearonechange.com^
 ||onglinhhhh.nmgdfwl.com.w.kunlunpi.com^
@@ -20054,6 +20057,7 @@
 ||p2d8.8890.com^
 ||p2kfynrr.icu^
 ||p2no.143.cc^
+||p2p.huya.com^
 ||p2pchunk-table.douyucdn.cn^
 ||p2plive-ali.douyucdn.cn^
 ||p2pmid.baofeng.com^
@@ -24031,6 +24035,7 @@
 ||studylabs.cn^
 ||stuff.cdn.biddingx.com^
 ||stun.*.kugou.com^
+||stun.douyucdn.cn^
 ||stun.ekiga.net^
 ||stun.fpapi.io^
 ||stun.hitv.com^
@@ -24045,6 +24050,7 @@
 ||stun.voipwise.com^
 ||stun.voipzoom.com^
 ||stun.voxgratia.org^
+||stun1.douyucdn.cn^
 ||stunserver.stunprotocol.org^
 ||stunthedge.com^
 ||stx79.com^
