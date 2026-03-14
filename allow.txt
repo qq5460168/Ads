@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-14 14:50:14（北京时间）
+! Version: 2026-03-14 20:54:54（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3328
+! Total count: 3318
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-cf.xvideos-cdn.com^
@@ -315,7 +315,6 @@
 @@||api-album.quark.cn^
 @@||api-album.quark.cn^$important
 @@||api-chat.soulapp.cn^
-@@||api-chat.soulapp.cn^$important
 @@||api-cmnt.wtzw.com^
 @@||api-cn.cdo.heytapmobi.com^
 @@||api-cn.store.heytapmobi.com^
@@ -1285,7 +1284,6 @@
 @@||h5offline.zhuanzhuan.com^
 @@||h5offline.zhuanzhuan.com^$important
 @@||h5static.cc.163.com^
-@@||h5vv6.video.qq.com^
 @@||hanime1.me^
 @@||haohuo.snssdk.com^
 @@||haoka.lot-ml.com^
@@ -1471,7 +1469,6 @@
 @@||indivi-cdn.shouji.sogou.com^$important
 @@||inews.gtimg.com^
 @@||info.zb.qq.com^
-@@||info.zb.qq.com^$important
 @@||info.zuimeitianqi.com^
 @@||informationprotection.hosting.portal.azure.net^$important
 @@||ingest.sentry.io^
@@ -1512,7 +1509,6 @@
 @@||isee.weishi.qq.com^
 @@||iservice.10010.com^
 @@||isite.baidu.com^
-@@||isite.baidu.com^$important
 @@||isrg.trustid.ocsp.identrust.com^$important
 @@||issuecdn.baidupcs.com^
 @@||issuecdn.baidupcs.com^$important
@@ -2148,7 +2144,6 @@
 @@||p3.dcarimg.com^
 @@||p3.douyinpic.com^
 @@||p4-ad.adukwai.com^
-@@||p4-ad.adukwai.com^$important
 @@||p5-auto-sign.dcarimg.com^
 @@||p5-auto.dcarimg.com^
 @@||p5-sign.douyinpic.com^
@@ -2232,7 +2227,6 @@
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
-@@||pic1.zhimg.com^
 @@||pic1.zhuanstatic.com^
 @@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
@@ -2247,10 +2241,8 @@
 @@||pic640.weishi.qq.com^
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
-@@||pica.zhimg.com^
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
-@@||picx.zhimg.com^
 @@||pifa.pinduoduo.com^
 @@||pingfore.qq.com^
 @@||pinghot.qq.com^
@@ -2989,7 +2981,6 @@
 @@||w1.kskwai.com^
 @@||w1.kskwai.com^$important
 @@||w2.kskwai.com^
-@@||w2.kskwai.com^$important
 @@||w8.com.cn^
 @@||waapdg.jd.com^
 @@||waimai-guide.ele.me^
@@ -3252,7 +3243,6 @@
 @@||wx3.sinaimg.cn^
 @@||wx4.sinaimg.cn^
 @@||wxapp.lvyadx.cn^
-@@||wxapp.tc.qq.com^
 @@||wxapp.tc.qq.com^$important
 @@||wxaurl.cn^
 @@||wxmini-api.uyouqu.com^

@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-14 14:50:14（北京时间）
+! Version: 2026-03-14 20:54:54（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2668
+! Total count: 2663
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-03-14 14:50:14（北京时间）
-# 总域名数: 2662
+# 生成时间: 2026-03-14 20:54:53（北京时间）
+# 总域名数: 2657
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -920,7 +920,6 @@ h5api.m.tmall.com
 h5fs.coloros.com
 h5offline.zhuanzhuan.com
 h5static.cc.163.com
-h5vv6.video.qq.com
 hanime1.me
 haohuo.snssdk.com
 haoka.lot-ml.com
@@ -1727,7 +1726,6 @@ pic.iask.com.cn
 pic.imgdb.cn
 pic.mairuan.com
 pic.rmb.bdstatic.com
-pic1.zhimg.com
 pic1.zhuanstatic.com
 pic2.58cdn.com.cn
 pic2.zhimg.com
@@ -1742,10 +1740,8 @@ pic6.zhuanstatic.com
 pic640.weishi.qq.com
 pic7.iqiyipic.com
 pic8.58cdn.com.cn
-pica.zhimg.com
 picasso-static.xiaohongshu.com
 pics.hentai.name
-picx.zhimg.com
 pifa.pinduoduo.com
 pingfore.qq.com
 pinghot.qq.com
@@ -2600,7 +2596,6 @@ wx2.sinaimg.cn
 wx3.sinaimg.cn
 wx4.sinaimg.cn
 wxapp.lvyadx.cn
-wxapp.tc.qq.com
 wxaurl.cn
 wxmini-api.uyouqu.com
 wxpay.qpic.cn
