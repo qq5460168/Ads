@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-22 20:54:43（北京时间）
+! Version: 2026-03-23 02:39:11（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 30352
+! Total count: 30370
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6624,17 +6624,19 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.21                 api.individual.githubcopilot.com
-140.82.112.22                 central.github.com
+140.82.112.21                 collector.github.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
+140.82.112.3                  gist.github.com
+140.82.112.3                  github.com
+140.82.113.18                 github.community
+140.82.113.21                 education.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 collector.github.com
+140.82.113.22                 api.individual.githubcopilot.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 education.github.com
-140.82.114.25                 live.github.com
+140.82.114.21                 central.github.com
 140.82.114.26                 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -6655,8 +6657,8 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.183.9                   github-cloud.s3.amazonaws.com
-16.15.201.78                  github-com.s3.amazonaws.com
+16.15.217.255                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.236.102                 github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6672,26 +6674,26 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-185.199.109.133               cloud.githubusercontent.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
-185.199.109.133               github.map.fastly.net
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
-185.199.109.133               private-user-images.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
-185.199.109.153               github.io
-185.199.109.153               githubstatus.com
+185.199.108.153               github.io
+185.199.108.153               githubstatus.com
 185.199.109.154               github.githubassets.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+185.199.110.133               cloud.githubusercontent.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.110.133               github.map.fastly.net
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
+185.199.110.133               private-user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6729,8 +6731,6 @@
 20.200.245.247 gist.github.com
 20.200.245.247 github.com
 20.205.243.165                codeload.github.com
-20.205.243.166                gist.github.com
-20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
 208.80.154.224 zh.wikipedia.org
@@ -6755,6 +6755,7 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
+3.5.30.217                    github-com.s3.amazonaws.com
 31.216.145.5 mega.nz
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -6770,14 +6771,13 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.217.116.105                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.230.137                github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.41.193                 github-cloud.s3.amazonaws.com
+52.217.139.185                github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
-54.231.233.41                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -6936,6 +6936,7 @@
 @@||access1.tpns.tencent.com^
 @@||account.agiso.com^
 @@||account.dianping.com^
+@@||account.huawei.com^$important
 @@||account.oppo.com^
 @@||account.realme.com^
 @@||account.vivo.com^
@@ -7137,6 +7138,7 @@
 @@||appdl-2-drcn.dbankcdn.com^
 @@||appdownload.alicdn.com^
 @@||appgallery.hicloud.com^
+@@||appgallery.huawei.com^$important
 @@||appgoad.189.cn^
 @@||appimg-drcn.dbankcdn.com^
 @@||appimg.dbankcdn.com^
@@ -7167,6 +7169,7 @@
 @@||assets.oneweb.mercedes-benz.com^
 @@||assets.sb-cd.com^
 @@||assets.youlai.cn^
+@@||assistant.huawei.com^$important
 @@||at.umeng.com^
 @@||audid-api-sg.taobao.com^
 @@||audid-api.taobao.com^
@@ -7192,6 +7195,7 @@
 @@||b.bdstatic.com^
 @@||b3log.org^
 @@||b3logfile.com^
+@@||backup.huawei.com^$important
 @@||bad.news^
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
@@ -7240,6 +7244,7 @@
 @@||broccoli.uc.cn^
 @@||browser.360.cn^
 @@||browser.events.data.msn.com^
+@@||browser.huawei.com^$important
 @@||browser.pipe.aria.microsoft.com^
 @@||bs-origin.pull.yximgs.com^
 @@||btrace.qq.com^
@@ -7403,6 +7408,7 @@
 @@||clips4sale.com^
 @@||cloud.heytap.com^
 @@||cloud.huawei.com^
+@@||cloud.huawei.com^$important
 @@||cloud.oneplus.com^
 @@||cloud.oppo.com^
 @@||cloud.realme.com^
@@ -7577,6 +7583,7 @@
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.hdslb.com^
 @@||dl.hicloud.com^
+@@||dl.hicloud.com^$important
 @@||dl.listary.net^
 @@||dl.reg.163.com^
 @@||dldir1.qq.com^
@@ -7635,6 +7642,7 @@
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
 @@||drive.huawei.com^
+@@||drive.huawei.com^$important
 @@||drive.quark.cn^
 @@||drive.uc.cn^
 @@||ds.163.com^
@@ -7907,6 +7915,8 @@
 @@||hctn.nv7s.com^
 @@||hdzog.ahcdn.com^
 @@||hdzog.com^
+@@||health.huawei.com^$important
+@@||healthkit.huawei.com^$important
 @@||hectorstatic.baidu.com^
 @@||help.twitter.com^
 @@||help.x.com^
@@ -8083,6 +8093,7 @@
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.crashsight.qq.com^
+@@||iot.huawei.com^$important
 @@||ip*.ahcdn.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -8512,6 +8523,7 @@
 @@||msync-im1-vip6-std.easemob.com^
 @@||mumu.163.com^
 @@||music.163.com^
+@@||music.huawei.com^$important
 @@||mv6.music.tc.qq.com^
 @@||mvconf.f.360.cn^
 @@||mvod.itunes.apple.com^
@@ -8772,6 +8784,7 @@
 @@||patchwiki.biligame.com^
 @@||pay.bilibili.com^
 @@||pay.heytap.com^
+@@||pay.huawei.com^$important
 @@||pay.openspeech.cn^
 @@||pay.oppo.com^
 @@||pay.realme.com^
@@ -8940,6 +8953,7 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^
 @@||r5---sn-4g5ednsl.googlevideo.com^
 @@||rdelivery.qq.com^
+@@||read.huawei.com^$important
 @@||reader.browser.miui.com^
 @@||reading.snssdk.com^
 @@||readstatic.zhulang.com^
@@ -9392,6 +9406,7 @@
 @@||update.360safe.com^
 @@||update.coloros.com^
 @@||update.hicloud.com^
+@@||update.hicloud.com^$important
 @@||update.oppo.com^
 @@||update.realme.com^
 @@||update.tv.xiaomi.com^
@@ -9418,6 +9433,7 @@
 @@||url.163.com^
 @@||urswebzj.nosdn.127.net^
 @@||user.e.189.cn^
+@@||user.huawei.com^$important
 @@||user.realme.com^
 @@||user1.game.qq.com^
 @@||uxip.meizu.com^
@@ -9487,6 +9503,7 @@
 @@||via.placeholder.com^
 @@||video.da.mgtv.com^
 @@||video.goofish.com^
+@@||video.huawei.com^$important
 @@||video.kts.g.mi.com^
 @@||video.twimg.com^
 @@||video.zhihu.com^
@@ -9539,6 +9556,7 @@
 @@||wbapp.mobile.sina.cn^
 @@||wbox.sinaimg.cn^
 @@||we.tl^
+@@||wear.huawei.com^$important
 @@||weatherapi.market.xiaomi.com^
 @@||web.vip.miui.com^
 @@||webapi.amap.com^
