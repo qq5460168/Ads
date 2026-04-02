@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-02 15:14:47（北京时间）
+! Version: 2026-04-02 21:16:52（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3008
+! Total count: 3062
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-04-02 15:14:47（北京时间）
-# 总域名数: 3002
+# 生成时间: 2026-04-02 21:16:51（北京时间）
+# 总域名数: 3056
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -73,6 +73,7 @@ abtest.mistat.xiaomi.com
 abtest3-misc-lf.zijieapi.com
 abtestvm.bytedance.com
 ac.dun.163yun.com
+ac.opapp.cn
 access1.tpns.tencent.com
 account.agiso.com
 account.dianping.com
@@ -91,6 +92,7 @@ accounts.google.com
 accscdn.m.taobao.com
 accscdn4public.m.taobao.com
 acg02.cc
+acs-m.koubei.com
 acs.m.taobao.com
 acs.youku.com
 acs4baichuan.m.taobao.com
@@ -115,6 +117,7 @@ adash-emas.cn-hangzhou.aliyuncs.com
 adidasapp.api.adidas.com.cn
 adnmb3.com
 ads.privacy.qq.com
+adtrack.xiaojukeji.com
 adv.ccb.com
 adv.sec.miui.com
 aegis.qq.com
@@ -212,6 +215,7 @@ api.kuaishouzt.com
 api.kumiao.com
 api.kwaizt.com
 api.live.bilibili.com
+api.look.163.com
 api.m.jd.com
 api.map.baidu.com
 api.meituan.com
@@ -328,6 +332,8 @@ audio-cdn.shuqireader.com
 audiopay.pcdn.xmcdn.com
 audiopaydl.pcdn.xmcdn.com
 auditude.com
+auni.telecome.cn
+auni.unioncom.cc
 auth.huaweicloud.com
 auth.icloud.com
 auth.realme.com
@@ -425,6 +431,7 @@ cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com
 calendars.icloud.com
 callback.58.com
 campus.163.com
+capi.jingjianx.vip
 captcha-gray.zt.kuaishou.com
 captcha.zt.kuaishou.com
 captive.apple.com
@@ -439,6 +446,7 @@ cbu01.alicdn.com
 cc.163.com
 cc.map.qq.com
 cc3001.dmm.co.jp
+ccc-x.jd.com
 ccportrait.yuewen.com
 cd001.www.duba.net
 cdi.ofiii.com
@@ -566,6 +574,7 @@ cloud.realme.com
 cloud.video.taobao.com
 cloudcache.tencent-cloud.cn
 cloudcontrol.live.360.cn
+clouddrive-activity.uc.cn
 cloudflare-dns.com
 cloudpush.aliyuncs.com
 cm-h.phncdn.com
@@ -584,6 +593,8 @@ cn.ultraiso.net
 cn.uptodown.com
 cnbj1.fds.api.xiaomi.com
 cnlogin.cainiao.com
+cnlogs.umeng.com
+cnlogs.umengcloud.com
 cnnic.net.cn
 code.bdstatic.com
 collect.hupu.com
@@ -613,6 +624,7 @@ console.huaweicloud.com
 consumerapp-1251779293.image.myqcloud.com
 contacts.icloud.com
 content-autofill.googleapis.com
+content-open.douyin.com
 contentcenter-vali-drcn.dbankcdn.com
 coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com
 coop.voicecloud.cn
@@ -659,6 +671,7 @@ csi.gstatic.com
 css.tv.itc.cn
 cstaticdun-v6.126.net
 cstaticdun.126.net
+cstore.koubei.com
 ctldl.windowsupdate.com
 ctrip.com
 cube.meituan.com
@@ -731,6 +744,7 @@ dldir1.qq.com
 dldir1v6.qq.com
 dldir3.qq.com
 dlna.mi.com
+dlswbr.baidu.com
 dm.toutiao.com
 dm.video.qq.com
 dm1.phncdn.com
@@ -852,6 +866,7 @@ ereg.adobe.com
 ereg.wip3.adobe.com
 erp.jd.com
 err.taobao.com
+errnewlog.umeng.com
 etl-xlmc-ssl.sandai.net
 ev-h.phncdn.com
 events.data.microsoft.com
@@ -881,6 +896,7 @@ fanqienovel.com
 fanyi.baidu.com
 fastcdn.hoyoverse.com
 fastconn-api.iot.360.cn
+fc.kejiweixun.com
 fc3tn.baidu.com
 fc5tn.baidu.com
 fcbox.cfcom
@@ -907,6 +923,7 @@ file.xiaomi.com
 file.xmpush.xiaomi.com
 file2.speedtest.cn
 files.icloud.com
+fin-ingress-ele.aliyuncs.com
 find.api.micloud.xiaomi.net
 finderpdd.video.qq.com
 findphone.vivo.com.cn
@@ -1108,6 +1125,7 @@ huichuan.sm.cn
 huluxia.com
 hwinfo1.zuimeitianqi.com
 i.dell.com
+i.fotao9.com
 i.gtimg.cn
 i.ibb.co
 i.imgur.com
@@ -1136,12 +1154,14 @@ ib11.go2yd.com
 ic.snssdk.com
 ichnaea-web.netflix.com
 icws.jb51.net
+id-card.yun.cn
 id.163.com
 id.heytap.com
 id.mail.wo.cn
 id.mi.com
 id.oneplus.com
 id.realme.com
+id.uc.cn
 id1.cloud.huawei.com
 id6.me
 idmb.register.xmpush.global.xiaomi.com
@@ -1272,11 +1292,13 @@ its.map.baidu.com
 itunes.apple.com
 iv-h.phncdn.com
 iwx.mail.qq.com
+iyfbodn.com
 j.gamersky.com
 javfinder.ai
 jhk-cdn-mampic.hismarttv.com
 jia.360.cn
 jianghu.163.com
+jiaoyimao.com
 jiathis.com
 jiazhang.gm.163.com
 jiazhang.qq.com
@@ -1318,6 +1340,7 @@ kemono.party
 kf-ui.cdn-go.cn
 kjimg10.360buyimg.com
 knet.cn
+knicks.jd.com
 knowsex.net
 konachan.com
 kubernetes.io
@@ -1546,6 +1569,7 @@ mbdl.update.netease.com
 mbdp02.bdstatic.com
 mc.163.com
 mca.cmpay.com
+mcc.inf.miui.com
 mcc1684939218000.lgecqrb.com
 mcc1684939331000.lgecqrb.com
 mcdn.bilivideo.cn
@@ -1643,6 +1667,7 @@ mparticle.uc.cn
 mpay-web.g.mkey.163.com
 mpsapi.amap.com
 mpush-api.aliyun.com
+mrn.meituan.net
 ms.bdimg.com
 ms.bdstatic.com
 ms.jr.jd.com
@@ -1667,6 +1692,7 @@ mssdk3-normal-lf.zijieapi.com
 msync-im1-vip6-std.easemob.com
 mumu.163.com
 music.163.com
+music.apple.com
 music.huawei.com
 mv6.music.tc.qq.com
 mvconf.f.360.cn
@@ -1790,6 +1816,7 @@ openmobile.qq.com
 oppo.yidianzixun.com
 orange-dc.alibaba.com
 orbit.jd.com
+order.sm.cn
 osp.meituan.net
 oss-asq-static.11222.cn
 oss.b3logfile.com
@@ -2019,6 +2046,7 @@ privatehomeclips.com
 pro.bugly.qq.com
 pro.m.jd.com
 prod-chat-kimi-tos.moonshot.cn
+prod-chat-kimi.tos-cn-beijing.volces.com
 profile-avatar.csdnimg.cn
 profile.csdnimg.cn
 proxy-tf-all-ws.bilivideo.com
@@ -2034,6 +2062,7 @@ publish-pic-cpu.baidu.com
 pubmsg.meituan.com
 puds.ucweb.com
 pull-m1.wxlivecdn.com
+pull.yximgs.com
 pull2.91cloud.net
 puser.funshion.com
 push.apple.com
@@ -2052,6 +2081,7 @@ push1.91cloud.net
 puui.qpic.cn
 pv.sohu.com
 pvip.funshion.com
+px.ucweb.com
 px.wpk.quark.cn
 py.qlogo.cn
 py2.qlogo.cn
@@ -2116,6 +2146,7 @@ release.liuyun.io
 reminders.icloud.com
 render-prod-backup-tile.amap.com
 render.amap.com
+report.dingtalk.com
 report.passport.360.cn
 report.taptapdada.com
 res-r.qingjiaota.com
@@ -2136,10 +2167,12 @@ res.qiyukf.net
 res.vmallres.com
 resfile.lixincsb.com
 resmedi.lixincsb.com
+resolve.umeng.com
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resource.realme.com
 restapi.amap.com
+retcode.taobao.com
 richmedia.video.qq.com
 rls.tapimg.com
 rom.realme.com
@@ -2166,6 +2199,7 @@ s1.meituan.net
 s1.voicecloud.cn
 s1.zhuanstatic.com
 s2.hdslb.com
+s2.kskwai.com
 s2.ssl.qhres2.com
 s3-us-east-1.ossfiles.com
 s3.ap-southeast-1.qiniucs.com
@@ -2193,6 +2227,7 @@ saomiao.51240.com
 saomiao.bmcx.com
 saucenao.com
 saveu.zijieapi.com
+saveu5-normal-lq.zijieapi.com
 sax.sina.com.cn
 sbanh.com
 sbfast.com
@@ -2220,6 +2255,7 @@ sec-cdn.static.xiaomi.net
 sec.heytap.com
 sec.oppo.com
 sec.resource.xiaomi.net
+second-floor-pro.pf.jd.com
 secrets.icloud.com
 securemetrics.apple.com
 security.realme.com
@@ -2252,7 +2288,9 @@ shmmsns.qpic.cn
 short.weixin.qq.com
 shouji.360.cn
 shouji.bmcx.com
+shouji.sogou.com
 shouji.sougou.com
+shuzilm.cn
 simg.sinajs.cn
 similarweb.com
 sina.com.cn
@@ -2265,6 +2303,7 @@ sky.vip.youku.com
 sl.hpplay.cn
 sm.cn
 smart.360.cn
+smartcard.apps.coloros.com
 smarthome-drcn.dbankcdn.com
 smartrobot-drcn.dbankcdn.com
 smsks1.cmpassport.com
@@ -2339,6 +2378,7 @@ static.biligame.com
 static.clewm.net
 static.deepseek.com
 static.e.189.cn
+static.fengkongcloud.com
 static.gitbook.com
 static.hdslb.com
 static.iask.cn
@@ -2481,7 +2521,9 @@ tn.txxx.tube
 tnc11-bjlgy.zijieapi.com
 tnc16-platform-useast1a.tiktokv.com
 tnc3-aliec2.snssdk.com
+tnc3-alisc1.snssdk.com
 tnc3-bjlgy.zijieapi.com
+toblog.ctobsnssdk.com
 tom.163.com
 tongji.flash.cn
 tool.lu
@@ -2542,6 +2584,7 @@ u1.img.mobile.sina.cn
 uc-titans-cn-01.heytapimage.com
 uc-titans-cn.heytapimage.com
 uc.ucweb.com
+ucus.ucweb.com
 ucweb.com
 uczzd.cn
 udpolimenew.baidu.com
@@ -2588,12 +2631,14 @@ uploadstatic.mihoyo.com
 uri6.com
 url.163.com
 urswebzj.nosdn.127.net
+user-auth-server.uc.cn
 user.e.189.cn
 user.huawei.com
 user.realme.com
 user1.game.qq.com
 uxip.meizu.com
 uzzf.com
+v.110route.cn
 v.douyin.com
 v.gdt.qq.com
 v.miguvideo.com
@@ -2711,6 +2756,7 @@ wbapp.mobile.sina.cn
 wbox.sinaimg.cn
 we.tl
 wear.huawei.com
+weather-api-cn.allawntech.com
 weatherapi.market.xiaomi.com
 web.vip.miui.com
 webapi.amap.com
@@ -2832,6 +2878,7 @@ www.hoyoverse.com
 www.huaweicloud.com
 www.ibook.info
 www.icloud.com
+www.iconfont.cn
 www.ijinshan.com
 www.internetdownloadmanager.com
 www.ip138.com
@@ -2914,6 +2961,7 @@ www.xiachufang.com
 www.xiaohongshu.com
 www.xiaomiyoupin.com
 www.ximalaya.com
+www.xn--sss604efuw.com
 www.xnxx.com
 www.xunlei.com
 www.xvideos.com
@@ -2955,10 +3003,14 @@ xifuquan.com
 xj-n-tax.gov.cn
 xlivesex.com
 xmpush.xiaomi.com
+xn--4gqu8tcnnope.com
 xn--cp3a08l.com
+xn--ehqx7tcnnope.com
 xn--l6qx3l9s1a.com
 xn--mes358aby2apfg.com
 xn--ngstr-lra8j.com
+xn--osvr71goa.com
+xn--vhq3x51dn9bivas49nfps.com
 xp.apple.com
 xqn.163.com
 xvideos.com
@@ -2980,6 +3032,7 @@ ykimg.com
 ykstatic.youku.com
 ylog.huya.com
 ym.163.com
+ynuf.alipay.com
 youdata.163.com
 young.duba.net
 youtu.be
@@ -3005,6 +3058,7 @@ zhan.vivo.com.cn
 zhidao.baidu.com
 zhipin.com
 zhuanlan.zhihu.com
+zhuanzhuan.com
 zhuti.xiaomi.com
 zhwnlapi.etouch.cn
 ziyuan.guwendao.net
