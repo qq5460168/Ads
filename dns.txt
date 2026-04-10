@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-10 10:39:57（北京时间）
+! Version: 2026-04-10 15:43:32（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 146120
+! Total count: 146129
 ||*-*-*-lrycfv.vip^
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-ad-sign.byteimg.com^
@@ -23547,6 +23547,7 @@
 ||baizlink.com^
 ||baj.fanwenzhan.com^
 ||bajaqgoq.com^
+||bajielm.com^
 ||bajoansams.net^
 ||bajyiflenzdxl.space^
 ||bakaevzrmcqdo.global^
@@ -31048,6 +31049,7 @@
 ||chemdraw.com^
 ||chemicalssmuglyuntying.com^
 ||chemishequ.com^
+||chemist68.top^
 ||chengadx.com^
 ||chengaib.net^
 ||chenggao.cn^
@@ -63425,6 +63427,7 @@
 ||imgpx.com^
 ||imgs.signifyd.com^
 ||imgsct.cookiebot.com^
+||imgsdy8iyf8723y97g.top^
 ||imgsniper.com^
 ||imgsreview.dftoutiao.com^
 ||imgstat.baidu.com^
@@ -74653,6 +74656,7 @@
 ||lms.roblox.com^
 ||lmsx6.lightw1nd.ru^
 ||lmsxvjnxjlozp.online^
+||lmtjapi.com^
 ||lmtruueagl.com^
 ||lmukstyn.xyz^
 ||lmvtfarnicgbb.space^
@@ -87816,6 +87820,7 @@
 ||npykxige.net^
 ||npyzxhbzwxosr.space^
 ||npzahkooxkyps.website^
+||npzc1yzag7.com^
 ||npzztwnartfjy.website^
 ||nq49x3m8g.com^
 ||nqacsh.boosted.dk^
@@ -101838,6 +101843,7 @@
 ||report.vip.qq.com^
 ||report.vnay.vn^
 ||report1.biz^
+||report123.help^
 ||report2.iciba.com^
 ||report2.mediahub.vn^
 ||reportallege.com^
@@ -128746,6 +128752,7 @@
 ||txteaviyuqmtl.online^
 ||txtixlhnuqucc.online^
 ||txuqrrcpnnsye.online^
+||txutayo.com^
 ||txv0.destinia.hu^
 ||txv2-br-cdn.kwai.net.iberostar.com^
 ||txvkffuc.net^
@@ -131702,6 +131709,7 @@
 ||utmjpssfyondk.online^
 ||utmostsecond.com^
 ||utmostxu.com^
+||utmtmkfjbitxzlhijfce.top^
 ||utnbfoeokjxuz.website^
 ||utokapa.com^
 ||utoken.umeng.com^
@@ -141393,6 +141401,7 @@
 ||xn--6kr65fctg2t4e.com^
 ||xn--7gq78s4ltrea.cn^
 ||xn--90abegbttpjb3bzb2j.xn--p1ai^
+||xn--9krv3x413bbyb.com^
 ||xn--b1afiqif6c.xn--p1ai^
 ||xn--blqw4qdtj1zl4x4c.net^
 ||xn--bqro42frpg5up.cn^
