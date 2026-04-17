@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-17 21:22:34（北京时间）
+! Version: 2026-04-18 03:02:30（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 157118
 
@@ -6622,7 +6622,6 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 localhost
-13.107.226.39                 vscode.dev  # Timeout
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.224.163.98 api.themoviedb.org
@@ -6630,18 +6629,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.18                 github.community
+140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.21                 api.individual.githubcopilot.com
-140.82.112.21                 education.github.com
-140.82.112.22                 central.github.com
+140.82.112.25                 alive.github.com
 140.82.112.25 live.github.com
-140.82.112.26                 alive.github.com
+140.82.113.21                 api.individual.githubcopilot.com
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 collector.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
+140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.25                 live.github.com
+140.82.114.22                 collector.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6659,10 +6658,10 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-151.101.193.194               github.global.ssl.fastly.net
+150.171.110.65                vscode.dev  # Timeout
+151.101.129.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.199.184                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.72.145                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.252.126                 github-com.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6776,9 +6775,10 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.217.230.129                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.76.148                 github-cloud.s3.amazonaws.com
-52.217.82.116                 github-com.s3.amazonaws.com
+52.216.41.81                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.120.129                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.234.33                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.84.12                  github-cloud.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
