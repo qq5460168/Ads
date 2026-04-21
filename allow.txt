@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-21 21:43:07（北京时间）
+! Version: 2026-04-22 03:13:57（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3546
+! Total count: 3539
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-cf.xvideos-cdn.com^
@@ -983,7 +983,6 @@
 @@||dg.k.jd.com^
 @@||dgps.support.microsoft.com^$important
 @@||diagassets.apple.com^$important
-@@||diagnose.vivo.com^
 @@||dianfeijisuanqi.bmcx.com^
 @@||dig.bdurl.net^
 @@||dig.lianjia.com^
@@ -1464,7 +1463,6 @@
 @@||id-card.yun.cn^
 @@||id.163.com^
 @@||id.heytap.com^
-@@||id.mi.com^
 @@||id.oneplus.com^
 @@||id.realme.com^
 @@||id.uc.cn^
@@ -1511,7 +1509,6 @@
 @@||ime-res-download.xfinfr.com^
 @@||ime-store-cdn.gtimg.com^$important
 @@||imeclient.openspeech.cn^
-@@||imeclient.openspeech.cn^$important
 @@||img*.funshion.com^
 @@||img-bss.csdnimg.cn^
 @@||img-cf.xnxx-cdn.com^
@@ -1700,7 +1697,6 @@
 @@||lcdn-registration.apple.com^$important
 @@||ld246.com^
 @@||learn.scriptcat.org^
-@@||lebo.cn^
 @@||leihuo.163.com^
 @@||lens.zhihu.com^
 @@||lequ-qfe.iqiyi.com^
@@ -1778,10 +1774,8 @@
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
-@@||log.doubao.com^
 @@||log.snssdk.com^
 @@||log.taobao.com^
-@@||log.vivo.com^
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
@@ -2791,7 +2785,6 @@
 @@||stars.shuqireader.com^
 @@||stat.api.4399.com^
 @@||stat.funshion.com^
-@@||stat.vivo.com^
 @@||stat.y.qq.com^
 @@||stat6.y.qq.com^
 @@||static-*.xvideos-cdn.com^
@@ -2981,7 +2974,7 @@
 @@||toonily.com^
 @@||toonily.me^
 @@||top.17173.com^
-@@||topic.openspeech.cn^$important
+@@||topic.openspeech.cn^
 @@||tot.hoyoverse.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^

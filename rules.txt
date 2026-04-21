@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-21 21:43:07（北京时间）
+! Version: 2026-04-22 03:13:57（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156455
+! Total count: 156446
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6633,17 +6633,17 @@
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
+140.82.112.21                 education.github.com
+140.82.112.22                 collector.github.com
+140.82.112.25                 alive.github.com
 140.82.112.25 live.github.com
 140.82.113.17                 github.community
+140.82.113.21                 api.individual.githubcopilot.com
 140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
 140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-140.82.114.21                 collector.github.com
-140.82.114.22                 education.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6663,8 +6663,8 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.207.245                 github-cloud.s3.amazonaws.com
-16.15.253.84                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.223.17                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.236.131                 github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6717,7 +6717,7 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.110.215               github.githubassets.com
+185.199.111.215               github.githubassets.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6778,14 +6778,14 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.33.49                  github-production-user-asset-6210df.s3.amazonaws.com
-52.217.162.209                github-com.s3.amazonaws.com
-52.217.173.177                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.224.113                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.230.249                github-com.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
+54.231.196.225                github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -7555,7 +7555,6 @@
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||dg.k.jd.com^
-@@||diagnose.vivo.com^
 @@||dianfeijisuanqi.bmcx.com^
 @@||dig.bdurl.net^
 @@||dig.lianjia.com^
@@ -7972,7 +7971,6 @@
 @@||id-card.yun.cn^
 @@||id.163.com^
 @@||id.heytap.com^
-@@||id.mi.com^
 @@||id.oneplus.com^
 @@||id.realme.com^
 @@||id.uc.cn^
@@ -8012,7 +8010,6 @@
 @@||ime-igw.doubao.com^
 @@||ime-res-download.xfinfr.com^
 @@||imeclient.openspeech.cn^
-@@||imeclient.openspeech.cn^$important
 @@||img*.funshion.com^
 @@||img-bss.csdnimg.cn^
 @@||img-cf.xnxx-cdn.com^
@@ -8182,7 +8179,6 @@
 @@||lcdn-locator.apple.com^
 @@||ld246.com^
 @@||learn.scriptcat.org^
-@@||lebo.cn^
 @@||leihuo.163.com^
 @@||lens.zhihu.com^
 @@||lequ-qfe.iqiyi.com^
@@ -8259,10 +8255,8 @@
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
-@@||log.doubao.com^
 @@||log.snssdk.com^
 @@||log.taobao.com^
-@@||log.vivo.com^
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
@@ -9152,7 +9146,6 @@
 @@||stars.shuqireader.com^
 @@||stat.api.4399.com^
 @@||stat.funshion.com^
-@@||stat.vivo.com^
 @@||stat.y.qq.com^
 @@||stat6.y.qq.com^
 @@||static-*.xvideos-cdn.com^
@@ -9311,7 +9304,7 @@
 @@||toonily.com^
 @@||toonily.me^
 @@||top.17173.com^
-@@||topic.openspeech.cn^$important
+@@||topic.openspeech.cn^
 @@||tot.hoyoverse.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
@@ -14745,7 +14738,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||5ee868d71f.b35fc2842a.com^
 ||5eff937764.e487a41ae0.com^
 ||5egk.com^
-||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
 ||5f-hj8-5d2g.dnsdf.com^
 ||5f1qyi04vz.com^
 ||5f242f7db1.com^
@@ -90221,7 +90213,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mc.yandex.md^
 ||mc.yandex.ru^
 ||mc.yango.com^
-||mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com^
 ||mc2o133jkwu19fv9.net.fidor.de^
 ||mc5e9p8qx.com^
 ||mc777.cn^
