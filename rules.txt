@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-10 21:20:43（北京时间）
+! Version: 2026-05-11 03:05:34（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156470
+! Total count: 156468
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6632,18 +6632,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
+140.82.112.18                 github.community
 140.82.112.18 github.community
 140.82.112.25 live.github.com
 140.82.113.21                 api.individual.githubcopilot.com
-140.82.113.21                 collector.github.com
-140.82.113.21                 education.github.com
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
+140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 central.github.com
-140.82.114.25                 alive.github.com
-140.82.114.25                 live.github.com
+140.82.114.22                 collector.github.com
+140.82.114.22                 education.github.com
+140.82.114.26                 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6664,10 +6664,9 @@
 150.171.110.70                vscode.dev  # Timeout
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.183.71                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.191.41                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.223.144                 github-com.s3.amazonaws.com
-16.182.70.89                  github-cloud.s3.amazonaws.com
+16.15.199.129                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.252.12                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.70.201                 github-cloud.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6683,24 +6682,6 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.108.215               github.githubassets.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-185.199.109.133               cloud.githubusercontent.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
-185.199.109.133               github.map.fastly.net
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
-185.199.109.133               private-user-images.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6721,6 +6702,24 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
+185.199.110.215               github.githubassets.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6781,7 +6780,8 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.217.153                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.32.193                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.142.9                  github-com.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -7133,7 +7133,6 @@
 @@||appgoad.189.cn^
 @@||appimg-drcn.dbankcdn.com^
 @@||appimg.dbankcdn.com^
-@@||appldnld.apple.com^
 @@||appleid.apple.com^
 @@||applog.lc.quark.cn^
 @@||appmsg.gzmtr.cn^
@@ -7808,7 +7807,6 @@
 @@||gateway.kugou.com^
 @@||gator.volces.com^
 @@||gdfp.gifshow.com^
-@@||gdmf.apple.com^
 @@||gdown.baidu.com^
 @@||gdtimg.com^
 @@||gecko.zijieapi.com^
@@ -8406,7 +8404,6 @@
 @@||member.jiaoyimao.com^
 @@||members.bitcomet.com^
 @@||message.bilibili.com^
-@@||mesu.apple.com^
 @@||metok.sys.miui.com^
 @@||metrics.apple.com^
 @@||metrics.icloud.com^
@@ -9238,7 +9235,6 @@
 @@||survey.feelgood.cn^
 @@||sv.map.baidu.com^
 @@||swap.stu.126.net^
-@@||swcdn.apple.com^
 @@||swimg1.hstdyf.com^
 @@||sysdk.cl2009.com^
 @@||szlong.weixin.qq.com^
@@ -9382,7 +9378,6 @@
 @@||update.hicloud.com^
 @@||update.vivo.com^
 @@||updateinfo.market.xiaomi.com^
-@@||updates.cdn-apple.com^
 @@||upgrade.ptmi.gitv.tv^
 @@||upgrade.vivo.com^
 @@||upload-bbs.miyoushe.com^
@@ -63908,6 +63903,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gdm1.toner.fr^
 ||gdmconvtrck.com^
 ||gdmelqact.gartner.com^
+||gdmf.apple.com^
 ||gdmgsecure.com^
 ||gdmxjbjjo.com^
 ||gdn.bigfishgames.com^
@@ -141057,6 +141053,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||updatepage.kuwo.cn^
 ||updatepush.appstore.vivo.com.cn^
 ||updaterack.com^
+||updates-http.cdn-apple.com^
 ||updates-s3.binaryage.com^
 ||updates.aem.org^
 ||updates.conexpoconagg.com^
@@ -151858,6 +151855,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xozpwh9b.sn1pburrow.ru^
 ||xozqet.gr-1-tfable.ru^
 ||xp.allianz.de^
+||xp.apple.com^
 ||xp2023-pix.s3.amazonaws.com^
 ||xp3366.com^
 ||xp6wsv4c.xyz^
