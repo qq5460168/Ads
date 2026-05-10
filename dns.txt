@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-10 11:26:20（北京时间）
+! Version: 2026-05-10 16:08:38（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 145835
 ||*-*-*-lrycfv.vip^
@@ -62,6 +62,7 @@
 ||*.bllst.cn^
 ||*.bmddsofta.cc^
 ||*.bmdzu8m.cc^
+||*.cc^
 ||*.cknr6y.com^
 ||*.cru0xr.com^
 ||*.ctk4xy.com^
@@ -68946,7 +68947,6 @@
 ||k366.com/images/smxs^
 ||k38.deepbreez3.ru^
 ||k3bos.com^
-||k3l.cn.w.kunlunpi.com^
 ||k3l.cn^
 ||k3on.com^
 ||k3p.brambleage.ru^
@@ -133272,7 +133272,6 @@
 ||vip.hyz86.com^
 ||vip.id528.com^
 ||vip.jindu179.com^
-||vip.k3l.cn.w.kunlunpi.com^
 ||vip.k3l.cn^
 ||vip.mall044.com^
 ||vip.maxtor.com^
@@ -134569,6 +134568,7 @@
 ||w.ilfattoquotidiano.it^
 ||w.inews.qq.com^
 ||w.jscsd.cn^
+||w.kunlunpi.com^
 ||w.l.qq.com^
 ||w.love4porn.com^
 ||w.m.taobao.com^
