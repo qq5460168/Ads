@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-17 03:06:06（北京时间）
+! Version: 2026-05-17 11:34:56（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3534
+! Total count: 3545
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-cf.xvideos-cdn.com^
@@ -541,6 +541,7 @@
 @@||axm-servicediscovery.apple.com^$important
 @@||b.163.com^
 @@||b.bdstatic.com^
+@@||b23.tv^
 @@||b3log.org^
 @@||b3logfile.com^
 @@||backupapi.lkong.com^$important
@@ -552,6 +553,7 @@
 @@||baikebcs.bdimg.com^
 @@||baixing.com^
 @@||bbs-static.miyoushe.com^
+@@||bbs.huorong.cn^
 @@||bbs.mobileapi.hupu.com^
 @@||bbs.tampermonkey.net.cn^
 @@||bce.baidu.com^
@@ -661,6 +663,7 @@
 @@||cdn-go.cn^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+@@||cdn-www.huorong.cn^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
@@ -1035,11 +1038,13 @@
 @@||dot.360.cn^
 @@||douyincdn.com^
 @@||douyinstatic.com^
+@@||down-tencent.huorong.cn^
 @@||down-update.qq.com^
 @@||down.360safe.com^
 @@||down.360safe.com^$important
 @@||down.anticheatexpert.com^
 @@||down.sandai.net^
+@@||download-cdn.clf.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
 @@||download.alicdn.com^
@@ -1820,6 +1825,7 @@
 @@||m.dxy.com^
 @@||m.facebook.com^
 @@||m.google.com^$important
+@@||m.gushiwen.cn^
 @@||m.image.so.com^
 @@||m.intl.taobao.com^
 @@||m.ip138.com^
@@ -2564,6 +2570,7 @@
 @@||resolver*mi.com^
 @@||resolver.gslb.mi-idc.com^
 @@||resolver.msg.xiaomi.net^
+@@||resources.jetbrains.com.cn^
 @@||restapi.amap.com^
 @@||retail.taobao.com^
 @@||retcode.taobao.com^
@@ -3025,6 +3032,7 @@
 @@||u1.img.mobile.sina.cn^
 @@||uc-titans-cn-01.heytapimage.com^
 @@||uc-titans-cn.heytapimage.com^
+@@||uc.huorong.cn^
 @@||uc.ucweb.com^
 @@||ucus.ucweb.com^
 @@||ucweb.com^
@@ -3050,6 +3058,7 @@
 @@||updata.miui.com^
 @@||update.360safe.com^
 @@||update.hicloud.com^
+@@||update.huorong.cn^
 @@||update.intl.miui.com^$important
 @@||update.miui.com^$important
 @@||update.vivo.com^
@@ -3333,6 +3342,7 @@
 @@||www.hisense.com^
 @@||www.hoyoverse.com^
 @@||www.huaweicloud.com^
+@@||www.huorong.cn^
 @@||www.ibook.info^
 @@||www.icloud.com^
 @@||www.iconfont.cn^
@@ -3344,6 +3354,7 @@
 @@||www.itools.info^
 @@||www.javbangers.com^
 @@||www.jd.com^
+@@||www.jetbrains.com.cn^
 @@||www.jianshu.com^
 @@||www.jiaoyimao.com^
 @@||www.jsdelivr.com^
