@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-21 04:18:46（北京时间）
+! Version: 2026-05-21 11:51:47（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156481
+! Total count: 156486
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -121,6 +121,7 @@
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
 .xyz:*/js/b.php?v=*
+/*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
 /360mse/360mse_*.apk?
@@ -6636,14 +6637,14 @@
 140.82.112.21                 api.individual.githubcopilot.com
 140.82.112.21                 collector.github.com
 140.82.112.25 live.github.com
-140.82.113.18                 github.community
-140.82.113.21                 education.github.com
+140.82.112.26                 live.github.com
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 central.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
+140.82.113.26                 alive.github.com
 140.82.113.26 alive.github.com
-140.82.114.25                 live.github.com
+140.82.114.17                 github.community
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6664,11 +6665,10 @@
 150.171.110.68                vscode.dev  # Timeout
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.183.78                  github-cloud.s3.amazonaws.com
-16.15.183.78                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.191.215                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.207.86                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.213.120                 github-com.s3.amazonaws.com
+16.15.223.210                 github-cloud.s3.amazonaws.com
+16.15.223.226                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.237.40                  github-com.s3.amazonaws.com
+16.15.252.121                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6782,6 +6782,7 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
+52.216.59.17                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -75029,6 +75030,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||inhshlfbgkqdw.site^
 ||ini.litingxin.cn^
 ||ini.update.360safe.com^
+||ininav.com/sites/default/files/js/js
 ||iniomigoniums.qpon^
 ||iniquesancy.shop^
 ||init.blackcrow.ai^
@@ -88109,6 +88111,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mallapi2.qinlinkeji.com^
 ||mallioras.openapp.link^
 ||mallowweeds.shop^
+||malluktig.in^
 ||malmtufted.cyou^
 ||malocacomals.com^
 ||malog.byapps.co.kr^
@@ -99958,6 +99961,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||okdyvjqdrbguk.online^
 ||okeaxgugq.com^
 ||okedvxsttyjlc.website^
+||okeeblr.com^
 ||okeezyxflelvs.website^
 ||okevdqibjxzmr.space^
 ||okforwardt.fun^
@@ -131994,6 +131998,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tcloaksandtheirc.org^
 ||tcmcpbjvotuaa.space^
 ||tcmdlflufggcn.com^
+||tcmxmlu.com^
 ||tcnaecgsqurme.online^
 ||tcolfwuhtwqln.space^
 ||tcp.newyworlds.com^
