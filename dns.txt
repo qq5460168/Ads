@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-22 22:41:27（北京时间）
+! Version: 2026-05-23 03:47:16（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 145840
+! Total count: 145849
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -15474,6 +15474,7 @@
 ||aeisqs.icu^
 ||aeiwzejwyzqjy.rocks^
 ||aejravyfcejxe.site^
+||aekjg-cdn.77t-tusu.com^
 ||aekmrkebaawzm.online^
 ||aekpzxaghjyxa.global^
 ||aeletheacd.com^
@@ -40259,6 +40260,7 @@
 ||dftmuptixnvgl.com^
 ||dftoutiao.com^
 ||dftraanudh.com^
+||dftveb.xn--6krw8b915a62m.com^
 ||dfuijqrojtvcb.site^
 ||dfuvslppaxhzv.site^
 ||dfuxpeudrhrpj.online^
@@ -43132,6 +43134,7 @@
 ||duhkxehelalch.store^
 ||duhsv690.cinderpouch.ru^
 ||duhxgrfaziemg.site^
+||dui.suiji.red^
 ||duidoaghteqgs.website^
 ||duier.top^
 ||duihl.cn^
@@ -59701,6 +59704,7 @@
 ||hmyjoj.5-fifth.com^
 ||hmziwy.yearbookordercenter.com^
 ||hmzxoegngasft.site^
+||hn.bfvvs.com^
 ||hnasd.com^
 ||hnaxddjuzflyy.space^
 ||hnbhrt.xyz^
@@ -71591,6 +71595,7 @@
 ||lamaismftnerr.cfd^
 ||lamamari.cyou^
 ||lamanyatrip.cfd^
+||lambda.raidrive.com^
 ||lambmotorabash.com^
 ||lambspithole.cfd^
 ||lame-home.pro^
@@ -76879,6 +76884,7 @@
 ||m.lovezhishou.com^
 ||m.luckym.ca^
 ||m.lusrg.cn^
+||m.lwlm-nideta.cc^
 ||m.lyjz001.com^
 ||m.lzida.com^
 ||m.lzytt.com^
@@ -86443,6 +86449,7 @@
 ||nfmvsq.giuseppezanotti.com^
 ||nfnsqnmfkgiuq.space^
 ||nfnvqfghrmnfk.space^
+||nfnykg.xn--6krw8b915a62m.com^
 ||nfowjkbbjyorh.site^
 ||nfpqhhcuvjdhj.website^
 ||nfptar.giordanoshop.com^
@@ -101945,6 +101952,7 @@
 ||resumetwigincarnate.com^
 ||resurrectionincomplete.com^
 ||reswagebashlik.help^
+||reszavxz.malunwudi.com^
 ||ret.xinlongrubber.com^
 ||retagro.com^
 ||retail-client-events-service.internal.salsify.com^
@@ -104407,6 +104415,7 @@
 ||rxi8jcy0aq.com^
 ||rxidhevafwczq.online^
 ||rxiewfjyestco.website^
+||rxing.rxyoo.net^
 ||rxiptliymhnrv.online^
 ||rxjdbeabdctcn.website^
 ||rxjvmsvfvstue.website^
