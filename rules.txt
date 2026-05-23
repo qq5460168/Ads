@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-23 03:47:16（北京时间）
+! Version: 2026-05-23 11:22:59（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156494
+! Total count: 156499
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6633,18 +6633,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
+140.82.112.18                 github.community
 140.82.112.18 github.community
-140.82.112.21                 collector.github.com
-140.82.112.22                 education.github.com
-140.82.112.25                 alive.github.com
-140.82.112.25                 live.github.com
+140.82.112.21                 central.github.com
+140.82.112.22                 collector.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 api.individual.githubcopilot.com
 140.82.113.22 central.github.com
+140.82.113.25                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.18                 github.community
+140.82.114.22                 api.individual.githubcopilot.com
+140.82.114.22                 education.github.com
+140.82.114.25                 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6662,13 +6662,14 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.70                vscode.dev  # Timeout
+150.171.110.65                vscode.dev  # Timeout
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.183.47                  github-com.s3.amazonaws.com
-16.15.199.184                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.214.112                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.236.134                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.191.211                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.232                 github-com.s3.amazonaws.com
+16.15.229.9                   github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.252.54                  github-cloud.s3.amazonaws.com
+16.15.253.166                 github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6767,7 +6768,6 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.13.22                     github-cloud.s3.amazonaws.com
 31.216.145.5 mega.nz
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -30802,6 +30802,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||applaudenviable.com^
 ||applausetint.com^
 ||applcuts.cyou^
+||appldnld.apple.com^
 ||apple-service93.ru^
 ||apple.analnoe24.com^
 ||apple.arabtoons.net^
@@ -129848,10 +129849,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||swaw.cn^
 ||sway.g1zmobrain.ru^
 ||swbbtzshzxsve.space^
+||swcdn.apple.com^
 ||swcnmtb.top^
 ||swcycyjwymqrw.website^
 ||swcypfzfkfj.com^
 ||swdced.open32.nl^
+||swdownload.apple.com^
 ||swdqortugmmrj.online^
 ||sweatdatess.com^
 ||sweaterwarmly.com^
@@ -129996,7 +129999,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||swqavzfztuonn.online^
 ||swqleb.adidas.ru^
 ||swqmuo.icu^
+||swquery.apple.com^
 ||swrperkeds.com^
+||swscan.apple.com^
 ||swskkgfyhcldxe.net^
 ||swtagnfimnhdt.website^
 ||swtdssqbxhcesfh.com^

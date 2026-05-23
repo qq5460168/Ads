@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-23 03:47:16（北京时间）
+! Version: 2026-05-23 11:22:59（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 145849
+! Total count: 145854
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -20478,6 +20478,7 @@
 ||applaudenviable.com^
 ||applausetint.com^
 ||applcuts.cyou^
+||appldnld.apple.com^
 ||apple-service93.ru^
 ||apple.analnoe24.com^
 ||apple.arabtoons.net^
@@ -119277,10 +119278,12 @@
 ||swaw.cn^
 ||sway.g1zmobrain.ru^
 ||swbbtzshzxsve.space^
+||swcdn.apple.com^
 ||swcnmtb.top^
 ||swcycyjwymqrw.website^
 ||swcypfzfkfj.com^
 ||swdced.open32.nl^
+||swdownload.apple.com^
 ||swdqortugmmrj.online^
 ||sweatdatess.com^
 ||sweaterwarmly.com^
@@ -119425,7 +119428,9 @@
 ||swqavzfztuonn.online^
 ||swqleb.adidas.ru^
 ||swqmuo.icu^
+||swquery.apple.com^
 ||swrperkeds.com^
+||swscan.apple.com^
 ||swskkgfyhcldxe.net^
 ||swtagnfimnhdt.website^
 ||swtdssqbxhcesfh.com^
