@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-25 03:18:44（北京时间）
+! Version: 2026-05-25 11:56:55（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 156500
 
@@ -6634,17 +6634,17 @@
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
+140.82.112.21                 central.github.com
 140.82.112.21                 collector.github.com
-140.82.112.22                 education.github.com
-140.82.112.25                 live.github.com
+140.82.112.21                 education.github.com
+140.82.112.25                 alive.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 live.github.com
+140.82.113.17                 github.community
 140.82.113.21 collector.github.com
-140.82.113.22                 central.github.com
+140.82.113.22                 api.individual.githubcopilot.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
 140.82.113.26 alive.github.com
-140.82.114.17                 github.community
-140.82.114.21                 api.individual.githubcopilot.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6665,11 +6665,11 @@
 150.171.110.65                vscode.dev  # Timeout
 151.101.193.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.223.219                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.223.60                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.252.12                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.253.235                 github-com.s3.amazonaws.com
-16.15.254.70                  github-cloud.s3.amazonaws.com
+16.15.183.97                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.39                  github-com.s3.amazonaws.com
+16.15.223.105                 github-cloud.s3.amazonaws.com
+16.15.237.197                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.253.110                 github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
