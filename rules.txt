@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-06-07 16:57:05（北京时间）
+! Version: 2026-06-07 21:54:40（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156505
+! Total count: 156503
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6886,7 +6886,6 @@
 @@||17u.cn^
 @@||18comic.org^
 @@||18comic.vip^
-@@||1music.cc^$important
 @@||1sapp.com^
 @@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
@@ -7189,7 +7188,6 @@
 @@||b23.tv^
 @@||b3log.org^
 @@||b3logfile.com^
-@@||backend.1music.cc^$important
 @@||bad.news^
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
@@ -8174,7 +8172,7 @@
 @@||knicks.jd.com^
 @@||konachan.com^
 @@||kubernetes.io^
-@@||kunlunpi.com^$important
+@@||kunlunpi.com^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||l.qq.com^
@@ -9311,7 +9309,7 @@
 @@||toblog.ctobsnssdk.com^
 @@||tom.163.com^
 @@||tongji.flash.cn^
-@@||tongzhi.cup.com.cn^$important
+@@||tongzhi.cup.com.cn^
 @@||toonily.com^
 @@||toonily.me^
 @@||top.17173.com^
@@ -9458,7 +9456,7 @@
 @@||vd1.market.xiaomi.com^
 @@||vd3.bdstatic.com^
 @@||vdn3.vzuu.com^
-@@||vdn5.vzuu.com^$important
+@@||vdn5.vzuu.com^
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
 @@||vectorsdk.map.qq.com^
