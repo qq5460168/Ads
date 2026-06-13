@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-06-13 11:53:21（北京时间）
+! Version: 2026-06-13 17:17:31（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156509
+! Total count: 156510
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6628,6 +6628,8 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 localhost
+128.242.240.85                github.global.ssl.fastly.net  # Timeout
+13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.224.163.98 api.themoviedb.org
 13.226.198.225 thetvdb.com
@@ -6635,10 +6637,17 @@
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
+140.82.112.21                 collector.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 live.github.com
+140.82.113.18                 github.community
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
+140.82.113.25                 alive.github.com
 140.82.113.26 alive.github.com
+140.82.114.21                 education.github.com
+140.82.114.22                 api.individual.githubcopilot.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6656,47 +6665,13 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
+150.171.110.103               vscode.dev
 151.101.76.133 raw.github.com
-152.32.215.247                alive.github.com
-152.32.215.247                api.github.com
-152.32.215.247                api.individual.githubcopilot.com
-152.32.215.247                avatars.githubusercontent.com
-152.32.215.247                avatars0.githubusercontent.com
-152.32.215.247                avatars1.githubusercontent.com
-152.32.215.247                avatars2.githubusercontent.com
-152.32.215.247                avatars3.githubusercontent.com
-152.32.215.247                avatars4.githubusercontent.com
-152.32.215.247                avatars5.githubusercontent.com
-152.32.215.247                camo.githubusercontent.com
-152.32.215.247                central.github.com
-152.32.215.247                cloud.githubusercontent.com
-152.32.215.247                codeload.github.com
-152.32.215.247                collector.github.com
-152.32.215.247                desktop.githubusercontent.com
-152.32.215.247                education.github.com
-152.32.215.247                favicons.githubusercontent.com
-152.32.215.247                gist.github.com
-152.32.215.247                github-cloud.s3.amazonaws.com
-152.32.215.247                github-com.s3.amazonaws.com
-152.32.215.247                github-production-release-asset-2e65be.s3.amazonaws.com
-152.32.215.247                github-production-repository-file-5c1aeb.s3.amazonaws.com
-152.32.215.247                github-production-user-asset-6210df.s3.amazonaws.com
-152.32.215.247                github.blog
-152.32.215.247                github.com
-152.32.215.247                github.community
-152.32.215.247                github.githubassets.com
-152.32.215.247                github.global.ssl.fastly.net
-152.32.215.247                github.io
-152.32.215.247                github.map.fastly.net
-152.32.215.247                githubstatus.com
-152.32.215.247                live.github.com
-152.32.215.247                media.githubusercontent.com
-152.32.215.247                objects.githubusercontent.com
-152.32.215.247                pipelines.actions.githubusercontent.com
-152.32.215.247                private-user-images.githubusercontent.com
-152.32.215.247                raw.githubusercontent.com
-152.32.215.247                user-images.githubusercontent.com
-152.32.215.247                vscode.dev
+16.15.199.129                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.214.151                 github-cloud.s3.amazonaws.com
+16.15.223.78                  github-com.s3.amazonaws.com
+16.15.228.90                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.252.253                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6712,6 +6687,23 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+185.199.109.133               cloud.githubusercontent.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+185.199.109.133               github.map.fastly.net
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
+185.199.109.133               private-user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6730,11 +6722,15 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
+185.199.110.215               github.githubassets.com
+185.199.111.153               github.io
+185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#.bot-per-times
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
+192.0.66.2                    github.blog
 192.0.66.2 github.blog
 192.0.80.242 0.gravatar.com
 192.0.80.242 1.gravatar.com
@@ -6747,6 +6743,10 @@
 20.200.245.245 api.github.com
 20.200.245.247 gist.github.com
 20.200.245.247 github.com
+20.205.243.165                codeload.github.com
+20.205.243.166                gist.github.com
+20.205.243.166                github.com
+20.205.243.168                api.github.com
 20.43.185.14 github.dev
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
@@ -13565,6 +13565,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||3i2i.com^
 ||3i2pwrw4xc7rc4fnn1.rest^
 ||3i3w8hl6do.com^
+||3ie0h3b.com^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j1fiw14n9.com^
 ||3j8c56p9.de^
