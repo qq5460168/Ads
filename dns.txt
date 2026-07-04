@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-04 03:24:02（北京时间）
+! Version: 2026-07-04 11:15:34（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 146198
+! Total count: 146187
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -14367,6 +14367,7 @@
 ||ads.lemmatechnologies.com^
 ||ads.lesbianpersonals.com^
 ||ads.lingyuexiu.cn^
+||ads.linkedin.cn^
 ||ads.linkedin.com^
 ||ads.livenation.com^
 ||ads.log.kafka.top^
@@ -20757,7 +20758,6 @@
 ||appstorages.com^
 ||appstore.qzone.qq.com^
 ||appstoreort-stsdk.vivo.com.cn^
-||appstorepnrt-stsdk.vivo.com.cn^
 ||appsupdate.sinaapp.com^
 ||appsupport.qq.com^
 ||appsupport.stargame.com^
@@ -27030,7 +27030,6 @@
 ||brandclik.com^
 ||branddnewcode1.me^
 ||brandlabs.ai^
-||brandlog.vivo.com.cn^
 ||brandmovers-delivery.reviveservers.com^
 ||brandnewapp.pro^
 ||brandnewsnorted.com^
@@ -27324,7 +27323,6 @@
 ||brookrivet.com^
 ||brooktollery.cfd^
 ||broonleetmen.help^
-||brort.stsdk.vivo.com.cn^
 ||brosdefender.com^
 ||brostraffic.com^
 ||broth.s0uponwe2ther.ru^
@@ -33848,7 +33846,6 @@
 ||connectingadjusthospitality.com^
 ||connectingcurioustraced.com^
 ||connectingresort.com^
-||connection-center.vivo.com.cn^
 ||connection.arrow.com^
 ||connection.verical.com^
 ||connectionhearddock.com^
@@ -47496,6 +47493,7 @@
 ||etnomedia-static.reviveservers.com^
 ||etobeasasile.org^
 ||etoilesromance.cfd^
+||etoolads.cn^
 ||etooqcedvlzyh.space^
 ||etoote.com^
 ||etop.ro^
@@ -49357,7 +49355,6 @@
 ||fc-ccimage.baidu.com^
 ||fc-feed.cdn.bcebos.com^
 ||fc-id.sensic.net^
-||fc-open-materiel.vivo.com.cn^
 ||fc.3dmgame.com^
 ||fc.gaizong.cn^
 ||fc.itmedia.co.jp^
@@ -90164,7 +90161,6 @@
 ||omzkdhbltgcyi.website^
 ||omzwmjdqihtxs.website^
 ||omzylhvhwp.com^
-||on-device-ai.vivo.com.cn^
 ||on.allposters.com^
 ||on.art.com^
 ||on.dextra.ch^
@@ -91040,7 +91036,6 @@
 ||orsqgxiuhkitm.website^
 ||orssgypxniykf.space^
 ||ort-stsdk.vivo.com.cn^
-||ort.stsdk.vivo.com.cn^
 ||ortc.cc^
 ||orthalresshotfiant.qpon^
 ||orthantisabelartar.cyou^
@@ -93617,7 +93612,6 @@
 ||perkymodel.com^
 ||perkywin.pro^
 ||perlitebrandi.qpon^
-||perm-api.vivo.com.cn^
 ||permanentillnessclever.com^
 ||permcresoxy.cfd^
 ||permdsllbsdem.xyz^
@@ -98072,7 +98066,6 @@
 ||px-intl.ucweb.com^
 ||px.adfulplatform.com^
 ||px.adhigh.net^
-||px.ads.linkedin.cn^
 ||px.ads.linkedin.com^
 ||px.blog.hu^
 ||px.derstandard.at^
@@ -110076,7 +110069,6 @@
 ||skifowage.qpon^
 ||skijoreafront.help^
 ||skilfulsaturatematters.com^
-||skill-platform-prd.vivo.com.cn^
 ||skillalums.cyou^
 ||skillcharging.com^
 ||skilletperonei.com^
@@ -116237,7 +116229,6 @@
 ||st-fly.b-cdn.net^
 ||st-n.ads3-adnow.com^
 ||st-nlyss1.plala.or.jp^
-||st-sentinel.vivo.com.cn^
 ||st-to-uv.com^
 ||st-widget.s3.amazonaws.com^
 ||st.anastasija.lt^
@@ -116409,7 +116400,6 @@
 ||stapecdn.com^
 ||stapespotherb.com^
 ||stapledsaur.top^
-||stappupgrade.vivo.com.cn^
 ||staqnet.com^
 ||star-advertising.com^
 ||star-clicks.com^
@@ -119051,7 +119041,6 @@
 ||sumatang.com^
 ||sumatoad.com^
 ||sumbreta.com^
-||sumdiff.vivo.com.cn^
 ||sumeformorede.org^
 ||summa.h0dikim2n.ru^
 ||summary.bookoffonline.co.jp^
