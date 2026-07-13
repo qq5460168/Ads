@@ -2,13 +2,13 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-13 03:06:33（北京时间）
+! Version: 2026-07-13 10:52:15（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2947
+! Total count: 2955
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-07-13 03:06:32（北京时间）
-# 总域名数: 2941
+# 生成时间: 2026-07-13 10:52:15（北京时间）
+# 总域名数: 2949
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -17,6 +17,7 @@
 18comic.vip
 1sapp.com
 1tian.kuaishou.com
+22.do
 316.coolapk1s.com
 360.cn
 360buyimg.com
@@ -730,6 +731,7 @@ docrdsfx76ssb.cloudfront.net
 docs.doudou.fun
 docs.idqqimg.com
 docs.scriptcat.org
+docs.vilinko.com
 domains-ws.revved.com
 dorado.xiaojukeji.com
 dorangesource.alicdn.com
@@ -742,6 +744,7 @@ down-update.qq.com
 down.360safe.com
 down.anticheatexpert.com
 down.sandai.net
+down1.vilinko.com
 download-cdn.clf.jetbrains.com.cn
 download-cdn.jetbrains.com
 download-cdn.jetbrains.com.cn
@@ -1297,6 +1300,7 @@ keepassxc.org
 kemono.party
 kf-ui.cdn-go.cn
 kjimg10.360buyimg.com
+klpbbs.com
 knet.cn
 knicks.jd.com
 knowsex.net
@@ -1356,6 +1360,7 @@ liangcang-material.alicdn.com
 lib.sinaapp.com
 life.cup.com.cn
 lifemakeovermysg.archosaur.com
+lightframe.vilinko.com
 lightnovel.us
 limbopro.com
 limestart.cn
@@ -1367,6 +1372,7 @@ line3-statics-h5-mobile-api.biligame.net
 link.mcmod.cn
 link.zhihu.com
 linux.do
+littleskin.cn
 liuyun.io
 live-trace.bilibili.com
 live.douyin.com
@@ -1946,6 +1952,7 @@ plyr.io
 pm.funshion.com
 po.funshion.com
 podman.io
+pogget.vilinko.com
 polaris.zijieapi.com
 policy.jd.com
 policy.video.iqiyi.com
@@ -2839,6 +2846,7 @@ www.tudou.com
 www.twitter.com
 www.unionpayintl.com
 www.uzzf.com
+www.vilinko.com
 www.vmall.com
 www.wnacg.com
 www.xanimeporn.com
