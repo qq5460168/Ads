@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-26 10:50:54（北京时间）
+! Version: 2026-07-26 16:26:45（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 145899
+! Total count: 145911
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -32385,6 +32385,7 @@
 ||cloudad.asia^
 ||cloudads-a.akamaihd.net^
 ||cloudasbook.com^
+||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
 ||cloudbitshift.com^
 ||cloudcdn.yousee.com^
 ||cloudcinemaheavily.com^
@@ -52782,6 +52783,7 @@
 ||g.51network.com^
 ||g.6sfg.com^
 ||g.ad8.cc^
+||g.alicdn.com^
 ||g.aligames.com^
 ||g.analytics.versa-ai.com^
 ||g.baidu.com^
@@ -72391,6 +72393,7 @@
 ||lemmaheralds.com^
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
+||lemon.gameley.com^
 ||lemonpi.io^
 ||lemonpier.com^
 ||lemouwee.com^
@@ -72550,6 +72553,7 @@
 ||lf-reward-video.bytedcdn.com^
 ||lf-static.tiktokpangle-cdn-us.com^
 ||lf-wkrs.wkbrowser.com^
+||lf1-cdn-tos.bytegoofy.com^
 ||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf2cgxz0b.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
@@ -82373,6 +82377,7 @@
 ||mgucbdhsjjnni.site^
 ||mgujumljajzgt.store^
 ||mgux.cn^
+||mgw.mpaas.cn-hangzhou.aliyuncs.com^
 ||mgwcn.com^
 ||mgwl668.com^
 ||mgx7befpnqvwhtzlgk.cfd^
@@ -83869,6 +83874,7 @@
 ||morellopoemlinge.qpon^
 ||morelroogrels.com^
 ||moren-1252794300.file.myqcloud.com^
+||mores.anythinktech.com^
 ||mores.toponad.com^
 ||morestamping.com^
 ||morfreyoutfast.qpon^
@@ -84113,6 +84119,7 @@
 ||mpbrz.com^
 ||mpc-co.actonservice.com^
 ||mpc.nicequest.com^
+||mpcfg.fancydsp.com^
 ||mpctyogbxwezj.space^
 ||mpdkfhyvpvttt.site^
 ||mpebncqjoepwq.space^
@@ -106877,8 +106884,10 @@
 ||sdk-open-phone.getui.com^
 ||sdk-orion.appboy.com^
 ||sdk-services.appsflyer.com^
+||sdk-track.66mobi.com^
 ||sdk.1rtb.net^
 ||sdk.ad.smaato.net^
+||sdk.adhuanxiao.com^
 ||sdk.adx.adwangmai.com^
 ||sdk.airbridge.io^
 ||sdk.alibaba.com.ailbaba.me^
@@ -108381,6 +108390,7 @@
 ||sf5q8gbnve37.branch.salesfloor.net^
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||sf6-fe-pack.pglstatp-toutiao.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
 ||sf6-ttcdn-tos.pstatp.com^
 ||sfa.com.ar^
 ||sfacjbrjfczyy.online^
@@ -132033,6 +132043,7 @@
 ||v6-novelapp.fqnovelvod.com^
 ||v62199.com^
 ||v65hz4cb.b1ondepi8s.ru^
+||v66-ad.ndcjl.com^
 ||v66v66.com^
 ||v6awsnf8ejjjsefh.sjucaie2.top^
 ||v6hfl4.top^
@@ -134941,6 +134952,7 @@
 ||wallowwholike.com^
 ||wallowwholikedtoc.org^
 ||wallpaper-*.file.myqcloud.com^
+||wallpaper-1258344696.file.myqcloud.com^
 ||wallpapersfacts.com^
 ||wallsquillsoutslid.cyou^
 ||walnutamyenamor.cyou^
