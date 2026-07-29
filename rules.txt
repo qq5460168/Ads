@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-29 10:41:43（北京时间）
+! Version: 2026-07-29 16:41:10（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156718
+! Total count: 156761
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6623,7 +6623,7 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 localhost
-128.121.243.235               github.global.ssl.fastly.net  # Timeout
+128.242.240.189               github.global.ssl.fastly.net  # Timeout
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.224.163.98 api.themoviedb.org
@@ -6633,16 +6633,16 @@
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
 140.82.112.22                 api.individual.githubcopilot.com
-140.82.112.25                 live.github.com
+140.82.112.22                 collector.github.com
 140.82.112.25 live.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 collector.github.com
-140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
 140.82.114.18                 github.community
 140.82.114.21                 central.github.com
-140.82.114.26                 alive.github.com
+140.82.114.21                 education.github.com
+140.82.114.25                 alive.github.com
+140.82.114.26                 live.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6660,11 +6660,12 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.98                vscode.dev
+150.171.110.97                vscode.dev
 151.101.76.133 raw.github.com
-16.15.183.212                 github-com.s3.amazonaws.com
-16.15.236.238                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.244.159                 github-production-user-asset-6210df.s3.amazonaws.com
+159.24.3.173                  gist.github.com  # Timeout
+16.15.214.28                  github-production-user-asset-6210df.s3.amazonaws.com
+16.182.33.121                 github-com.s3.amazonaws.com
+16.182.75.9                   github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6680,9 +6681,6 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.108.153               github.io
-185.199.108.153               githubstatus.com
-185.199.108.215               github.githubassets.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
@@ -6700,6 +6698,8 @@
 185.199.109.133               private-user-images.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
+185.199.109.153               github.io
+185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6718,6 +6718,7 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
+185.199.110.215               github.githubassets.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6740,7 +6741,6 @@
 20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
-203.98.7.65                   gist.github.com  # Timeout
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
@@ -6778,13 +6778,13 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.213.25                 github-cloud.s3.amazonaws.com
+52.216.76.148                 github-cloud.s3.amazonaws.com
+52.217.235.241                github-production-release-asset-2e65be.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
-54.231.172.121                github-production-release-asset-2e65be.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
@@ -6887,6 +6887,7 @@
 @@||*.video.xiaomi.com^
 @@||*.xn--ngstr-lra8j.com^
 @@||*ad*.ksyungslb.com^
+@@||*apk.cosama.cn^
 @@||*m.chenzhongtech.com^
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||000714.xyz^
@@ -6952,6 +6953,7 @@
 @@||accscdn4public.m.taobao.com^
 @@||acg02.cc^
 @@||acs-m.koubei.com^
+@@||acs.m.goofish.com^
 @@||acs.m.taobao.com^
 @@||acs.youku.com^
 @@||acs4baichuan.m.taobao.com^
@@ -7241,6 +7243,7 @@
 @@||bluehost.com^
 @@||blueskyxn.com^
 @@||bmap6.cn^
+@@||bodian.kuwo.cn^
 @@||bonuscloud.io^
 @@||book.qidian.com^
 @@||bookcover.yuewen.com^
@@ -7652,6 +7655,7 @@
 @@||download.xunlei.com^
 @@||download.youku.com^
 @@||downloads.marketplace.jetbrains.com^
+@@||downmobile.kugou.com^
 @@||downpack.baidu.com^
 @@||downum.game.uc.cn^
 @@||downv6.qq.com^
@@ -7909,6 +7913,7 @@
 @@||h5.cc.163.com^
 @@||h5.dianping.com^
 @@||h5.hpplay.com.cn^
+@@||h5.kugou.com^
 @@||h5.m.goofish.com^
 @@||h5.m.taobao.com^
 @@||h5.mse.360.cn^
@@ -7918,7 +7923,9 @@
 @@||h5api.m.tmall.com^
 @@||h5fs.coloros.com^
 @@||h5offline.zhuanzhuan.com^
+@@||h5s.kuwo.cn^
 @@||h5static.cc.163.com^
+@@||h5static.kuwo.cn^
 @@||hanime1.me^
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
@@ -8049,6 +8056,7 @@
 @@||ime-res-download.xfinfr.com^
 @@||imeclient.openspeech.cn^
 @@||img*.funshion.com^
+@@||img*.kuwo.cn^
 @@||img-bss.csdnimg.cn^
 @@||img-cf.xnxx-cdn.com^
 @@||img-home.csdnimg.cn^
@@ -8095,6 +8103,7 @@
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
 @@||imgcache.qq.com^
+@@||imgessl.kugou.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
 @@||imgx.mediav.com^
@@ -8134,6 +8143,7 @@
 @@||ipw.cn^
 @@||ipxx.pro^
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
+@@||ir.tencentmusic.com^
 @@||is-hl.snssdk.com^
 @@||is.snssdk.com^
 @@||is1-ssl.mzstatic.com^
@@ -8167,6 +8177,7 @@
 @@||jmacs.cn-zhangjiakou.aliyuncs.com^
 @@||jnn-pa.googleapis.com^
 @@||jobs.bytedance.com^
+@@||join.tencentmusic.com^
 @@||jomodns.com^
 @@||jp.pornhub.com^
 @@||jp.spankbang.com^
@@ -8198,6 +8209,7 @@
 @@||keepassxc.org^
 @@||kemono.party^
 @@||kf-ui.cdn-go.cn^
+@@||kg.qq.com^
 @@||kjimg10.360buyimg.com^
 @@||klclick*.com^
 @@||klpbbs.com^
@@ -8205,7 +8217,10 @@
 @@||knicks.jd.com^
 @@||konachan.com^
 @@||kubernetes.io^
+@@||kugou.com^
 @@||kunlunpi.com^
+@@||kuwo.cn^
+@@||kwimg*.kuwo.cn^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||l.qq.com^
@@ -8217,6 +8232,7 @@
 @@||laomaotao.net^
 @@||laowang.vip^
 @@||laowangappb93ibiu.cihiu487giuew87lk.xyz^
+@@||laudio-cdn.tencentmusic.com^
 @@||lc-cn-n1-shared.com^
 @@||lcdn-locator.apple.com^
 @@||ld246.com^
@@ -8242,6 +8258,8 @@
 @@||lf-douyin-pc-web.douyinstatic.com^
 @@||lf-douyin-search-fe.bytetos.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
+@@||lf-luna-release.qishui.com^
+@@||lf-luna.qishui.com^
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
 @@||lf-webcast-platform.bytetos.com^
@@ -8263,6 +8281,7 @@
 @@||lf6-cdn2-tos.bytegoofy.com^
 @@||lf6-imcloud-file-sign.bytetos.com^
 @@||lf6-mgsdk-sign.dailygn.com^
+@@||lf9-apk.ugapk.cn^
 @@||lf9-mgsdk-sign.dailygn.com^
 @@||lf9-open-ma-pkg-sign.bytemastatic.com^
 @@||liangcang-material.alicdn.com^
@@ -8306,6 +8325,7 @@
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
+@@||login-user.kugou.com^
 @@||login.live.com^
 @@||login.m.taobao.com^
 @@||login.microsoftonline.com^
@@ -8350,6 +8370,8 @@
 @@||m.jxdown.com^
 @@||m.ke.com^
 @@||m.kuaishou.com^
+@@||m.kugou.com^
+@@||m.kuwo.cn^
 @@||m.lianjia.com^
 @@||m.manhuabei.com^
 @@||m.meizu.com^
@@ -8382,6 +8404,7 @@
 @@||m15.360buyimg.com^
 @@||m2.da.mgtv.com^
 @@||m2.img.10010.com^
+@@||m3ws.kugou.com^
 @@||m5.amap.com^
 @@||m7.music.126.net^
 @@||m7.pzds.com^
@@ -8510,6 +8533,7 @@
 @@||mobile.ximalaya.com^
 @@||mobile.xunlei.com^
 @@||mobile.yangkeduo.com^
+@@||mobilebasedata.kuwo.cn^
 @@||mobilelog.kugou.com^
 @@||mobilist.kuwo.cn^
 @@||modfile.mcmod.cn^
@@ -8522,6 +8546,7 @@
 @@||mooc-image.nosdn.127.net^
 @@||mos.m.taobao.com^
 @@||mp.163.com^
+@@||mp.tencentmusic.com^
 @@||mp.yidianzixun.com^
 @@||mparticle.uc.cn^
 @@||mpay-web.g.mkey.163.com^
@@ -8552,6 +8577,8 @@
 @@||mumu.163.com^
 @@||music.163.com^
 @@||music.apple.com^
+@@||music.douyin.com^
+@@||musician.kugou.com^
 @@||mv6.music.tc.qq.com^
 @@||mvconf.f.360.cn^
 @@||mvod.itunes.apple.com^
@@ -8791,6 +8818,7 @@
 @@||p9-webcast-sign.douyinpic.com^
 @@||p9.douyinpic.com^
 @@||pacaio.match.qq.com^
+@@||packagebssdlbig.tx.kugou.com^
 @@||pages.github.com^
 @@||pan.quark.cn^
 @@||pan.xunlei.com^
@@ -8869,8 +8897,10 @@
 @@||pingma.qq.com^
 @@||pingtas.qq.com^
 @@||pitaya.bytedance.com^
+@@||pixpin.cn^
 @@||pkg.biligame.com^
 @@||pkg.sinaimg.cn^
+@@||pkgdown.kuwo.cn^
 @@||pl-ali.youku.com^
 @@||pl.taptap.cn^
 @@||platform.deepseek.com^
@@ -9145,6 +9175,7 @@
 @@||shouji.bmcx.com^
 @@||shouji.sogou.com^
 @@||shouji.sougou.com^
+@@||shoujipkgdown.kuwo.cn^
 @@||shuzilm.cn^
 @@||simg.sinajs.cn^
 @@||similarweb.com^
@@ -9434,6 +9465,7 @@
 @@||udpolimenew.baidu.com^
 @@||uee.me^
 @@||ugame.9game.cn^
+@@||ugapk.com^
 @@||ugurl.cn^
 @@||uiam.unionpayintl.com^
 @@||uland.taobao.com^
@@ -9523,6 +9555,7 @@
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
 @@||vectorsdk.map.qq.com^
+@@||vehiclecdn.kuwo.cn^
 @@||venus.yhd.com^
 @@||verify.cmpassport.com^
 @@||verify.snssdk.com^
@@ -9546,6 +9579,7 @@
 @@||view.inews.qq.com^
 @@||vip-pro.m.yhd.com^
 @@||vip.iqiyi.com^
+@@||vip.kugou.com^
 @@||vip.xunlei.com^
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
@@ -9674,6 +9708,7 @@
 @@||www.cloudflare.com^
 @@||www.cloudns.net^
 @@||www.cmpassport.com^
+@@||www.cosama.cn^
 @@||www.crossoverchina.com^
 @@||www.cup.com.cn^
 @@||www.curseforge.com^
@@ -9730,6 +9765,8 @@
 @@||www.kdocs.cn^
 @@||www.ke.com^
 @@||www.kuaishou.com^
+@@||www.kugou.com^
+@@||www.kuwo.cn^
 @@||www.lamborghini.com^
 @@||www.lianjia.com^
 @@||www.listary.com^
@@ -9752,6 +9789,7 @@
 @@||www.mousouzoku-av.com^
 @@||www.msftconnecttest.com^
 @@||www.msn.com^
+@@||www.mydockfinder.com^
 @@||www.nodeseek.com^
 @@||www.novelfm.com^
 @@||www.npmjs.com^
@@ -9776,6 +9814,7 @@
 @@||www.pzds.com^
 @@||www.qdmm.com^
 @@||www.qidian.com^
+@@||www.qishui.com^
 @@||www.recaptcha.net^
 @@||www.siyuan-note.club^
 @@||www.so.com^
@@ -9786,6 +9825,7 @@
 @@||www.taptap.io^
 @@||www.tencent.com^
 @@||www.tencent.net.cn^
+@@||www.tencentmusic.com^
 @@||www.thinkdifferent.us^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
@@ -9832,6 +9872,7 @@
 @@||wxpaylogo.qpic.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
+@@||x.kuwo.cn^
 @@||x0.ifengimg.com^
 @@||x19.update.netease.com^
 @@||x2.ifengimg.com^
@@ -9896,10 +9937,12 @@
 @@||zhidao.baidu.com^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||zhipin.com^
+@@||zhuanjistatic.kugou.com^
 @@||zhuanlan.zhihu.com^
 @@||zhuanzhuan.com^
 @@||zhuti.xiaomi.com^
 @@||zhwnlapi.etouch.cn^
+@@||zimg.kuwo.cn^
 @@||ziyuan.guwendao.net^
 @@||zkres.myzaker.com^
 @@||zm.sm-tc.cn^
