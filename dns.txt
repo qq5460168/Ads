@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-30 16:27:10（北京时间）
+! Version: 2026-07-30 22:03:17（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 145989
+! Total count: 145990
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -2955,7 +2955,6 @@
 ||365bibi.com^
 ||365dmp.com^
 ||365safego.com^
-||365yg.com^
 ||3661193.notify6.com^
 ||3662557.notifysrv.com^
 ||3662593.notifysrv.com^
@@ -16975,6 +16974,7 @@
 ||allfeatures.fumblingvacation.pro^
 ||allfreecounter.com^
 ||allgoodwasters.shop^
+||alliance.jinritemai.com^
 ||alliancefurs.com^
 ||alliantdata.actonservice.com^
 ||allicesoggier.com^
@@ -17310,7 +17310,6 @@
 ||amelandpunter.cfd^
 ||amelatrina.com^
 ||amellusslangs.cfd^
-||amemv.com^
 ||amendmentbutterfly.com^
 ||amendmentinsistdevotion.com^
 ||amendmentlakeinterim.com^
@@ -26980,6 +26979,7 @@
 ||brand-display.com^
 ||brand.adp.ca^
 ||brand.net^
+||brand.oceanengine.com^
 ||brand.sogou.com^
 ||brand.zing.vn^
 ||brandads.net^
@@ -60891,7 +60891,6 @@
 ||huodong.vip.youku.com^
 ||huohuo.huamuwo.com^
 ||huoju.asia^
-||huoshanzhibo.com^
 ||hupot.site^
 ||huppothelderly.rest^
 ||huqkbq.misterrunning.com^
@@ -82957,6 +82956,7 @@
 ||mivqer.b2nchikwa5te.ru^
 ||miwbiqzoluioi.website^
 ||mix-omniture.rbs.com^
+||mix.jinritemai.com^
 ||mix.kettle-wisp.ru^
 ||mix.mintdr1ft.ru^
 ||mixadvert.com^
@@ -86063,7 +86063,6 @@
 ||neighbourlyrepress.com^
 ||neighrewarn.click^
 ||neihang.me^
-||neihanshequ.com^
 ||neihhou.com^
 ||neilhoticapwz.space^
 ||neioaxtgggz.com^
@@ -91841,6 +91840,7 @@
 ||p*-ad-aweme.byteimg.com^
 ||p*-ad-sign.byteimg.com^
 ||p*-ad.adukwai.com^
+||p*-ad.bytecdn.cn^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-ff.adkwai.com^
 ||p*-lm.adkwai.com^
@@ -103571,6 +103571,7 @@
 ||rta4z4ncsl.com^
 ||rtactivate.com^
 ||rtapi.abbi.io^
+||rtapplog.snssdk.com^
 ||rtarbunmsttpihj.xyz^
 ||rtas.videocc.net^
 ||rtau9pif4.com^
@@ -104074,6 +104075,7 @@
 ||rtlog*-applog-lq.fqnovel.com^
 ||rtlog.byteoversea.com^
 ||rtlog.isnssdk.com^
+||rtlog.snssdk.com^
 ||rtlog.tiktokv.com^
 ||rtlog.vidown.cn^
 ||rtlog.zijieapi.com^
@@ -143282,7 +143284,6 @@
 ||youborafds01.com^
 ||youboranqs01.com^
 ||youbuce.lol^
-||youdianyisi.com^
 ||youfine.lol^
 ||youfumei.com^
 ||yougetwhatyoupayfor.net^
