@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-01 16:21:24（北京时间）
+! Version: 2026-08-01 21:22:09（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 156764
 
@@ -6605,6 +6605,7 @@
 103.99.35.250 jp.static.mega.co.nz
 103.99.35.251 sg.static.mega.co.nz
 108.138.246.125 api.themoviedb.org
+108.160.165.212               github.global.ssl.fastly.net  # Timeout
 108.177.104.188     alt7-mtalk.google.com
 108.177.125.188 alt4-mtalk.google.com
 108.177.125.188 mtalk.google.com  #台湾
@@ -6631,17 +6632,17 @@
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.21                 education.github.com
 140.82.112.22                 collector.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 alive.github.com
+140.82.112.26                 live.github.com
+140.82.113.18                 github.community
 140.82.113.21 collector.github.com
-140.82.113.22                 central.github.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
-140.82.114.18                 github.community
-140.82.114.22                 education.github.com
-140.82.114.26                 alive.github.com
-140.82.114.26                 live.github.com
+140.82.114.21                 api.individual.githubcopilot.com
+140.82.114.22                 central.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6659,15 +6660,14 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.103               vscode.dev
+150.171.110.102               vscode.dev
 151.101.76.133 raw.github.com
-157.240.8.50                  github.global.ssl.fastly.net
-159.24.3.173                  gist.github.com  # Timeout
-16.15.183.57                  github-cloud.s3.amazonaws.com
-16.15.212.215                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.229.112                 github-com.s3.amazonaws.com
-16.15.238.86                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.252.73                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+159.106.121.75                gist.github.com  # Timeout
+16.15.191.213                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.212.161                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.228.152                 github-cloud.s3.amazonaws.com
+16.15.237.154                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.245.110                 github-com.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
