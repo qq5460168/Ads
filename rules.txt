@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-05 10:34:11（北京时间）
+! Version: 2026-08-05 16:36:27（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 156764
 
@@ -6604,7 +6604,6 @@
 103.99.35.13 userstroage.mega.co.nz
 103.99.35.250 jp.static.mega.co.nz
 103.99.35.251 sg.static.mega.co.nz
-104.244.43.234                github.global.ssl.fastly.net
 108.138.246.125 api.themoviedb.org
 108.177.104.188     alt7-mtalk.google.com
 108.177.125.188 alt4-mtalk.google.com
@@ -6614,6 +6613,7 @@
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
 110.43.121.249 hugeota.d.miui.com
+115.126.100.160               github.global.ssl.fastly.net  # Timeout
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##IFRAME[width='400']
 123.6.13.6 bigota.d.miui.com
@@ -6631,18 +6631,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.18                 github.community
 140.82.112.18 github.community
+140.82.112.22                 education.github.com
+140.82.112.25                 alive.github.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 education.github.com
 140.82.113.21 collector.github.com
 140.82.113.22                 api.individual.githubcopilot.com
+140.82.113.22                 collector.github.com
 140.82.113.22 central.github.com
-140.82.113.26                 alive.github.com
 140.82.113.26 alive.github.com
-140.82.114.22                 central.github.com
-140.82.114.22                 collector.github.com
-140.82.114.25                 live.github.com
+140.82.114.17                 github.community
+140.82.114.21                 central.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6660,14 +6660,14 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.98                vscode.dev
+150.171.110.101               vscode.dev
 151.101.76.133 raw.github.com
 159.106.121.75                gist.github.com  # Timeout
-16.15.207.150                 github-com.s3.amazonaws.com
-16.15.223.60                  github-cloud.s3.amazonaws.com
-16.15.245.212                 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.252.87                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.254.136                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.183.196                 github-com.s3.amazonaws.com
+16.15.191.134                 github-cloud.s3.amazonaws.com
+16.15.191.91                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.213.101                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.245.225                 github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6683,6 +6683,7 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
+185.199.109.215               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6696,12 +6697,13 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
+185.199.110.153               github.io
+185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.110.215               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -6719,8 +6721,6 @@
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
-185.199.111.153               github.io
-185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
