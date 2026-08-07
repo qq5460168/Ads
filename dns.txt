@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-07 08:00:43（北京时间）
+! Version: 2026-08-07 15:16:02（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 145989
+! Total count: 146012
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -36,12 +36,15 @@
 ||*.3r5ia7l.xyz^
 ||*.4egscv.com^
 ||*.59p643.com^
+||*.5z3r02h.com^
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
+||*.636371.lifestyle^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
 ||*.8vx3zks.xyz^
+||*.9nm1ol2.com^
 ||*.9tjoj6.com^
 ||*.a48962121.top^
 ||*.acdnrvh.com^
@@ -51,6 +54,8 @@
 ||*.applovin.com^
 ||*.arbyyu.com^
 ||*.awkwla.cn^
+||*.awsrp4.com^
+||*.b26u62v.com^
 ||*.b5gvpk5.com^
 ||*.bg3partner.fun^
 ||*.bg4f8d.com^
@@ -86,6 +91,7 @@
 ||*.fohbgjv.com^
 ||*.fokm37.cn^
 ||*.ft33t3w.pro^
+||*.fyzermq.com^
 ||*.g0d679.com^
 ||*.g9hc4.cn^
 ||*.gdolr.cn^
@@ -93,6 +99,7 @@
 ||*.giqnyl.cn^
 ||*.guanaibao.com^
 ||*.h6jv1o.com^
+||*.h9bc7k.top^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -103,6 +110,7 @@
 ||*.jjoiw4.com^
 ||*.jjzemoc3ca.top^
 ||*.jqnljze.xyz^
+||*.jsak628.vip^
 ||*.jtkkkxy.com^
 ||*.juicyads.me^
 ||*.jvere.xyz^
@@ -116,11 +124,13 @@
 ||*.ky5683295.cc^
 ||*.laebu.cn^
 ||*.ligmd359543.vip^
+||*.lwaed631.vip^
 ||*.lxclli.cn^
 ||*.lzwrhiw.xyz^
 ||*.md410.cc^
 ||*.mise*.buzz^
 ||*.mkwqj.com^
+||*.mmdf645.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -146,6 +156,7 @@
 ||*.pnwix.cn^
 ||*.poeme.cn^
 ||*.ppfu3m.com^
+||*.pqwxf4b.com^
 ||*.qc.bsccdn.net^
 ||*.qgivvd.cn^
 ||*.qiuxl11.cn^
@@ -167,6 +178,7 @@
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
 ||*.u101vb.com^
+||*.u2ir3v.top^
 ||*.ud9ipy.com^
 ||*.ul2tos.cn^
 ||*.uryxw.com^
@@ -175,6 +187,7 @@
 ||*.va.huya.com^
 ||*.vkomjd.com^
 ||*.voiceads.cn^
+||*.vu1elrx.com^
 ||*.wacaoldy1.com^
 ||*.weilayun.com^
 ||*.wfojsm.com^
@@ -4857,6 +4870,7 @@
 ||679.skyf0rge.ru^
 ||67913.mobi^
 ||67a120c980.8f17d89ec7.com^
+||67evjpvdi.com^
 ||67fad39954.com^
 ||67h120.com^
 ||67it.com^
@@ -5103,6 +5117,7 @@
 ||6u2h.cn^
 ||6u88z6vx283i9un213m59x.cfd^
 ||6ujk8x9soxhm.com^
+||6un45sxmx.com^
 ||6us.cl0udtrace.ru^
 ||6ut6sdn1.clearvertex.digital^
 ||6uzxtlv.cn^
@@ -41938,6 +41953,7 @@
 ||dnus40re.xyz^
 ||dnvogsqirpcfq.space^
 ||dnvus.com^
+||dnweq5z5g.com^
 ||dnwmeaivtrhfp.site^
 ||dnxcok.pentik.com^
 ||dnxlgencstz4.cloudfront.net^
@@ -66218,6 +66234,7 @@
 ||izooksujeng.net^
 ||izopsg.icu^
 ||izopyfudakivh.online^
+||izq.lwaed633.vip^
 ||izqhkvwbmsfns.website^
 ||izremx.dentalplans.com^
 ||izrnvo.com^
@@ -99132,6 +99149,7 @@
 ||qou8q.boldf0nt.ru^
 ||qouwtyxfglrunq.net^
 ||qouxkn.natuurhuisje.nl^
+||qouy029.top^
 ||qovdtdoiazazm.site^
 ||qovorcfuiogbc.online^
 ||qovua60gue.tubewolf.com^
@@ -99415,6 +99433,7 @@
 ||qtgfeyhcqcrhx.space^
 ||qtgoiasqfgbgb.space^
 ||qtgyjrwkw.net^
+||qthw061.top^
 ||qtienly.top^
 ||qtj0.destinia.pl^
 ||qtjlciojkhkfl.website^
@@ -119516,6 +119535,7 @@
 ||swlogic.wpu.sh^
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
+||swmshpphnu2.com^
 ||swmswjvdpc.com^
 ||swog3mgt.openmatrix.digital^
 ||swohtiohvqa.com^
@@ -137684,6 +137704,7 @@
 ||wpwdwbunjutwd.online^
 ||wpwnejtixioio.website^
 ||wpwpquse.cn^
+||wpy.jsak634.vip^
 ||wpy6xuq4.xyz^
 ||wpyqtdqwvchml.site^
 ||wpyvue.idealwine.com^
@@ -138334,6 +138355,7 @@
 ||www.4195388.notify6.com^
 ||www.425kmk7n9wn21pwvl18.xyz^
 ||www.4270606.notify6.com^
+||www.437944.xyz^
 ||www.4389756.notify6.com^
 ||www.44-trk-srv.com^
 ||www.4465254.notify6.com^
@@ -138918,6 +138940,7 @@
 ||www.oita4bali.com^
 ||www.okc-5190.com^
 ||www.okc-5191.com^
+||www.ompkcy255.vip^
 ||www.on24-webinars.co.uk^
 ||www.operationintelligence7.com^
 ||www.opgame.me^
