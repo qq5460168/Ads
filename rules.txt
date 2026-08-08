@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-08 20:49:09（北京时间）
+! Version: 2026-08-09 02:37:29（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 156786
 
@@ -6613,6 +6613,7 @@
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
 110.43.121.249 hugeota.d.miui.com
+118.193.240.41                github.global.ssl.fastly.net  # Timeout
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##IFRAME[width='400']
 123.6.13.6 bigota.d.miui.com
@@ -6630,18 +6631,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
 140.82.112.18 github.community
 140.82.112.21                 collector.github.com
 140.82.112.21                 education.github.com
-140.82.112.25                 alive.github.com
+140.82.112.22                 api.individual.githubcopilot.com
 140.82.112.25 live.github.com
+140.82.113.17                 github.community
 140.82.113.21 collector.github.com
 140.82.113.22                 central.github.com
 140.82.113.22 central.github.com
 140.82.113.25                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.22                 api.individual.githubcopilot.com
+140.82.114.26                 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6659,14 +6660,13 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.107.3.176                 github.global.ssl.fastly.net  # Timeout
-150.171.110.103               vscode.dev
+150.171.110.98                vscode.dev
 151.101.76.133 raw.github.com
-16.15.191.164                 github-com.s3.amazonaws.com
-16.15.223.92                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.229.55                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.245.28                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.252.22                  github-cloud.s3.amazonaws.com
+16.15.191.45                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.135                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.213.25                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.237.88                  github-cloud.s3.amazonaws.com
+16.15.244.250                 github-com.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6699,7 +6699,6 @@
 185.199.108.133               private-user-images.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
-185.199.109.215               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6713,13 +6712,14 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
-185.199.110.153               github.io
-185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
+185.199.110.215               github.githubassets.com
+185.199.111.153               github.io
+185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6742,7 +6742,6 @@
 20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
-203.98.7.65                   gist.github.com  # Timeout
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
@@ -6775,6 +6774,7 @@
 45.116.79.187 av1.xdrig.com
 45.116.79.187 fakeloc.cc
 45.116.79.187 fakelocation.api.lerist.dev
+46.82.174.68                  gist.github.com  # Timeout
 47.102.115.14 translate-pa.googleapis.com
 47.102.115.14 translate.google.com
 47.102.115.14 translate.googleapis.com
