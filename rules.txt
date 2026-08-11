@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-11 09:46:56（北京时间）
+! Version: 2026-08-11 15:07:53（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156786
+! Total count: 156825
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6630,18 +6630,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
 140.82.112.18 github.community
 140.82.112.25 live.github.com
+140.82.112.26                 alive.github.com
 140.82.112.26                 live.github.com
-140.82.113.21                 education.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 api.individual.githubcopilot.com
-140.82.113.22                 collector.github.com
+140.82.113.22                 education.github.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
-140.82.114.22                 central.github.com
-140.82.114.26                 alive.github.com
+140.82.114.18                 github.community
+140.82.114.21                 api.individual.githubcopilot.com
+140.82.114.21                 central.github.com
+140.82.114.21                 collector.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6659,11 +6659,13 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.104               vscode.dev
+150.171.110.65                vscode.dev
 151.101.76.133 raw.github.com
-157.240.17.36                 github.global.ssl.fastly.net
-16.15.244.32                  github-production-user-asset-6210df.s3.amazonaws.com
-16.182.42.17                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.2                   github-production-user-asset-6210df.s3.amazonaws.com
+16.15.212.103                 github-cloud.s3.amazonaws.com
+16.15.253.21                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.254.51                  github-com.s3.amazonaws.com
+16.15.254.83                  github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6680,6 +6682,23 @@
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
 185.199.109.215               github.githubassets.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+185.199.110.133               cloud.githubusercontent.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.110.133               github.map.fastly.net
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
+185.199.110.133               private-user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6693,30 +6712,13 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
+185.199.110.153               github.io
+185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 lsposed.github.io
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
-185.199.111.133               github.map.fastly.net
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
-185.199.111.153               github.io
-185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6761,7 +6763,9 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
+31.13.84.34                   github.global.ssl.fastly.net
 31.216.145.5 mega.nz
+37.61.54.158                  gist.github.com  # Timeout
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -6776,9 +6780,6 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.26.156                 github-com.s3.amazonaws.com
-52.216.60.121                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.37.28                  github-cloud.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -6813,7 +6814,6 @@
 74.125.200.188 alt2-mtalk.google.com #SG
 74.125.200.188 alt8-mtalk.google.com
 74.125.204.188 alt3-mtalk.google.com
-78.16.49.15                   gist.github.com  # Timeout
 90mh.org##[style$='background-size: 393px 125px !important;']
 91porn.com#@#.vjs-preroll
 91porny.com###playerJsvLayer.jsv-layer
@@ -6847,6 +6847,12 @@
 @@||*-novelapp.fqnovelvod.com^
 @@||*-open-sign.byteimg.com^
 @@||*-open.byteimg.com^
+@@||*-verify.captcha-open-b.aliyuncs.com^
+@@||*-verify.captcha-open-ga-web-b.aliyuncs.com^
+@@||*-verify.captcha-open-ga-web.aliyuncs.com^
+@@||*-verify.captcha-open-southeast-b.aliyuncs.com^
+@@||*-verify.captcha-open-southeast.aliyuncs.com^
+@@||*-verify.captcha-open.aliyuncs.com^
 @@||*.*.szbdyd.com^
 @@||*.95516.com^
 @@||*.a.yximgs.com^
@@ -6854,6 +6860,16 @@
 @@||*.allawntech.com^
 @@||*.anjuke.com^
 @@||*.bblmw.cn^
+@@||*.captcha-open-b.aliyuncs.com^
+@@||*.captcha-open-dual-b.aliyuncs.com^
+@@||*.captcha-open-dual.aliyuncs.com^
+@@||*.captcha-open-ga-web-b.aliyuncs.com^
+@@||*.captcha-open-ga-web.aliyuncs.com^
+@@||*.captcha-open-southeast-b.aliyuncs.com^
+@@||*.captcha-open-southeast-dual-b.aliyuncs.com^
+@@||*.captcha-open-southeast-dual.aliyuncs.com^
+@@||*.captcha-open-southeast.aliyuncs.com^
+@@||*.captcha-open.aliyuncs.com^
 @@||*.cdninstagram.com^
 @@||*.cup.com.cn^
 @@||*.dbankcdn.cn^
@@ -7024,6 +7040,8 @@
 @@||anythinktech.com^
 @@||aod.cos.tx.xmcdn.com^
 @@||ap-*-*.agora.io^
+@@||ap-southeast-1-ga.device.saf.aliyuncs.com^
+@@||ap-southeast-1.device.saf.aliyuncs.com^
 @@||ap.6wz.co^
 @@||ap6.ssl.msdk.qq.com^
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^
@@ -7429,6 +7447,18 @@
 @@||cloud.realme.com^
 @@||cloud.video.taobao.com^
 @@||cloud.xunlei.com^
+@@||cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com^
+@@||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
+@@||cloudauth-device.aliyuncs.com^
+@@||cloudauth-device.ap-southeast-1.aliyuncs.com^
+@@||cloudauth-dualstack.aliyuncs.com^
+@@||cloudauth-dualstack.cn-beijing.aliyuncs.com^
+@@||cloudauth-dualstack.cn-shanghai.aliyuncs.com^
+@@||cloudauth-vpc.cn-beijing.aliyuncs.com^
+@@||cloudauth-vpc.cn-shanghai.aliyuncs.com^
+@@||cloudauth.aliyuncs.com^
+@@||cloudauth.cn-beijing.aliyuncs.com^
+@@||cloudauth.cn-shanghai.aliyuncs.com^
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudcontrol.live.360.cn^
 @@||clouddrive-activity.uc.cn^
@@ -7445,6 +7475,7 @@
 @@||cmts.iqiyi.com^
 @@||cn-*.bilivideo.cn^
 @@||cn-*.bilivideo.com^
+@@||cn-shanghai.device.saf.aliyuncs.com^
 @@||cn.app.chat.xiaomi.net^
 @@||cn.bing.com^
 @@||cn.ekg.riotgames.com^
@@ -9246,6 +9277,8 @@
 @@||stat6.y.qq.com^
 @@||static-*.xvideos-cdn.com^
 @@||static-beta.curseforge.com^
+@@||static-captcha-sgp.aliyuncs.com^
+@@||static-captcha.aliyuncs.com^
 @@||static-cdn77.xnxx-cdn.com^
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
@@ -9492,6 +9525,12 @@
 @@||upgrade.vivo.com^
 @@||upload-bbs.miyoushe.com^
 @@||upload-images.jianshu.io^
+@@||upload.captcha-open-b.aliyuncs.com^
+@@||upload.captcha-open-ga-web-b.aliyuncs.com^
+@@||upload.captcha-open-ga-web.aliyuncs.com^
+@@||upload.captcha-open-southeast-b.aliyuncs.com^
+@@||upload.captcha-open-southeast.aliyuncs.com^
+@@||upload.captcha-open.aliyuncs.com^
 @@||upload.jianshu.io^
 @@||upload.twitter.com^
 @@||upload.x.com^
