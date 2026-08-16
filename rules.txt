@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-16 02:29:44（北京时间）
+! Version: 2026-08-16 09:19:44（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 156825
 
@@ -6598,7 +6598,6 @@
 0.0.0.0 zwfw.mps.gov.cn
 0.0.0.0 zymo.mps.weibo.com
 0.0.0.0 zz.bdstatic.com
-103.228.130.27                github.global.ssl.fastly.net  # Timeout
 103.230.123.190 steamcommunity.com
 103.230.123.190 www.steamcommunity.com
 103.99.35.13 userstorage.mega.co.nz
@@ -6631,18 +6630,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
+140.82.112.18                 github.community
 140.82.112.18 github.community
+140.82.112.21                 education.github.com
 140.82.112.25 live.github.com
+140.82.112.26                 alive.github.com
 140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
-140.82.113.26                 alive.github.com
 140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-140.82.114.21                 collector.github.com
-140.82.114.21                 education.github.com
+140.82.114.22                 api.individual.githubcopilot.com
+140.82.114.22                 collector.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6660,14 +6659,12 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.104               vscode.dev
+150.171.110.103               vscode.dev
 151.101.76.133 raw.github.com
-159.24.3.173                  gist.github.com  # Timeout
-16.15.199.190                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.199.204                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.207.63                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.214.144                 github-com.s3.amazonaws.com
-16.15.252.11                  github-cloud.s3.amazonaws.com
+16.15.236.98                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.238.236                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.252.175                 github-com.s3.amazonaws.com
+16.15.254.120                 github-cloud.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6683,23 +6680,7 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               github.map.fastly.net
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
+185.199.108.215               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6718,7 +6699,23 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.110.215               github.githubassets.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 185.199.111.153               github.io
 185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
@@ -6743,6 +6740,7 @@
 20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
+203.98.7.65                   gist.github.com  # Timeout
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
@@ -6780,6 +6778,7 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
+52.217.65.36                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -6803,6 +6802,7 @@
 66.203.125.53 w.api.mega.co.nz
 66.203.125.56 mcd270n310.karere.mega.nz
 66.203.127.13 g.static.mega.co.nz
+66.220.149.18                 github.global.ssl.fastly.net  # Timeout
 72.247.96.248 api.pinterest.com
 72.247.96.248 i.pinimg.com
 72.247.96.248 pinterest.com
