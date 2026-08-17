@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-17 09:17:05（北京时间）
+! Version: 2026-08-17 14:55:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 146012
+! Total count: 146023
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -40,6 +40,7 @@
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
 ||*.636371.lifestyle^
+||*.6f2fd.com^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
@@ -100,6 +101,7 @@
 ||*.guanaibao.com^
 ||*.h6jv1o.com^
 ||*.h9bc7k.top^
+||*.hbshgll.cn^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -131,6 +133,7 @@
 ||*.mise*.buzz^
 ||*.mkwqj.com^
 ||*.mmdf645.vip^
+||*.mmdg731.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -145,6 +148,7 @@
 ||*.o96jic.com^
 ||*.obj23q.com^
 ||*.ochhnea.xyz^
+||*.olbbfulmed.com^
 ||*.ombuw.xyz^
 ||*.oneliner.cn^
 ||*.oweisik.top^
@@ -164,6 +168,7 @@
 ||*.retail.n.weimob.com^
 ||*.rfvjl.cn^
 ||*.rhjdc.com^
+||*.rhkd324.com^
 ||*.rtnwv.com^
 ||*.s8etj5.com^
 ||*.saxysec.com^
@@ -171,12 +176,14 @@
 ||*.siigck.xyz^
 ||*.sjpxfz.xyz^
 ||*.so04011koaq.com^
+||*.svxd326.vip^
 ||*.taoroad.com.cn^
 ||*.tap0102mzq.top^
 ||*.tbyfz.xyz^
 ||*.tfkoa.com^
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
+||*.twpvm.com^
 ||*.u101vb.com^
 ||*.u2ir3v.top^
 ||*.ud9ipy.com^
@@ -192,12 +199,14 @@
 ||*.weilayun.com^
 ||*.wfojsm.com^
 ||*.wknij.com^
+||*.wwbszy.com^
 ||*.wy2qq.top^
 ||*.x586di.com^
 ||*.x7jy10.com^
 ||*.xiangde.top^
 ||*.xpj2443430.cc^
 ||*.xqojux.xyz^
+||*.xsade391.vip^
 ||*.xwcphd.xyz^
 ||*.xxsp002.cyou^
 ||*.xzdabyw.xyz^
@@ -59595,6 +59604,7 @@
 ||hkkeafj.cn^
 ||hkkfbxwzlbjgt.space^
 ||hkkhsppnknkoy.space^
+||hkl.xiuseab222.vip^
 ||hklpbxcaikj.com^
 ||hknqnedmychml.online^
 ||hknztzqlkjzhc.space^
@@ -84546,7 +84556,6 @@
 ||msxmzbzmugbfm.store^
 ||msxphurwqbsil.website^
 ||msxxcxrktbrdn.site^
-||msync-im1-vip6-std.easemob.com^
 ||msypr.com^
 ||msz3.destinia.cn^
 ||mszbwywsbdgmm.space^
@@ -90924,6 +90933,7 @@
 ||orup.cn^
 ||oruxmvyydrvkr.website^
 ||orvex0.0rav2uterus.ru^
+||orvexlumin.698518.xyz^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
 ||orx5.par2ch0ld.ru^
@@ -140180,6 +140190,7 @@
 ||xhdooiqhqpinv.space^
 ||xhdyqtyl.com^
 ||xheqbc.cn^
+||xhffhsl.*.boutique^
 ||xhfgsffm.com^
 ||xhfhavppnxent.online^
 ||xhfisaouketwr.online^

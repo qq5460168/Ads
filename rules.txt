@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-17 09:17:05（北京时间）
+! Version: 2026-08-17 14:55:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 156825
+! Total count: 156834
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -130,7 +130,6 @@
 /_xa/ads
 /_xa/ads?
 /_xa/ads_
-/ad-sign.*/
 /adjs
 /api/LM/Report?placeUUID=$third-party
 /api/ad/*
@@ -158,15 +157,11 @@
 /biyys*hh.js$third-party
 /blxn_*_*_*?*$third-party
 /bugsnag.min.js$third-party
-/bytedance.*/
-/bytegoofy.*/
-/byteorge.*/
 /config/tj.js
 /css/ad.
 /delivery/afr.
 /dibu.adadadad
 /exads-adblock-3.10
-/fqnovelvod.*/
 /gameapk/*/hongbao.apk
 /get/*?zoneid=$script
 /gg/gg.js
@@ -193,11 +188,9 @@
 /js/pingbi.js
 /js/statistics/user_ad.js
 /js/tj.js
-/lf.fqnovel.*/
 /m.html?rmid=*&yd=
 /m.html?shareName=*&proxyAccount=
 /matomo.js$third-party
-/mgsdk-sign.*/
 /pangolin-sdk.*/
 /public/tingshu/foor.js$~third-party
 /redbaiduct.com?s=
@@ -206,7 +199,6 @@
 /show_ads_
 /sinaads/release/sinaads.js
 /site/mov*$third-party
-/snssdk.*/
 /static/2biqu/twgdh.js
 /static/83zg/tss.js
 /static/jietiandixs/jtd.js$~third-party
@@ -240,7 +232,6 @@
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
-/zijieapi.*/
 0.0.0.0 *-inapps.appsflyersdk.com
 0.0.0.0 *-launches.appsflyersdk.com
 0.0.0.0 *.bjmantis.net
@@ -6630,18 +6621,18 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
+140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.22                 api.individual.githubcopilot.com
-140.82.112.22                 collector.github.com
-140.82.112.25                 live.github.com
+140.82.112.21                 collector.github.com
+140.82.112.21                 education.github.com
+140.82.112.25                 alive.github.com
 140.82.112.25 live.github.com
-140.82.113.17                 github.community
-140.82.113.21                 education.github.com
+140.82.113.21                 api.individual.githubcopilot.com
 140.82.113.21 collector.github.com
 140.82.113.22                 central.github.com
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
-140.82.114.26                 alive.github.com
+140.82.114.26                 live.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
@@ -6661,11 +6652,12 @@
 146.75.48.133 release-assets.githubusercontent.com
 150.171.110.104               vscode.dev
 151.101.76.133 raw.github.com
-16.15.183.193                 github-cloud.s3.amazonaws.com
-16.15.191.13                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.207.236                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.229.226                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.237.156                 github-com.s3.amazonaws.com
+16.15.223.255                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.229.9                   github-cloud.s3.amazonaws.com
+16.15.252.12                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.252.181                 github-com.s3.amazonaws.com
+16.15.254.240                 github-production-user-asset-6210df.s3.amazonaws.com
+162.125.32.10                 github.global.ssl.fastly.net  # Timeout
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -6681,24 +6673,26 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               github.map.fastly.net
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.215               github.githubassets.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+185.199.109.133               cloud.githubusercontent.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+185.199.109.133               github.map.fastly.net
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
+185.199.109.133               private-user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
+185.199.109.153               github.io
+185.199.109.153               githubstatus.com
+185.199.109.215               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -6717,8 +6711,6 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.111.153               github.io
-185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -6734,7 +6726,6 @@
 192.0.80.242 secure.gravatar.com
 192.0.80.242 www.gravatar.com
 192.178.131.188 alt8-mtalk.google.com #US
-199.59.148.106                github.global.ssl.fastly.net  # Timeout
 20.200.245.245 api.github.com
 20.200.245.247 gist.github.com
 20.200.245.247 github.com
@@ -6764,8 +6755,8 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-243.185.187.39                gist.github.com  # Timeout
 31.216.145.5 mega.nz
+37.61.54.158                  gist.github.com  # Timeout
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -7061,6 +7052,7 @@
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-pay.soulapp.cn^
 @@||api-pda.jdl.com^
+@@||api-play.amemv.com^
 @@||api-push.meizu.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^
@@ -7885,6 +7877,7 @@
 @@||genshin.hoyoverse.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
+@@||getbootstrap.com^
 @@||ggpht.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
@@ -8297,6 +8290,7 @@
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf3-card-system.searchpstatp.com^
+@@||lf3-cdn-tos.bdxiguastatic.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytescm.com^
@@ -8393,6 +8387,7 @@
 @@||m.intl.taobao.com^
 @@||m.ip138.com^
 @@||m.iqiyi.com^
+@@||m.ixigua.com^
 @@||m.jd.com^
 @@||m.jf.10010.com^
 @@||m.jiaoyimao.com^
@@ -8809,6 +8804,7 @@
 @@||p3-tt.byteimg.com^
 @@||p3-webcast-sign.douyinpic.com^
 @@||p3-webcast.douyinpic.com^
+@@||p3.bdxiguaimg.com^
 @@||p3.dcarimg.com^
 @@||p3.douyinpic.com^
 @@||p4-ad.adukwai.com^
@@ -9794,6 +9790,7 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.itools.info^
+@@||www.ixigua.com^
 @@||www.javbangers.com^
 @@||www.jd.com^
 @@||www.jetbrains.com.cn^
@@ -9969,6 +9966,7 @@
 @@||yybadaccess.3g.qq.com^
 @@||yys.163.com^
 @@||yzg.wavee.cn^
+@@||z.ixigua.com^
 @@||z.weixin.qq.com^
 @@||zazhipu.com^
 @@||zconfig.alibabausercontent.com^
@@ -10448,6 +10446,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
 ||*.636371.lifestyle^
+||*.6f2fd.com^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
@@ -10508,6 +10507,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.guanaibao.com^
 ||*.h6jv1o.com^
 ||*.h9bc7k.top^
+||*.hbshgll.cn^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -10539,6 +10539,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.mise*.buzz^
 ||*.mkwqj.com^
 ||*.mmdf645.vip^
+||*.mmdg731.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -10553,6 +10554,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.o96jic.com^
 ||*.obj23q.com^
 ||*.ochhnea.xyz^
+||*.olbbfulmed.com^
 ||*.ombuw.xyz^
 ||*.oneliner.cn^
 ||*.org/config/v7.js
@@ -10573,6 +10575,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.retail.n.weimob.com^
 ||*.rfvjl.cn^
 ||*.rhjdc.com^
+||*.rhkd324.com^
 ||*.rtnwv.com^
 ||*.s8etj5.com^
 ||*.saxysec.com^
@@ -10580,12 +10583,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.siigck.xyz^
 ||*.sjpxfz.xyz^
 ||*.so04011koaq.com^
+||*.svxd326.vip^
 ||*.taoroad.com.cn^
 ||*.tap0102mzq.top^
 ||*.tbyfz.xyz^
 ||*.tfkoa.com^
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
+||*.twpvm.com^
 ||*.u101vb.com^
 ||*.u2ir3v.top^
 ||*.ud9ipy.com^
@@ -10601,12 +10606,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.weilayun.com^
 ||*.wfojsm.com^
 ||*.wknij.com^
+||*.wwbszy.com^
 ||*.wy2qq.top^
 ||*.x586di.com^
 ||*.x7jy10.com^
 ||*.xiangde.top^
 ||*.xpj2443430.cc^
 ||*.xqojux.xyz^
+||*.xsade391.vip^
 ||*.xwcphd.xyz^
 ||*.xxsp002.cyou^
 ||*.xzdabyw.xyz^
@@ -70174,6 +70181,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hkkeafj.cn^
 ||hkkfbxwzlbjgt.space^
 ||hkkhsppnknkoy.space^
+||hkl.xiuseab222.vip^
 ||hklpbxcaikj.com^
 ||hknqnedmychml.online^
 ||hknztzqlkjzhc.space^
@@ -95209,7 +95217,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||msxmzbzmugbfm.store^
 ||msxphurwqbsil.website^
 ||msxxcxrktbrdn.site^
-||msync-im1-vip6-std.easemob.com^
 ||msypr.com^
 ||msz3.destinia.cn^
 ||mszbwywsbdgmm.space^
@@ -101601,6 +101608,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||orup.cn^
 ||oruxmvyydrvkr.website^
 ||orvex0.0rav2uterus.ru^
+||orvexlumin.698518.xyz^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
 ||orx5.par2ch0ld.ru^
@@ -150969,6 +150977,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xhdooiqhqpinv.space^
 ||xhdyqtyl.com^
 ||xheqbc.cn^
+||xhffhsl.*.boutique^
 ||xhfgsffm.com^
 ||xhfhavppnxent.online^
 ||xhfisaouketwr.online^
