@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-08 18:44:55（北京时间）
+! Version: 2026-09-09 00:08:44（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 146025
+! Total count: 146046
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -12338,6 +12338,7 @@
 ||ad-analysis.pconline.com.cn^
 ||ad-android.51wnl.com^
 ||ad-api-log.colopl.jp^
+||ad-api.4pyun.com^
 ||ad-api.adn-plus.com.cn^
 ||ad-api.cnblogs.com^
 ||ad-api.ehawk.com^
@@ -12373,6 +12374,7 @@
 ||ad-ebis.bookpass.auone.jp^
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-ebis.toysub.jp^
+||ad-files.4pyun.com^
 ||ad-files.classting.com^
 ||ad-flow.com^
 ||ad-ga.nocode.com^
@@ -12697,6 +12699,7 @@
 ||ad.mail.sohu.com^
 ||ad.mailo.com^
 ||ad.mangareader.net^
+||ad.maoyan.com^
 ||ad.mazc.org^
 ||ad.mcloud.139.com^
 ||ad.mdmd.info^
@@ -14279,6 +14282,7 @@
 ||ads.feelingtouch.com^
 ||ads.ferianc.com^
 ||ads.filmup.com^
+||ads.finance.yahoo.com^
 ||ads.financialcontent.com^
 ||ads.flooble.com^
 ||ads.flurry.com^
@@ -15379,6 +15383,7 @@
 ||adx-open-service.youku.com^
 ||adx-os-req.anythinktech.com^
 ||adx-os.anythinktech.com^
+||adx-os.bridgeoos.com^
 ||adx-saas.advlion.com^
 ||adx-static.ksosoft.com^
 ||adx-strategy-api-cn.statisticslinks.com^
@@ -17048,6 +17053,7 @@
 ||allsprang.com^
 ||allstarfg.actonservice.com^
 ||allstat-pp.ru^
+||alltbcsp2p.baidu.com^
 ||alludedeagle.com^
 ||alludedrusty.com^
 ||allure-ng.net^
@@ -33319,6 +33325,7 @@
 ||commercial.daznservices.com^
 ||commercial.equifax.com^
 ||commercial.inform.equifax.com^
+||commercial.shouji.360.cn^
 ||commercialregretful.com^
 ||commercialvalue.org^
 ||commiescimaise.cyou^
@@ -47919,6 +47926,7 @@
 ||eventsv2balanced.malpagames.com^
 ||eventtracking.hubapi.com^
 ||eventuryremov.com^
+||eventv1.leidong.rayenergytech.com^
 ||eventweepinghoarse.com^
 ||evenyumbroadlywitharmoire.com^
 ||ever8trk.com^
@@ -60912,8 +60920,10 @@
 ||huo07161hy.com^
 ||huo07170hy.com^
 ||huobjyrgiqftf.site^
+||huodong.ios.shouji.360.cn^
 ||huodong.pl.youku.com^
 ||huodong.vip.youku.com^
+||huodong.weibo.cn^
 ||huohuo.huamuwo.com^
 ||huoju.asia^
 ||hupot.site^
@@ -61554,10 +61564,12 @@
 ||iad0ssl.pcauto.com.cn^
 ||iad0ssl.pconline.com.cn^
 ||iadc.qwapi.com^
+||iadcontent.apple.com^
 ||iadctest.qwapi.com^
 ||iadfeed.iad.apple.com^
 ||iadmatapk.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^
+||iadmoo.apple.com^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
 ||iadnet.com^
@@ -64680,6 +64692,7 @@
 ||init.phpwind.com^
 ||init.phpwind.net^
 ||init.startappexchange.com^
+||init.supersonicads.com^
 ||initalshallon.cfd^
 ||initcorinna.cyou^
 ||initiallybrigadebookstore.com^
@@ -64728,6 +64741,7 @@
 ||inncreasukedrev.info^
 ||inner-active.com^
 ||inner-active.mobi^
+||inner-hw.huazirc.com^
 ||inner.se1fve5ky.ru^
 ||innerskinresearch.com^
 ||innervetrollop.help^
@@ -71143,6 +71157,7 @@
 ||kwnvylweylven.online^
 ||kwo-0115.cc^
 ||kwpgeebopaqpn.site^
+||kwpush.kuwo.cn^
 ||kwpxgsriggx.com^
 ||kwpybyoocw.com^
 ||kwqpix.ravenna.gr^
@@ -75342,6 +75357,7 @@
 ||logreport-global-dual.coolbcloud.com^
 ||logreport-global-dual.coolhcloud.com^
 ||logs-api.shoprunner.com^
+||logs-bigdata.yeehaw.com.cn^
 ||logs-ingress.svc.vinted.com^
 ||logs-partners.coupang.com^
 ||logs-sg.rebxgame.com^
@@ -75404,6 +75420,7 @@
 ||logtj.kugou.com^
 ||logua.com^
 ||logupdate.avlyun.sec.miui.com^
+||logv2.ireader.com^
 ||logv2.kienthuc.net.vn^
 ||logv2.mp3.zing.vn^
 ||logv3.metric.vn^
@@ -96686,6 +96703,7 @@
 ||prollerotolite.shop^
 ||prologue23.com^
 ||prolongmetrise.help^
+||prom-sdkv2.jysper.net^
 ||prom.b.qq.com^
 ||prom.gome.com.cn^
 ||promblarina.help^
@@ -101744,6 +101762,7 @@
 ||report.appmetrica.yandex.net.iberostar.com^
 ||report.cms.qq.com^
 ||report.csslcloud.net^
+||report.dxunion.cn^
 ||report.iciba.com^
 ||report.imtt.qq.com^
 ||report.mediahub.vn^
@@ -125931,6 +125950,7 @@
 ||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-mw-zlivestream.zapps.vn^
+||tracker-prd.aldi.com.cn^
 ||tracker-rec.smart-bdash.com^
 ||tracker-remp.active.radio^
 ||tracker-remp.magyarnarancs.hu^
@@ -130187,6 +130207,7 @@
 ||unimportantcell.pro^
 ||union-httpdns.gslb.yy.com^
 ||union-mlog.bigda.com^
+||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||union-wifi.com^
 ||union.360.cn^
 ||union.6.cn^
