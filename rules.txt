@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-16 18:52:18（北京时间）
+! Version: 2026-10-17 00:12:21（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 161330
 
@@ -11029,6 +11029,7 @@
 127.0.0.1 zwfw.mps.gov.cn
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
+128.121.243.107               github.global.ssl.fastly.net  # Timeout
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.224.163.98 api.themoviedb.org
@@ -11037,16 +11038,16 @@
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
 140.82.112.18 github.community
-140.82.112.21                 central.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.21                 api.individual.githubcopilot.com
+140.82.112.21                 collector.github.com
+140.82.112.22                 education.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 collector.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 education.github.com
 140.82.113.26 alive.github.com
 140.82.114.17                 github.community
+140.82.114.22                 central.github.com
+140.82.114.25                 live.github.com
 140.82.114.26                 alive.github.com
-140.82.114.26                 live.github.com
 142.250.107.188 alt6-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt7-mtalk.google.com #US
@@ -11067,12 +11068,11 @@
 146.75.48.133 release-assets.githubusercontent.com
 150.171.110.100               vscode.dev
 151.101.76.133 raw.github.com
-157.240.8.50                  github.global.ssl.fastly.net
-16.15.213.192                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.253.115                 github-com.s3.amazonaws.com
-16.15.254.108                 github-cloud.s3.amazonaws.com
-16.15.254.171                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.255.32                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.171.105                 github-com.s3.amazonaws.com
+16.15.191.199                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.219                 github-cloud.s3.amazonaws.com
+16.15.228.7                   github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.252.0                   github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -11118,13 +11118,13 @@
 185.199.110.133 github.io
 185.199.110.133 objects.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
-185.199.110.153               github.io
-185.199.110.153               githubstatus.com
 185.199.110.153 githubstatus.com
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.111.215               github.githubassets.com
+185.199.110.215               github.githubassets.com
+185.199.111.153               github.io
+185.199.111.153               githubstatus.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -11145,6 +11145,7 @@
 20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
+203.98.7.65                   gist.github.com  # Timeout
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
@@ -11177,7 +11178,6 @@
 45.116.79.187 av1.xdrig.com
 45.116.79.187 fakeloc.cc
 45.116.79.187 fakelocation.api.lerist.dev
-46.82.174.68                  gist.github.com  # Timeout
 47.102.115.14 translate-pa.googleapis.com
 47.102.115.14 translate.google.com
 47.102.115.14 translate.googleapis.com
