@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-22 19:17:37（北京时间）
+! Version: 2026-10-23 00:45:18（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 146092
+! Total count: 146099
 ||*-*-*-lrycfv.vip^
 ||*-ad-sign.byteimg.com^
 ||*-ad-union-sdk.pglstatp-toutiao.com^
@@ -26499,6 +26499,7 @@
 ||booneeptou.net^
 ||boortquaighs.shop^
 ||booseed.com^
+||boost-cmp.hismarttv.com^
 ||boost-next.co.jp^
 ||boost.bu1gep2lest.ru^
 ||boostads.net^
@@ -63432,6 +63433,7 @@
 ||imoodrikauch.net^
 ||imorajqpyrpdm.site^
 ||imp-adedge.i-mobile.co.jp^
+||imp-cmp.hismarttv.com^
 ||imp-toutiao-data.37.com.cn^
 ||imp.accesstra.de^
 ||imp.ad-plus.cn^
@@ -74711,6 +74713,7 @@
 ||loader.wort-suchen.de^
 ||loader.woxikon.de^
 ||loadercdn.com^
+||loading-cmp.hismarttv.com^
 ||loading-delivery2.com^
 ||loading.baofeng5.baofeng.net^
 ||loading321.com^
@@ -84489,6 +84492,7 @@
 ||msexpwlqpfcbr.site^
 ||msffwvyhsapxgw.net^
 ||msfvwi.sieuthiyte.com.vn^
+||msg-cmp.hismarttv.com^
 ||msg-em.hismarttv.com^
 ||msg-intl.qy.net^
 ||msg-na.hismarttv.com^
@@ -92862,6 +92866,7 @@
 ||pastelentirely.com^
 ||pasteljav128.fun^
 ||pastelspittle.com^
+||paster-cmp.hismarttv.com^
 ||pastieschechia.cyou^
 ||pastrevolution.pro^
 ||pastryhobbled.com^
@@ -101109,6 +101114,7 @@
 ||reclineonseteducational.com^
 ||reclinetunepollen.com^
 ||reclod.com^
+||recmd-cmp.hismarttv.com^
 ||recmd.html5.qq.com^
 ||recmeeshebsougn.net^
 ||reco.target2sell.com^
@@ -101967,6 +101973,7 @@
 ||reson8.com^
 ||resonance.pk^
 ||resort1266.fun^
+||resource-cmp.hismarttv.com^
 ||resource.ad-scope.com.cn^
 ||resource.baomihua.com^
 ||resource.fjhongbo.com^
