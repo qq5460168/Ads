@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-24 18:25:49（北京时间）
+! Version: 2026-10-24 23:30:38（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 161340
+! Total count: 161341
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11030,6 +11030,7 @@
 127.0.0.1 zwfw.mps.gov.cn
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
+128.242.240.125               github.global.ssl.fastly.net  # Timeout
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.224.163.98 api.themoviedb.org
@@ -11037,17 +11038,17 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.18                 github.community
+140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.21                 central.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.21                 education.github.com
 140.82.112.25 live.github.com
+140.82.113.21                 api.individual.githubcopilot.com
+140.82.113.21                 central.github.com
 140.82.113.21                 collector.github.com
-140.82.113.21                 education.github.com
 140.82.113.21 collector.github.com
-140.82.113.26                 alive.github.com
-140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
+140.82.114.25                 alive.github.com
+140.82.114.25                 live.github.com
 142.250.107.188 alt6-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt7-mtalk.google.com #US
@@ -11066,13 +11067,13 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.107               vscode.dev
+150.171.110.106               vscode.dev
 151.101.76.133 raw.github.com
-16.15.199.136                 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.214.77                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.228.148                 github-com.s3.amazonaws.com
-16.15.228.48                  github-cloud.s3.amazonaws.com
-16.15.252.106                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.167.108                 github-com.s3.amazonaws.com
+16.15.183.164                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.213.135                 github-cloud.s3.amazonaws.com
+16.15.239.104                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.252.93                  github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -11124,7 +11125,7 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.110.215               github.githubassets.com
+185.199.111.215               github.githubassets.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -11138,7 +11139,6 @@
 192.0.80.242 s.gravatar.com
 192.0.80.242 secure.gravatar.com
 192.0.80.242 www.gravatar.com
-199.16.156.40                 github.global.ssl.fastly.net  # Timeout
 20.200.245.245 api.github.com
 20.200.245.247 gist.github.co
 20.200.245.247 github.com
@@ -14446,6 +14446,7 @@ baidu.com##.barea-ad
 baidu.com##.brand-entry
 baidu.com##.c-result.result[srcid='mkt_ad_space']
 baidu.com##.cos-rich-video-player-video
+baidu.com##.detail-banner-new
 baidu.com##.drag-wrap
 baidu.com##.ec-ad
 baidu.com##.ec-result-inner
