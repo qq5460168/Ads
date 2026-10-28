@@ -436,7 +436,9 @@
 @@||app.home.360.cn^
 @@||app.huabao.360.cn^
 @@||app.market.xiaomi.com^
+@@||app.mi.com^
 @@||app.toutiao.com^
+@@||app.xiaomi.com^
 @@||app.zhuanzhuan.com^
 @@||appcenter.ms^
 @@||appcfg.v.qq.com^
@@ -463,6 +465,7 @@
 @@||aps.amap.com^
 @@||aq.qq.com^
 @@||archive.biliimg.com^
+@@||archive.stardock.com^
 @@||arenascan.com^
 @@||article.zlink.toutiao.com^
 @@||as.weixin.qq.com^
@@ -803,6 +806,7 @@
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com^
 @@||coop.voicecloud.cn^
+@@||copilot.tencent.com^
 @@||core.tantanapp.com^
 @@||cos.ap-bangkok.myqcloud.com^
 @@||cos.ap-beijing-1.myqcloud.com^
@@ -1116,6 +1120,8 @@
 @@||fonts.gstatic.com^
 @@||forum.trae.cn^
 @@||forums.oneplus.com^
+@@||forums.stardock.com^
+@@||forums.stardock.net^
 @@||foundation.youdao.com^
 @@||fourhoi.com^
 @@||fourier-videoclip-eu.allawnos.com^
@@ -1339,6 +1345,7 @@
 @@||id.uc.cn^
 @@||id1.cloud.huawei.com^
 @@||id6.me^
+@@||identity.stardock.com^
 @@||idmb.register.xmpush.global.xiaomi.com^
 @@||idmsa.apple.com^
 @@||ietheivaicai.com^
@@ -2823,6 +2830,7 @@
 @@||upage.imtt.qq.com^
 @@||updata.miui.com^
 @@||update.360safe.com^
+@@||update.appstore.vivo.com.cn^
 @@||update.hicloud.com^
 @@||update.huorong.cn^
 @@||update.vivo.com^
@@ -3173,6 +3181,8 @@
 @@||www.siyuan-note.club^
 @@||www.so.com^
 @@||www.spaceship.com^
+@@||www.stardock.com^
+@@||www.stardock.net^
 @@||www.sygjx.com^
 @@||www.taobao.com^
 @@||www.taptap.cn^
