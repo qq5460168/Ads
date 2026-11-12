@@ -1,7 +1,7 @@
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-11-12 08:08:23（北京时间）
-# 总域名数: 3054
+# 生成时间: 2026-11-12 22:44:58（北京时间）
+# 总域名数: 3058
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -702,6 +702,7 @@ debugtbs.qq.com
 defaultts.tc.qq.com
 detail.meizu.com
 detail.zol.com.cn
+dev.mi.com
 dev.miuiflash.com
 develope-oss.lanzoug.com
 developer.extscreen.com
@@ -1108,6 +1109,7 @@ huichuan-mc.sm.cn
 huichuan.sm.cn
 huluxia.com
 hwinfo1.zuimeitianqi.com
+hyperos.developer.xiaomi.com
 i.dell.com
 i.fotao9.com
 i.gtimg.cn
@@ -1254,6 +1256,7 @@ intro.limestart.cn
 io75a.ocloud.heytapmobi.com
 ios.bugly.qq.com
 ios.crashsight.qq.com
+iot.mi.com
 ip.900cha.com
 ip.cn
 ip.rtbasia.com
@@ -1602,6 +1605,7 @@ micloud.xiaomi.net
 midas.gtimg.cn
 mime.baidu.com
 mimg.127.net
+mimo.mi.com
 mini-game-gl.heytapmobile.com
 mini2015.qq.com
 miniapp.gtimg.cn

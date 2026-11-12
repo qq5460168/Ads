@@ -114,6 +114,7 @@
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
 .xyz:*/js/b.php?v=*
+/(^|[._\/-])ads?([._\/-]|$)/
 /*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
@@ -11030,16 +11031,16 @@
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 133.237.176.198 hb.afl.rakuten.co.jp
-140.82.112.17                 github.community
+140.82.112.18                 github.community
 140.82.112.18 github.community
+140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.22                 central.github.com
+140.82.112.22                 education.github.com
 140.82.112.25 live.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 api.individual.githubcopilot.com
-140.82.113.25                 alive.github.com
-140.82.113.25                 live.github.com
+140.82.113.26                 alive.github.com
+140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 central.github.com
-140.82.114.21                 education.github.com
 140.82.114.22                 collector.github.com
 142.250.107.188 alt6-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -11055,17 +11056,17 @@
 142.251.127.188 alt5-mtalk.google.com #JP
 142.251.170.188 alt1-mtalk.google.com #TW
 142.251.8.188 alt6-mtalk.google.com
+146.75.45.194                 github.global.ssl.fastly.net
 146.75.48.133 media.githubusercontent.com
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-150.171.110.105               vscode.dev
+150.171.110.70                vscode.dev
 151.101.76.133 raw.github.com
-16.15.237.249                 github-cloud.s3.amazonaws.com
-16.15.245.252                 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.246.76                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.252.23                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.255.140                 github-com.s3.amazonaws.com
+16.15.183.16                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.199.157                 github-cloud.s3.amazonaws.com
+16.15.215.165                 github-com.s3.amazonaws.com
+16.15.253.120                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
@@ -11080,23 +11081,23 @@
 183.136.207.132 ultimateota.d.miui.com
 184.85.65.125 steamcommunity.com
 184.85.65.125 www.steamcommunity.com
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-185.199.110.133               cloud.githubusercontent.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-185.199.110.133               github.map.fastly.net
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
-185.199.110.133               private-user-images.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+185.199.109.133               cloud.githubusercontent.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+185.199.109.133               github.map.fastly.net
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
+185.199.109.133               private-user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -11116,7 +11117,7 @@
 185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com  #网页排版
-185.199.111.215               github.githubassets.com
+185.199.110.215               github.githubassets.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -11134,10 +11135,10 @@
 20.200.245.247 gist.github.co
 20.200.245.247 github.com
 20.205.243.165                codeload.github.com
+20.205.243.166                gist.github.com
 20.205.243.166                github.com
 20.205.243.168                api.github.com
 20.43.185.14 github.dev
-203.98.7.65                   gist.github.com  # Timeout
 208.80.154.224 zh.wikipedia.org
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
@@ -11160,7 +11161,6 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-31.13.64.7                    github.global.ssl.fastly.net  # Timeout
 31.216.145.5 mega.nz
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -11176,6 +11176,7 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
+52.217.118.26                 github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
@@ -12013,6 +12014,7 @@
 @@||defaultts.tc.qq.com^
 @@||detail.meizu.com^
 @@||detail.zol.com.cn^
+@@||dev.mi.com^
 @@||dev.miuiflash.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
@@ -12419,6 +12421,7 @@
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
 @@||huluxia.com^
+@@||hyperos.developer.xiaomi.com^
 @@||i.dell.com^
 @@||i.fotao9.com^
 @@||i.gtimg.cn^
@@ -12568,6 +12571,7 @@
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.crashsight.qq.com^
+@@||iot.mi.com^
 @@||ip*.ahcdn.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -12929,6 +12933,7 @@
 @@||midas.gtimg.cn^
 @@||mime.baidu.com^
 @@||mimg.127.net^
+@@||mimo.mi.com^
 @@||mini-game-gl.heytapmobile.com^
 @@||mini2015.qq.com^
 @@||miniapp.gtimg.cn^
@@ -63748,6 +63753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||f7dcc97ce6.com^
 ||f7eiavl95.com^
 ||f7nm8f7u.mi5tpath.ru^
+||f7qh.top^
 ||f7r.cn^
 ||f7tkpjw6v.com^
 ||f7ugx6b863.com^
@@ -156618,6 +156624,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xn--czru2dx3eszw3lat53b.com^
 ||xn--gov-x68dy61b.shop^
 ||xn--h6qpop2cq9nl9c.pages.dev^
+||xn--jc2a749bpa.com^
 ||xn--jor0b302fdhgwnccw8g.com^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^

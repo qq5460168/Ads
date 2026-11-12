@@ -1039,6 +1039,7 @@
 @@||defender.microsoft.com^$important
 @@||detail.meizu.com^
 @@||detail.zol.com.cn^
+@@||dev.mi.com^
 @@||dev.miuiflash.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.extscreen.com^
@@ -1510,6 +1511,7 @@
 @@||huluxia.com^
 @@||humb.apple.com^$important
 @@||hwinfo1.zuimeitianqi.com^
+@@||hyperos.developer.xiaomi.com^
 @@||i.dell.com^
 @@||i.fotao9.com^
 @@||i.gtimg.cn^
@@ -1676,6 +1678,7 @@
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.crashsight.qq.com^
+@@||iot.mi.com^
 @@||ip*.ahcdn.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -2076,6 +2079,7 @@
 @@||midas.gtimg.cn^
 @@||mime.baidu.com^
 @@||mimg.127.net^
+@@||mimo.mi.com^
 @@||mini-game-gl.heytapmobile.com^
 @@||mini2015.qq.com^
 @@||miniapp.gtimg.cn^
