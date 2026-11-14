@@ -14149,6 +14149,7 @@
 ||ads-video-1251524319.cos.ap-shanghai.myqcloud.com^
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
+||ads-vp5.xhscdn.com^
 ||ads-yallo-production.imgix.net^
 ||ads.*.kugou.com^
 ||ads.123net.jp^
@@ -32211,6 +32212,7 @@
 ||client-telemetry-preauth.hingeprod.net^
 ||client-telemetry.hingeprod.net^
 ||client-telemetry.roblox.com^
+||client-upload.cn-shanghai.log.aliyuncs.com^
 ||client.88tours.com^
 ||client.botchk.net^
 ||client.perimeterx.net^
@@ -43155,6 +43157,7 @@
 ||dtzoenoduqopn.space^
 ||dtzrrz.green-japan.com^
 ||dtzvavrnbzemd.space^
+||du-app.cn-hangzhou.log.aliyuncs.com^
 ||du.jd.com^
 ||du002iv2rxh4h.cloudfront.net^
 ||du01z5hhojprz.cloudfront.net^
@@ -109105,6 +109108,8 @@
 ||shigao.icu^
 ||shigl.top^
 ||shigongjishu.cn^
+||shihuo-new.log.shihuocdn.cn^
+||shihuo.log.shihuocdn.cn^
 ||shiitehunyak.cfd^
 ||shijitiankai.cn^
 ||shijixinrui.cn^
