@@ -32458,6 +32458,7 @@
 ||cloudconf.fengkongcloud.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudflare.st^
+||cloudflareinsights.com^
 ||cloudflrcdn.com^
 ||cloudford.grayford.in.net^
 ||cloudformix.net^
@@ -131231,6 +131232,7 @@
 ||usnihqekssbkq.space^
 ||usninchopas.cyou^
 ||usninleed.cfd^
+||usnorbert.com^
 ||usnvuj.skillfactory.ru^
 ||usonar.jp^
 ||usouokopeukasrs.org^
