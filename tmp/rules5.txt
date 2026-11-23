@@ -69,6 +69,7 @@
 0.0.0.0 c1.gdt.qq.com
 0.0.0.0 c3.gdt.qq.com
 0.0.0.0 c6.y.qq.com
+
 0.0.0.0 cc.oceanengine.com
 0.0.0.0 cdn-api-auth.flysleep.cn
 0.0.0.0 cdn-api-auth.zztfly.com
@@ -6005,10 +6006,7 @@
 0.0.0.0 track.aso1.net
 0.0.0.0 delivery-node-aziz.voe-network.net
 
-#themoviedb
-99.84.133.50 www.themoviedb.org
-169.150.249.166 image.tmdb.org
-54.192.18.90 themoviedb.org
+
 
 #一加官方ROM下载
 23.48.224.239 oxygenos.oneplus.net
