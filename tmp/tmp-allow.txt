@@ -2380,6 +2380,8 @@
 @@||mss0.bdstatic.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||msync-im1-vip6-std.easemob.com^
+@@||mum.alibabachengdun.com^
+@@||mum.alibabachengdun.net^
 @@||mumu.163.com^
 @@||music.163.com^
 @@||music.apple.com^

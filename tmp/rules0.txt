@@ -75,8 +75,6 @@
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||dns2.q2cdn.com^
-||dns.weixin.qq.com^
-||dns.weixin.qq.com.cn^
 ||httpdns.kg.qq.com^
 ||httpdns.browser.miui.com^
 ||resolver.msg.xiaomi.net^
@@ -1041,7 +1039,6 @@
 ||log.tpns.tencent.com^
 ||adcdn6.tencentmusic.com^
 ||tencent-dtv.m.cn.miaozhen.com^
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
 
 #蜻蜓FM
 ||adlog.qingting.fm^
@@ -1775,7 +1772,12 @@
 ||tracking.umeng.com^
 
 #18+不良网站
-||1.huanle739.cc^$important
+
+||i1.go2yd.com^
+||022022.cc^
+||tb6999.com^
+||256kpdz.com^
+huanle739.cc^$important
 ||3.se2208hu.cc^$important
 ||7600mqsv.njoomsj4.top^$important
 ||kd2bchz.qinall.com^$important

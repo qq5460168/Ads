@@ -1940,6 +1940,7 @@
 ||2551910ed4.com^
 ||2560.fd.mobile.tv.sms13.de^
 ||25662zubo23739.com^
+||256kpdz.com^
 ||256ppp.com^
 ||25801.pro^
 ||25871.pink^
@@ -41964,7 +41965,6 @@
 ||dns.qq.com^
 ||dns.wechat.com^
 ||dns.weibo.cn^
-||dns.weixin.qq.com.cn^
 ||dns.weixin.qq.com^
 ||dns05.com^
 ||dns2.q2cdn.com^
@@ -61469,6 +61469,7 @@
 ||i0k.cn^
 ||i0y0i9vz0.com^
 ||i1.bra9lupt5ev.ru^
+||i1.go2yd.com^
 ||i10.mayoblast.com^
 ||i11.mayoblast.com^
 ||i1236.net^
@@ -121558,6 +121559,7 @@
 ||tb104x.corp.youdao.com^
 ||tb1mdkeni.com^
 ||tb4gv2cp5z.com^
+||tb6999.com^
 ||tba.smrtp.link^
 ||tbao684tryo.com^
 ||tbaocdn.com^

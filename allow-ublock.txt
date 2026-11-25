@@ -1,7 +1,7 @@
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-11-25 15:21:44（北京时间）
-# 总域名数: 3058
+# 生成时间: 2026-11-26 05:11:14（北京时间）
+# 总域名数: 3060
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -1693,6 +1693,8 @@ msn.yidianzixun.com
 mss0.bdstatic.com
 mssdk3-normal-lf.zijieapi.com
 msync-im1-vip6-std.easemob.com
+mum.alibabachengdun.com
+mum.alibabachengdun.net
 mumu.163.com
 music.163.com
 music.apple.com
